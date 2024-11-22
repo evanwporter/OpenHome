@@ -1,0 +1,9076 @@
+{
+  "NONE": [
+    {
+      "name": "NONE",
+      "number": 0,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "BULBASAUR": [
+    {
+      "name": "BULBASAUR",
+      "number": 1,
+      "nationalDex": 1,
+      "formeNumber": 0
+    }
+  ],
+  "IVYSAUR": [
+    {
+      "name": "IVYSAUR",
+      "number": 2,
+      "nationalDex": 2,
+      "formeNumber": 0
+    }
+  ],
+  "VENUSAUR": [
+    {
+      "name": "VENUSAUR",
+      "number": 3,
+      "nationalDex": 3,
+      "formeNumber": 0
+    },
+    {
+      "name": "VENUSAUR_MEGA",
+      "number": 899,
+      "nationalDex": 3,
+      "formeNumber": 1
+    }
+  ],
+  "CHARMANDER": [
+    {
+      "name": "CHARMANDER",
+      "number": 4,
+      "nationalDex": 4,
+      "formeNumber": 0
+    }
+  ],
+  "CHARMELEON": [
+    {
+      "name": "CHARMELEON",
+      "number": 5,
+      "nationalDex": 5,
+      "formeNumber": 0
+    }
+  ],
+  "CHARIZARD": [
+    {
+      "name": "CHARIZARD",
+      "number": 6,
+      "nationalDex": 6,
+      "formeNumber": 0
+    },
+    {
+      "name": "CHARIZARD_MEGA_X",
+      "number": 900,
+      "nationalDex": 6,
+      "formeNumber": 1
+    },
+    {
+      "name": "CHARIZARD_MEGA_Y",
+      "number": 901,
+      "nationalDex": 6,
+      "formeNumber": 2
+    }
+  ],
+  "SQUIRTLE": [
+    {
+      "name": "SQUIRTLE",
+      "number": 7,
+      "nationalDex": 7,
+      "formeNumber": 0
+    }
+  ],
+  "WARTORTLE": [
+    {
+      "name": "WARTORTLE",
+      "number": 8,
+      "nationalDex": 8,
+      "formeNumber": 0
+    }
+  ],
+  "BLASTOISE": [
+    {
+      "name": "BLASTOISE",
+      "number": 9,
+      "nationalDex": 9,
+      "formeNumber": 0
+    },
+    {
+      "name": "BLASTOISE_MEGA",
+      "number": 902,
+      "nationalDex": 9,
+      "formeNumber": 1
+    }
+  ],
+  "CATERPIE": [
+    {
+      "name": "CATERPIE",
+      "number": 10,
+      "nationalDex": 10,
+      "formeNumber": 0
+    }
+  ],
+  "METAPOD": [
+    {
+      "name": "METAPOD",
+      "number": 11,
+      "nationalDex": 11,
+      "formeNumber": 0
+    }
+  ],
+  "BUTTERFREE": [
+    {
+      "name": "BUTTERFREE",
+      "number": 12,
+      "nationalDex": 12,
+      "formeNumber": 0
+    },
+    {
+      "name": "BUTTERFREE_MEGA",
+      "number": 1208,
+      "nationalDex": 12,
+      "formeNumber": 1
+    }
+  ],
+  "WEEDLE": [
+    {
+      "name": "WEEDLE",
+      "number": 13,
+      "nationalDex": 13,
+      "formeNumber": 0
+    }
+  ],
+  "KAKUNA": [
+    {
+      "name": "KAKUNA",
+      "number": 14,
+      "nationalDex": 14,
+      "formeNumber": 0
+    }
+  ],
+  "BEEDRILL": [
+    {
+      "name": "BEEDRILL",
+      "number": 15,
+      "nationalDex": 15,
+      "formeNumber": 0
+    },
+    {
+      "name": "BEEDRILL_MEGA",
+      "number": 903,
+      "nationalDex": 15,
+      "formeNumber": 1
+    }
+  ],
+  "PIDGEY": [
+    {
+      "name": "PIDGEY",
+      "number": 16,
+      "nationalDex": 16,
+      "formeNumber": 0
+    }
+  ],
+  "PIDGEOTTO": [
+    {
+      "name": "PIDGEOTTO",
+      "number": 17,
+      "nationalDex": 17,
+      "formeNumber": 0
+    }
+  ],
+  "PIDGEOT": [
+    {
+      "name": "PIDGEOT",
+      "number": 18,
+      "nationalDex": 18,
+      "formeNumber": 0
+    },
+    {
+      "name": "PIDGEOT_MEGA",
+      "number": 904,
+      "nationalDex": 18,
+      "formeNumber": 1
+    }
+  ],
+  "RATTATA": [
+    {
+      "name": "RATTATA",
+      "number": 19,
+      "nationalDex": 19,
+      "formeNumber": 0
+    },
+    {
+      "name": "RATTATA_ALOLAN",
+      "number": 949,
+      "nationalDex": 19,
+      "formeNumber": 1
+    }
+  ],
+  "RATICATE": [
+    {
+      "name": "RATICATE",
+      "number": 20,
+      "nationalDex": 20,
+      "formeNumber": 0
+    },
+    {
+      "name": "RATICATE_ALOLAN",
+      "number": 950,
+      "nationalDex": 20,
+      "formeNumber": 1
+    }
+  ],
+  "SPEAROW": [
+    {
+      "name": "SPEAROW",
+      "number": 21,
+      "nationalDex": 21,
+      "formeNumber": 0
+    }
+  ],
+  "FEAROW": [
+    {
+      "name": "FEAROW",
+      "number": 22,
+      "nationalDex": 22,
+      "formeNumber": 0
+    }
+  ],
+  "EKANS": [
+    {
+      "name": "EKANS",
+      "number": 23,
+      "nationalDex": 23,
+      "formeNumber": 0
+    }
+  ],
+  "ARBOK": [
+    {
+      "name": "ARBOK",
+      "number": 24,
+      "nationalDex": 24,
+      "formeNumber": 0
+    }
+  ],
+  "PIKACHU": [
+    {
+      "name": "PIKACHU",
+      "number": 25,
+      "nationalDex": 25,
+      "formeNumber": 0
+    },
+    {
+      "name": "PIKACHU_COSPLAY",
+      "number": 986,
+      "nationalDex": 25,
+      "formeNumber": 1
+    },
+    {
+      "name": "PIKACHU_ROCK_STAR",
+      "number": 987,
+      "nationalDex": 25,
+      "formeNumber": 2
+    },
+    {
+      "name": "PIKACHU_BELLE",
+      "number": 988,
+      "nationalDex": 25,
+      "formeNumber": 3
+    },
+    {
+      "name": "PIKACHU_POP_STAR",
+      "number": 989,
+      "nationalDex": 25,
+      "formeNumber": 4
+    },
+    {
+      "name": "PIKACHU_PH_D",
+      "number": 990,
+      "nationalDex": 25,
+      "formeNumber": 5
+    },
+    {
+      "name": "PIKACHU_LIBRE",
+      "number": 991,
+      "nationalDex": 25,
+      "formeNumber": 6
+    },
+    {
+      "name": "PIKACHU_ORIGINAL_CAP",
+      "number": 992,
+      "nationalDex": 25,
+      "formeNumber": 7
+    },
+    {
+      "name": "PIKACHU_HOENN_CAP",
+      "number": 993,
+      "nationalDex": 25,
+      "formeNumber": 8
+    },
+    {
+      "name": "PIKACHU_SINNOH_CAP",
+      "number": 994,
+      "nationalDex": 25,
+      "formeNumber": 9
+    },
+    {
+      "name": "PIKACHU_UNOVA_CAP",
+      "number": 995,
+      "nationalDex": 25,
+      "formeNumber": 10
+    },
+    {
+      "name": "PIKACHU_KALOS_CAP",
+      "number": 996,
+      "nationalDex": 25,
+      "formeNumber": 11
+    },
+    {
+      "name": "PIKACHU_ALOLA_CAP",
+      "number": 997,
+      "nationalDex": 25,
+      "formeNumber": 12
+    },
+    {
+      "name": "PIKACHU_PARTNER_CAP",
+      "number": 998,
+      "nationalDex": 25,
+      "formeNumber": 13
+    },
+    {
+      "name": "PIKACHU_WORLD_CAP",
+      "number": 999,
+      "nationalDex": 25,
+      "formeNumber": 14
+    }
+  ],
+  "RAICHU": [
+    {
+      "name": "RAICHU",
+      "number": 26,
+      "nationalDex": 26,
+      "formeNumber": 0
+    },
+    {
+      "name": "RAICHU_ALOLAN",
+      "number": 951,
+      "nationalDex": 26,
+      "formeNumber": 1
+    }
+  ],
+  "SANDSHREW": [
+    {
+      "name": "SANDSHREW",
+      "number": 27,
+      "nationalDex": 27,
+      "formeNumber": 0
+    },
+    {
+      "name": "SANDSHREW_ALOLAN",
+      "number": 952,
+      "nationalDex": 27,
+      "formeNumber": 1
+    }
+  ],
+  "SANDSLASH": [
+    {
+      "name": "SANDSLASH",
+      "number": 28,
+      "nationalDex": 28,
+      "formeNumber": 0
+    },
+    {
+      "name": "SANDSLASH_ALOLAN",
+      "number": 953,
+      "nationalDex": 28,
+      "formeNumber": 1
+    }
+  ],
+  "NIDORAN_F": [
+    {
+      "name": "NIDORAN_F",
+      "number": 29,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "NIDORINA": [
+    {
+      "name": "NIDORINA",
+      "number": 30,
+      "nationalDex": 30,
+      "formeNumber": 0
+    }
+  ],
+  "NIDOQUEEN": [
+    {
+      "name": "NIDOQUEEN",
+      "number": 31,
+      "nationalDex": 31,
+      "formeNumber": 0
+    }
+  ],
+  "NIDORAN_M": [
+    {
+      "name": "NIDORAN_M",
+      "number": 32,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "NIDORINO": [
+    {
+      "name": "NIDORINO",
+      "number": 33,
+      "nationalDex": 33,
+      "formeNumber": 0
+    }
+  ],
+  "NIDOKING": [
+    {
+      "name": "NIDOKING",
+      "number": 34,
+      "nationalDex": 34,
+      "formeNumber": 0
+    }
+  ],
+  "CLEFAIRY": [
+    {
+      "name": "CLEFAIRY",
+      "number": 35,
+      "nationalDex": 35,
+      "formeNumber": 0
+    }
+  ],
+  "CLEFABLE": [
+    {
+      "name": "CLEFABLE",
+      "number": 36,
+      "nationalDex": 36,
+      "formeNumber": 0
+    }
+  ],
+  "VULPIX": [
+    {
+      "name": "VULPIX",
+      "number": 37,
+      "nationalDex": 37,
+      "formeNumber": 0
+    },
+    {
+      "name": "VULPIX_ALOLAN",
+      "number": 954,
+      "nationalDex": 37,
+      "formeNumber": 1
+    }
+  ],
+  "NINETALES": [
+    {
+      "name": "NINETALES",
+      "number": 38,
+      "nationalDex": 38,
+      "formeNumber": 0
+    },
+    {
+      "name": "NINETALES_ALOLAN",
+      "number": 955,
+      "nationalDex": 38,
+      "formeNumber": 1
+    }
+  ],
+  "JIGGLYPUFF": [
+    {
+      "name": "JIGGLYPUFF",
+      "number": 39,
+      "nationalDex": 39,
+      "formeNumber": 0
+    }
+  ],
+  "WIGGLYTUFF": [
+    {
+      "name": "WIGGLYTUFF",
+      "number": 40,
+      "nationalDex": 40,
+      "formeNumber": 0
+    }
+  ],
+  "ZUBAT": [
+    {
+      "name": "ZUBAT",
+      "number": 41,
+      "nationalDex": 41,
+      "formeNumber": 0
+    }
+  ],
+  "GOLBAT": [
+    {
+      "name": "GOLBAT",
+      "number": 42,
+      "nationalDex": 42,
+      "formeNumber": 0
+    }
+  ],
+  "ODDISH": [
+    {
+      "name": "ODDISH",
+      "number": 43,
+      "nationalDex": 43,
+      "formeNumber": 0
+    }
+  ],
+  "GLOOM": [
+    {
+      "name": "GLOOM",
+      "number": 44,
+      "nationalDex": 44,
+      "formeNumber": 0
+    }
+  ],
+  "VILEPLUME": [
+    {
+      "name": "VILEPLUME",
+      "number": 45,
+      "nationalDex": 45,
+      "formeNumber": 0
+    }
+  ],
+  "PARAS": [
+    {
+      "name": "PARAS",
+      "number": 46,
+      "nationalDex": 46,
+      "formeNumber": 0
+    }
+  ],
+  "PARASECT": [
+    {
+      "name": "PARASECT",
+      "number": 47,
+      "nationalDex": 47,
+      "formeNumber": 0
+    }
+  ],
+  "VENONAT": [
+    {
+      "name": "VENONAT",
+      "number": 48,
+      "nationalDex": 48,
+      "formeNumber": 0
+    }
+  ],
+  "VENOMOTH": [
+    {
+      "name": "VENOMOTH",
+      "number": 49,
+      "nationalDex": 49,
+      "formeNumber": 0
+    }
+  ],
+  "DIGLETT": [
+    {
+      "name": "DIGLETT",
+      "number": 50,
+      "nationalDex": 50,
+      "formeNumber": 0
+    },
+    {
+      "name": "DIGLETT_ALOLAN",
+      "number": 956,
+      "nationalDex": 50,
+      "formeNumber": 1
+    }
+  ],
+  "DUGTRIO": [
+    {
+      "name": "DUGTRIO",
+      "number": 51,
+      "nationalDex": 51,
+      "formeNumber": 0
+    },
+    {
+      "name": "DUGTRIO_ALOLAN",
+      "number": 957,
+      "nationalDex": 51,
+      "formeNumber": 1
+    }
+  ],
+  "MEOWTH": [
+    {
+      "name": "MEOWTH",
+      "number": 52,
+      "nationalDex": 52,
+      "formeNumber": 0
+    },
+    {
+      "name": "MEOWTH_ALOLAN",
+      "number": 958,
+      "nationalDex": 52,
+      "formeNumber": 1
+    },
+    {
+      "name": "MEOWTH_GALARIAN",
+      "number": 967,
+      "nationalDex": 52,
+      "formeNumber": 2
+    }
+  ],
+  "PERSIAN": [
+    {
+      "name": "PERSIAN",
+      "number": 53,
+      "nationalDex": 53,
+      "formeNumber": 0
+    },
+    {
+      "name": "PERSIAN_ALOLAN",
+      "number": 959,
+      "nationalDex": 53,
+      "formeNumber": 1
+    }
+  ],
+  "PSYDUCK": [
+    {
+      "name": "PSYDUCK",
+      "number": 54,
+      "nationalDex": 54,
+      "formeNumber": 0
+    }
+  ],
+  "GOLDUCK": [
+    {
+      "name": "GOLDUCK",
+      "number": 55,
+      "nationalDex": 55,
+      "formeNumber": 0
+    }
+  ],
+  "MANKEY": [
+    {
+      "name": "MANKEY",
+      "number": 56,
+      "nationalDex": 56,
+      "formeNumber": 0
+    }
+  ],
+  "PRIMEAPE": [
+    {
+      "name": "PRIMEAPE",
+      "number": 57,
+      "nationalDex": 57,
+      "formeNumber": 0
+    }
+  ],
+  "GROWLITHE": [
+    {
+      "name": "GROWLITHE",
+      "number": 58,
+      "nationalDex": 58,
+      "formeNumber": 0
+    }
+  ],
+  "ARCANINE": [
+    {
+      "name": "ARCANINE",
+      "number": 59,
+      "nationalDex": 59,
+      "formeNumber": 0
+    }
+  ],
+  "POLIWAG": [
+    {
+      "name": "POLIWAG",
+      "number": 60,
+      "nationalDex": 60,
+      "formeNumber": 0
+    }
+  ],
+  "POLIWHIRL": [
+    {
+      "name": "POLIWHIRL",
+      "number": 61,
+      "nationalDex": 61,
+      "formeNumber": 0
+    }
+  ],
+  "POLIWRATH": [
+    {
+      "name": "POLIWRATH",
+      "number": 62,
+      "nationalDex": 62,
+      "formeNumber": 0
+    }
+  ],
+  "ABRA": [
+    {
+      "name": "ABRA",
+      "number": 63,
+      "nationalDex": 63,
+      "formeNumber": 0
+    }
+  ],
+  "KADABRA": [
+    {
+      "name": "KADABRA",
+      "number": 64,
+      "nationalDex": 64,
+      "formeNumber": 0
+    }
+  ],
+  "ALAKAZAM": [
+    {
+      "name": "ALAKAZAM",
+      "number": 65,
+      "nationalDex": 65,
+      "formeNumber": 0
+    },
+    {
+      "name": "ALAKAZAM_MEGA",
+      "number": 905,
+      "nationalDex": 65,
+      "formeNumber": 1
+    }
+  ],
+  "MACHOP": [
+    {
+      "name": "MACHOP",
+      "number": 66,
+      "nationalDex": 66,
+      "formeNumber": 0
+    }
+  ],
+  "MACHOKE": [
+    {
+      "name": "MACHOKE",
+      "number": 67,
+      "nationalDex": 67,
+      "formeNumber": 0
+    }
+  ],
+  "MACHAMP": [
+    {
+      "name": "MACHAMP",
+      "number": 68,
+      "nationalDex": 68,
+      "formeNumber": 0
+    },
+    {
+      "name": "MACHAMP_MEGA",
+      "number": 1209,
+      "nationalDex": 68,
+      "formeNumber": 1
+    }
+  ],
+  "BELLSPROUT": [
+    {
+      "name": "BELLSPROUT",
+      "number": 69,
+      "nationalDex": 69,
+      "formeNumber": 0
+    }
+  ],
+  "WEEPINBELL": [
+    {
+      "name": "WEEPINBELL",
+      "number": 70,
+      "nationalDex": 70,
+      "formeNumber": 0
+    }
+  ],
+  "VICTREEBEL": [
+    {
+      "name": "VICTREEBEL",
+      "number": 71,
+      "nationalDex": 71,
+      "formeNumber": 0
+    }
+  ],
+  "TENTACOOL": [
+    {
+      "name": "TENTACOOL",
+      "number": 72,
+      "nationalDex": 72,
+      "formeNumber": 0
+    }
+  ],
+  "TENTACRUEL": [
+    {
+      "name": "TENTACRUEL",
+      "number": 73,
+      "nationalDex": 73,
+      "formeNumber": 0
+    }
+  ],
+  "GEODUDE": [
+    {
+      "name": "GEODUDE",
+      "number": 74,
+      "nationalDex": 74,
+      "formeNumber": 0
+    },
+    {
+      "name": "GEODUDE_ALOLAN",
+      "number": 960,
+      "nationalDex": 74,
+      "formeNumber": 1
+    }
+  ],
+  "GRAVELER": [
+    {
+      "name": "GRAVELER",
+      "number": 75,
+      "nationalDex": 75,
+      "formeNumber": 0
+    },
+    {
+      "name": "GRAVELER_ALOLAN",
+      "number": 961,
+      "nationalDex": 75,
+      "formeNumber": 1
+    }
+  ],
+  "GOLEM": [
+    {
+      "name": "GOLEM",
+      "number": 76,
+      "nationalDex": 76,
+      "formeNumber": 0
+    },
+    {
+      "name": "GOLEM_ALOLAN",
+      "number": 962,
+      "nationalDex": 76,
+      "formeNumber": 1
+    }
+  ],
+  "PONYTA": [
+    {
+      "name": "PONYTA",
+      "number": 77,
+      "nationalDex": 77,
+      "formeNumber": 0
+    },
+    {
+      "name": "PONYTA_GALARIAN",
+      "number": 968,
+      "nationalDex": 77,
+      "formeNumber": 1
+    }
+  ],
+  "RAPIDASH": [
+    {
+      "name": "RAPIDASH",
+      "number": 78,
+      "nationalDex": 78,
+      "formeNumber": 0
+    },
+    {
+      "name": "RAPIDASH_GALARIAN",
+      "number": 969,
+      "nationalDex": 78,
+      "formeNumber": 1
+    }
+  ],
+  "SLOWPOKE": [
+    {
+      "name": "SLOWPOKE",
+      "number": 79,
+      "nationalDex": 79,
+      "formeNumber": 0
+    },
+    {
+      "name": "SLOWPOKE_GALARIAN",
+      "number": 970,
+      "nationalDex": 79,
+      "formeNumber": 1
+    }
+  ],
+  "SLOWBRO": [
+    {
+      "name": "SLOWBRO",
+      "number": 80,
+      "nationalDex": 80,
+      "formeNumber": 0
+    },
+    {
+      "name": "SLOWBRO_MEGA",
+      "number": 906,
+      "nationalDex": 80,
+      "formeNumber": 1
+    },
+    {
+      "name": "SLOWBRO_GALARIAN",
+      "number": 971,
+      "nationalDex": 80,
+      "formeNumber": 2
+    }
+  ],
+  "MAGNEMITE": [
+    {
+      "name": "MAGNEMITE",
+      "number": 81,
+      "nationalDex": 81,
+      "formeNumber": 0
+    }
+  ],
+  "MAGNETON": [
+    {
+      "name": "MAGNETON",
+      "number": 82,
+      "nationalDex": 82,
+      "formeNumber": 0
+    }
+  ],
+  "FARFETCHD": [
+    {
+      "name": "FARFETCHD",
+      "number": 83,
+      "nationalDex": 83,
+      "formeNumber": 0
+    },
+    {
+      "name": "FARFETCHD_GALARIAN",
+      "number": 972,
+      "nationalDex": 83,
+      "formeNumber": 1
+    }
+  ],
+  "DODUO": [
+    {
+      "name": "DODUO",
+      "number": 84,
+      "nationalDex": 84,
+      "formeNumber": 0
+    }
+  ],
+  "DODRIO": [
+    {
+      "name": "DODRIO",
+      "number": 85,
+      "nationalDex": 85,
+      "formeNumber": 0
+    }
+  ],
+  "SEEL": [
+    {
+      "name": "SEEL",
+      "number": 86,
+      "nationalDex": 86,
+      "formeNumber": 0
+    }
+  ],
+  "DEWGONG": [
+    {
+      "name": "DEWGONG",
+      "number": 87,
+      "nationalDex": 87,
+      "formeNumber": 0
+    }
+  ],
+  "GRIMER": [
+    {
+      "name": "GRIMER",
+      "number": 88,
+      "nationalDex": 88,
+      "formeNumber": 0
+    },
+    {
+      "name": "GRIMER_ALOLAN",
+      "number": 963,
+      "nationalDex": 88,
+      "formeNumber": 1
+    }
+  ],
+  "MUK": [
+    {
+      "name": "MUK",
+      "number": 89,
+      "nationalDex": 89,
+      "formeNumber": 0
+    },
+    {
+      "name": "MUK_ALOLAN",
+      "number": 964,
+      "nationalDex": 89,
+      "formeNumber": 1
+    }
+  ],
+  "SHELLDER": [
+    {
+      "name": "SHELLDER",
+      "number": 90,
+      "nationalDex": 90,
+      "formeNumber": 0
+    }
+  ],
+  "CLOYSTER": [
+    {
+      "name": "CLOYSTER",
+      "number": 91,
+      "nationalDex": 91,
+      "formeNumber": 0
+    }
+  ],
+  "GASTLY": [
+    {
+      "name": "GASTLY",
+      "number": 92,
+      "nationalDex": 92,
+      "formeNumber": 0
+    }
+  ],
+  "HAUNTER": [
+    {
+      "name": "HAUNTER",
+      "number": 93,
+      "nationalDex": 93,
+      "formeNumber": 0
+    }
+  ],
+  "GENGAR": [
+    {
+      "name": "GENGAR",
+      "number": 94,
+      "nationalDex": 94,
+      "formeNumber": 0
+    },
+    {
+      "name": "GENGAR_MEGA",
+      "number": 907,
+      "nationalDex": 94,
+      "formeNumber": 1
+    }
+  ],
+  "ONIX": [
+    {
+      "name": "ONIX",
+      "number": 95,
+      "nationalDex": 95,
+      "formeNumber": 0
+    }
+  ],
+  "DROWZEE": [
+    {
+      "name": "DROWZEE",
+      "number": 96,
+      "nationalDex": 96,
+      "formeNumber": 0
+    }
+  ],
+  "HYPNO": [
+    {
+      "name": "HYPNO",
+      "number": 97,
+      "nationalDex": 97,
+      "formeNumber": 0
+    }
+  ],
+  "KRABBY": [
+    {
+      "name": "KRABBY",
+      "number": 98,
+      "nationalDex": 98,
+      "formeNumber": 0
+    }
+  ],
+  "KINGLER": [
+    {
+      "name": "KINGLER",
+      "number": 99,
+      "nationalDex": 99,
+      "formeNumber": 0
+    },
+    {
+      "name": "KINGLER_MEGA",
+      "number": 1210,
+      "nationalDex": 99,
+      "formeNumber": 1
+    }
+  ],
+  "VOLTORB": [
+    {
+      "name": "VOLTORB",
+      "number": 100,
+      "nationalDex": 100,
+      "formeNumber": 0
+    }
+  ],
+  "ELECTRODE": [
+    {
+      "name": "ELECTRODE",
+      "number": 101,
+      "nationalDex": 101,
+      "formeNumber": 0
+    }
+  ],
+  "EXEGGCUTE": [
+    {
+      "name": "EXEGGCUTE",
+      "number": 102,
+      "nationalDex": 102,
+      "formeNumber": 0
+    }
+  ],
+  "EXEGGUTOR": [
+    {
+      "name": "EXEGGUTOR",
+      "number": 103,
+      "nationalDex": 103,
+      "formeNumber": 0
+    },
+    {
+      "name": "EXEGGUTOR_ALOLAN",
+      "number": 965,
+      "nationalDex": 103,
+      "formeNumber": 1
+    }
+  ],
+  "CUBONE": [
+    {
+      "name": "CUBONE",
+      "number": 104,
+      "nationalDex": 104,
+      "formeNumber": 0
+    }
+  ],
+  "MAROWAK": [
+    {
+      "name": "MAROWAK",
+      "number": 105,
+      "nationalDex": 105,
+      "formeNumber": 0
+    },
+    {
+      "name": "MAROWAK_ALOLAN",
+      "number": 966,
+      "nationalDex": 105,
+      "formeNumber": 1
+    }
+  ],
+  "HITMONLEE": [
+    {
+      "name": "HITMONLEE",
+      "number": 106,
+      "nationalDex": 106,
+      "formeNumber": 0
+    }
+  ],
+  "HITMONCHAN": [
+    {
+      "name": "HITMONCHAN",
+      "number": 107,
+      "nationalDex": 107,
+      "formeNumber": 0
+    }
+  ],
+  "LICKITUNG": [
+    {
+      "name": "LICKITUNG",
+      "number": 108,
+      "nationalDex": 108,
+      "formeNumber": 0
+    }
+  ],
+  "KOFFING": [
+    {
+      "name": "KOFFING",
+      "number": 109,
+      "nationalDex": 109,
+      "formeNumber": 0
+    }
+  ],
+  "WEEZING": [
+    {
+      "name": "WEEZING",
+      "number": 110,
+      "nationalDex": 110,
+      "formeNumber": 0
+    },
+    {
+      "name": "WEEZING_GALARIAN",
+      "number": 973,
+      "nationalDex": 110,
+      "formeNumber": 1
+    }
+  ],
+  "RHYHORN": [
+    {
+      "name": "RHYHORN",
+      "number": 111,
+      "nationalDex": 111,
+      "formeNumber": 0
+    }
+  ],
+  "RHYDON": [
+    {
+      "name": "RHYDON",
+      "number": 112,
+      "nationalDex": 112,
+      "formeNumber": 0
+    }
+  ],
+  "CHANSEY": [
+    {
+      "name": "CHANSEY",
+      "number": 113,
+      "nationalDex": 113,
+      "formeNumber": 0
+    }
+  ],
+  "TANGELA": [
+    {
+      "name": "TANGELA",
+      "number": 114,
+      "nationalDex": 114,
+      "formeNumber": 0
+    }
+  ],
+  "KANGASKHAN": [
+    {
+      "name": "KANGASKHAN",
+      "number": 115,
+      "nationalDex": 115,
+      "formeNumber": 0
+    },
+    {
+      "name": "KANGASKHAN_MEGA",
+      "number": 908,
+      "nationalDex": 115,
+      "formeNumber": 1
+    }
+  ],
+  "HORSEA": [
+    {
+      "name": "HORSEA",
+      "number": 116,
+      "nationalDex": 116,
+      "formeNumber": 0
+    }
+  ],
+  "SEADRA": [
+    {
+      "name": "SEADRA",
+      "number": 117,
+      "nationalDex": 117,
+      "formeNumber": 0
+    }
+  ],
+  "GOLDEEN": [
+    {
+      "name": "GOLDEEN",
+      "number": 118,
+      "nationalDex": 118,
+      "formeNumber": 0
+    }
+  ],
+  "SEAKING": [
+    {
+      "name": "SEAKING",
+      "number": 119,
+      "nationalDex": 119,
+      "formeNumber": 0
+    }
+  ],
+  "STARYU": [
+    {
+      "name": "STARYU",
+      "number": 120,
+      "nationalDex": 120,
+      "formeNumber": 0
+    }
+  ],
+  "STARMIE": [
+    {
+      "name": "STARMIE",
+      "number": 121,
+      "nationalDex": 121,
+      "formeNumber": 0
+    }
+  ],
+  "MR_MIME": [
+    {
+      "name": "MR_MIME",
+      "number": 122,
+      "nationalDex": 0,
+      "formeNumber": 0
+    },
+    {
+      "name": "MR_MIME_GALARIAN",
+      "number": 974,
+      "nationalDex": 0,
+      "formeNumber": 1
+    }
+  ],
+  "SCYTHER": [
+    {
+      "name": "SCYTHER",
+      "number": 123,
+      "nationalDex": 123,
+      "formeNumber": 0
+    }
+  ],
+  "JYNX": [
+    {
+      "name": "JYNX",
+      "number": 124,
+      "nationalDex": 124,
+      "formeNumber": 0
+    }
+  ],
+  "ELECTABUZZ": [
+    {
+      "name": "ELECTABUZZ",
+      "number": 125,
+      "nationalDex": 125,
+      "formeNumber": 0
+    }
+  ],
+  "MAGMAR": [
+    {
+      "name": "MAGMAR",
+      "number": 126,
+      "nationalDex": 126,
+      "formeNumber": 0
+    }
+  ],
+  "PINSIR": [
+    {
+      "name": "PINSIR",
+      "number": 127,
+      "nationalDex": 127,
+      "formeNumber": 0
+    },
+    {
+      "name": "PINSIR_MEGA",
+      "number": 909,
+      "nationalDex": 127,
+      "formeNumber": 1
+    }
+  ],
+  "TAUROS": [
+    {
+      "name": "TAUROS",
+      "number": 128,
+      "nationalDex": 128,
+      "formeNumber": 0
+    }
+  ],
+  "MAGIKARP": [
+    {
+      "name": "MAGIKARP",
+      "number": 129,
+      "nationalDex": 129,
+      "formeNumber": 0
+    }
+  ],
+  "GYARADOS": [
+    {
+      "name": "GYARADOS",
+      "number": 130,
+      "nationalDex": 130,
+      "formeNumber": 0
+    },
+    {
+      "name": "GYARADOS_MEGA",
+      "number": 910,
+      "nationalDex": 130,
+      "formeNumber": 1
+    }
+  ],
+  "LAPRAS": [
+    {
+      "name": "LAPRAS",
+      "number": 131,
+      "nationalDex": 131,
+      "formeNumber": 0
+    },
+    {
+      "name": "LAPRAS_MEGA",
+      "number": 1211,
+      "nationalDex": 131,
+      "formeNumber": 1
+    }
+  ],
+  "DITTO": [
+    {
+      "name": "DITTO",
+      "number": 132,
+      "nationalDex": 132,
+      "formeNumber": 0
+    }
+  ],
+  "EEVEE": [
+    {
+      "name": "EEVEE",
+      "number": 133,
+      "nationalDex": 133,
+      "formeNumber": 0
+    }
+  ],
+  "VAPOREON": [
+    {
+      "name": "VAPOREON",
+      "number": 134,
+      "nationalDex": 134,
+      "formeNumber": 0
+    }
+  ],
+  "JOLTEON": [
+    {
+      "name": "JOLTEON",
+      "number": 135,
+      "nationalDex": 135,
+      "formeNumber": 0
+    }
+  ],
+  "FLAREON": [
+    {
+      "name": "FLAREON",
+      "number": 136,
+      "nationalDex": 136,
+      "formeNumber": 0
+    }
+  ],
+  "PORYGON": [
+    {
+      "name": "PORYGON",
+      "number": 137,
+      "nationalDex": 137,
+      "formeNumber": 0
+    },
+    {
+      "name": "PORYGON_Z",
+      "number": 474,
+      "nationalDex": 137,
+      "formeNumber": 1
+    }
+  ],
+  "OMANYTE": [
+    {
+      "name": "OMANYTE",
+      "number": 138,
+      "nationalDex": 138,
+      "formeNumber": 0
+    }
+  ],
+  "OMASTAR": [
+    {
+      "name": "OMASTAR",
+      "number": 139,
+      "nationalDex": 139,
+      "formeNumber": 0
+    }
+  ],
+  "KABUTO": [
+    {
+      "name": "KABUTO",
+      "number": 140,
+      "nationalDex": 140,
+      "formeNumber": 0
+    }
+  ],
+  "KABUTOPS": [
+    {
+      "name": "KABUTOPS",
+      "number": 141,
+      "nationalDex": 141,
+      "formeNumber": 0
+    }
+  ],
+  "AERODACTYL": [
+    {
+      "name": "AERODACTYL",
+      "number": 142,
+      "nationalDex": 142,
+      "formeNumber": 0
+    },
+    {
+      "name": "AERODACTYL_MEGA",
+      "number": 911,
+      "nationalDex": 142,
+      "formeNumber": 1
+    }
+  ],
+  "SNORLAX": [
+    {
+      "name": "SNORLAX",
+      "number": 143,
+      "nationalDex": 143,
+      "formeNumber": 0
+    }
+  ],
+  "ARTICUNO": [
+    {
+      "name": "ARTICUNO",
+      "number": 144,
+      "nationalDex": 144,
+      "formeNumber": 0
+    },
+    {
+      "name": "ARTICUNO_GALARIAN",
+      "number": 975,
+      "nationalDex": 144,
+      "formeNumber": 1
+    }
+  ],
+  "ZAPDOS": [
+    {
+      "name": "ZAPDOS",
+      "number": 145,
+      "nationalDex": 145,
+      "formeNumber": 0
+    },
+    {
+      "name": "ZAPDOS_GALARIAN",
+      "number": 976,
+      "nationalDex": 145,
+      "formeNumber": 1
+    }
+  ],
+  "MOLTRES": [
+    {
+      "name": "MOLTRES",
+      "number": 146,
+      "nationalDex": 146,
+      "formeNumber": 0
+    },
+    {
+      "name": "MOLTRES_GALARIAN",
+      "number": 977,
+      "nationalDex": 146,
+      "formeNumber": 1
+    }
+  ],
+  "DRATINI": [
+    {
+      "name": "DRATINI",
+      "number": 147,
+      "nationalDex": 147,
+      "formeNumber": 0
+    }
+  ],
+  "DRAGONAIR": [
+    {
+      "name": "DRAGONAIR",
+      "number": 148,
+      "nationalDex": 148,
+      "formeNumber": 0
+    }
+  ],
+  "DRAGONITE": [
+    {
+      "name": "DRAGONITE",
+      "number": 149,
+      "nationalDex": 149,
+      "formeNumber": 0
+    }
+  ],
+  "MEWTWO": [
+    {
+      "name": "MEWTWO",
+      "number": 150,
+      "nationalDex": 150,
+      "formeNumber": 0
+    },
+    {
+      "name": "MEWTWO_MEGA_X",
+      "number": 912,
+      "nationalDex": 150,
+      "formeNumber": 1
+    },
+    {
+      "name": "MEWTWO_MEGA_Y",
+      "number": 913,
+      "nationalDex": 150,
+      "formeNumber": 2
+    }
+  ],
+  "MEW": [
+    {
+      "name": "MEW",
+      "number": 151,
+      "nationalDex": 151,
+      "formeNumber": 0
+    }
+  ],
+  "CHIKORITA": [
+    {
+      "name": "CHIKORITA",
+      "number": 152,
+      "nationalDex": 152,
+      "formeNumber": 0
+    }
+  ],
+  "BAYLEEF": [
+    {
+      "name": "BAYLEEF",
+      "number": 153,
+      "nationalDex": 153,
+      "formeNumber": 0
+    }
+  ],
+  "MEGANIUM": [
+    {
+      "name": "MEGANIUM",
+      "number": 154,
+      "nationalDex": 154,
+      "formeNumber": 0
+    }
+  ],
+  "CYNDAQUIL": [
+    {
+      "name": "CYNDAQUIL",
+      "number": 155,
+      "nationalDex": 155,
+      "formeNumber": 0
+    }
+  ],
+  "QUILAVA": [
+    {
+      "name": "QUILAVA",
+      "number": 156,
+      "nationalDex": 156,
+      "formeNumber": 0
+    }
+  ],
+  "TYPHLOSION": [
+    {
+      "name": "TYPHLOSION",
+      "number": 157,
+      "nationalDex": 157,
+      "formeNumber": 0
+    }
+  ],
+  "TOTODILE": [
+    {
+      "name": "TOTODILE",
+      "number": 158,
+      "nationalDex": 158,
+      "formeNumber": 0
+    }
+  ],
+  "CROCONAW": [
+    {
+      "name": "CROCONAW",
+      "number": 159,
+      "nationalDex": 159,
+      "formeNumber": 0
+    }
+  ],
+  "FERALIGATR": [
+    {
+      "name": "FERALIGATR",
+      "number": 160,
+      "nationalDex": 160,
+      "formeNumber": 0
+    }
+  ],
+  "SENTRET": [
+    {
+      "name": "SENTRET",
+      "number": 161,
+      "nationalDex": 161,
+      "formeNumber": 0
+    }
+  ],
+  "FURRET": [
+    {
+      "name": "FURRET",
+      "number": 162,
+      "nationalDex": 162,
+      "formeNumber": 0
+    }
+  ],
+  "HOOTHOOT": [
+    {
+      "name": "HOOTHOOT",
+      "number": 163,
+      "nationalDex": 163,
+      "formeNumber": 0
+    }
+  ],
+  "NOCTOWL": [
+    {
+      "name": "NOCTOWL",
+      "number": 164,
+      "nationalDex": 164,
+      "formeNumber": 0
+    }
+  ],
+  "LEDYBA": [
+    {
+      "name": "LEDYBA",
+      "number": 165,
+      "nationalDex": 165,
+      "formeNumber": 0
+    }
+  ],
+  "LEDIAN": [
+    {
+      "name": "LEDIAN",
+      "number": 166,
+      "nationalDex": 166,
+      "formeNumber": 0
+    }
+  ],
+  "SPINARAK": [
+    {
+      "name": "SPINARAK",
+      "number": 167,
+      "nationalDex": 167,
+      "formeNumber": 0
+    }
+  ],
+  "ARIADOS": [
+    {
+      "name": "ARIADOS",
+      "number": 168,
+      "nationalDex": 168,
+      "formeNumber": 0
+    }
+  ],
+  "CROBAT": [
+    {
+      "name": "CROBAT",
+      "number": 169,
+      "nationalDex": 169,
+      "formeNumber": 0
+    }
+  ],
+  "CHINCHOU": [
+    {
+      "name": "CHINCHOU",
+      "number": 170,
+      "nationalDex": 170,
+      "formeNumber": 0
+    }
+  ],
+  "LANTURN": [
+    {
+      "name": "LANTURN",
+      "number": 171,
+      "nationalDex": 171,
+      "formeNumber": 0
+    }
+  ],
+  "PICHU": [
+    {
+      "name": "PICHU",
+      "number": 172,
+      "nationalDex": 172,
+      "formeNumber": 0
+    },
+    {
+      "name": "PICHU_SPIKY_EARED",
+      "number": 1000,
+      "nationalDex": 172,
+      "formeNumber": 1
+    }
+  ],
+  "CLEFFA": [
+    {
+      "name": "CLEFFA",
+      "number": 173,
+      "nationalDex": 173,
+      "formeNumber": 0
+    }
+  ],
+  "IGGLYBUFF": [
+    {
+      "name": "IGGLYBUFF",
+      "number": 174,
+      "nationalDex": 174,
+      "formeNumber": 0
+    }
+  ],
+  "TOGEPI": [
+    {
+      "name": "TOGEPI",
+      "number": 175,
+      "nationalDex": 175,
+      "formeNumber": 0
+    }
+  ],
+  "TOGETIC": [
+    {
+      "name": "TOGETIC",
+      "number": 176,
+      "nationalDex": 176,
+      "formeNumber": 0
+    }
+  ],
+  "NATU": [
+    {
+      "name": "NATU",
+      "number": 177,
+      "nationalDex": 177,
+      "formeNumber": 0
+    }
+  ],
+  "XATU": [
+    {
+      "name": "XATU",
+      "number": 178,
+      "nationalDex": 178,
+      "formeNumber": 0
+    }
+  ],
+  "MAREEP": [
+    {
+      "name": "MAREEP",
+      "number": 179,
+      "nationalDex": 179,
+      "formeNumber": 0
+    }
+  ],
+  "FLAAFFY": [
+    {
+      "name": "FLAAFFY",
+      "number": 180,
+      "nationalDex": 180,
+      "formeNumber": 0
+    }
+  ],
+  "AMPHAROS": [
+    {
+      "name": "AMPHAROS",
+      "number": 181,
+      "nationalDex": 181,
+      "formeNumber": 0
+    },
+    {
+      "name": "AMPHAROS_MEGA",
+      "number": 914,
+      "nationalDex": 181,
+      "formeNumber": 1
+    }
+  ],
+  "BELLOSSOM": [
+    {
+      "name": "BELLOSSOM",
+      "number": 182,
+      "nationalDex": 182,
+      "formeNumber": 0
+    }
+  ],
+  "MARILL": [
+    {
+      "name": "MARILL",
+      "number": 183,
+      "nationalDex": 183,
+      "formeNumber": 0
+    }
+  ],
+  "AZUMARILL": [
+    {
+      "name": "AZUMARILL",
+      "number": 184,
+      "nationalDex": 184,
+      "formeNumber": 0
+    }
+  ],
+  "SUDOWOODO": [
+    {
+      "name": "SUDOWOODO",
+      "number": 185,
+      "nationalDex": 185,
+      "formeNumber": 0
+    }
+  ],
+  "POLITOED": [
+    {
+      "name": "POLITOED",
+      "number": 186,
+      "nationalDex": 186,
+      "formeNumber": 0
+    }
+  ],
+  "HOPPIP": [
+    {
+      "name": "HOPPIP",
+      "number": 187,
+      "nationalDex": 187,
+      "formeNumber": 0
+    }
+  ],
+  "SKIPLOOM": [
+    {
+      "name": "SKIPLOOM",
+      "number": 188,
+      "nationalDex": 188,
+      "formeNumber": 0
+    }
+  ],
+  "JUMPLUFF": [
+    {
+      "name": "JUMPLUFF",
+      "number": 189,
+      "nationalDex": 189,
+      "formeNumber": 0
+    }
+  ],
+  "AIPOM": [
+    {
+      "name": "AIPOM",
+      "number": 190,
+      "nationalDex": 190,
+      "formeNumber": 0
+    }
+  ],
+  "SUNKERN": [
+    {
+      "name": "SUNKERN",
+      "number": 191,
+      "nationalDex": 191,
+      "formeNumber": 0
+    }
+  ],
+  "SUNFLORA": [
+    {
+      "name": "SUNFLORA",
+      "number": 192,
+      "nationalDex": 192,
+      "formeNumber": 0
+    }
+  ],
+  "YANMA": [
+    {
+      "name": "YANMA",
+      "number": 193,
+      "nationalDex": 193,
+      "formeNumber": 0
+    }
+  ],
+  "WOOPER": [
+    {
+      "name": "WOOPER",
+      "number": 194,
+      "nationalDex": 194,
+      "formeNumber": 0
+    }
+  ],
+  "QUAGSIRE": [
+    {
+      "name": "QUAGSIRE",
+      "number": 195,
+      "nationalDex": 195,
+      "formeNumber": 0
+    }
+  ],
+  "ESPEON": [
+    {
+      "name": "ESPEON",
+      "number": 196,
+      "nationalDex": 196,
+      "formeNumber": 0
+    }
+  ],
+  "UMBREON": [
+    {
+      "name": "UMBREON",
+      "number": 197,
+      "nationalDex": 197,
+      "formeNumber": 0
+    }
+  ],
+  "MURKROW": [
+    {
+      "name": "MURKROW",
+      "number": 198,
+      "nationalDex": 198,
+      "formeNumber": 0
+    }
+  ],
+  "SLOWKING": [
+    {
+      "name": "SLOWKING",
+      "number": 199,
+      "nationalDex": 199,
+      "formeNumber": 0
+    },
+    {
+      "name": "SLOWKING_GALARIAN",
+      "number": 978,
+      "nationalDex": 199,
+      "formeNumber": 1
+    }
+  ],
+  "MISDREAVUS": [
+    {
+      "name": "MISDREAVUS",
+      "number": 200,
+      "nationalDex": 200,
+      "formeNumber": 0
+    }
+  ],
+  "UNOWN": [
+    {
+      "name": "UNOWN",
+      "number": 201,
+      "nationalDex": 201,
+      "formeNumber": 0
+    },
+    {
+      "name": "UNOWN_B",
+      "number": 1001,
+      "nationalDex": 201,
+      "formeNumber": 1
+    },
+    {
+      "name": "UNOWN_C",
+      "number": 1002,
+      "nationalDex": 201,
+      "formeNumber": 2
+    },
+    {
+      "name": "UNOWN_D",
+      "number": 1003,
+      "nationalDex": 201,
+      "formeNumber": 3
+    },
+    {
+      "name": "UNOWN_E",
+      "number": 1004,
+      "nationalDex": 201,
+      "formeNumber": 4
+    },
+    {
+      "name": "UNOWN_F",
+      "number": 1005,
+      "nationalDex": 201,
+      "formeNumber": 5
+    },
+    {
+      "name": "UNOWN_G",
+      "number": 1006,
+      "nationalDex": 201,
+      "formeNumber": 6
+    },
+    {
+      "name": "UNOWN_H",
+      "number": 1007,
+      "nationalDex": 201,
+      "formeNumber": 7
+    },
+    {
+      "name": "UNOWN_I",
+      "number": 1008,
+      "nationalDex": 201,
+      "formeNumber": 8
+    },
+    {
+      "name": "UNOWN_J",
+      "number": 1009,
+      "nationalDex": 201,
+      "formeNumber": 9
+    },
+    {
+      "name": "UNOWN_K",
+      "number": 1010,
+      "nationalDex": 201,
+      "formeNumber": 10
+    },
+    {
+      "name": "UNOWN_L",
+      "number": 1011,
+      "nationalDex": 201,
+      "formeNumber": 11
+    },
+    {
+      "name": "UNOWN_M",
+      "number": 1012,
+      "nationalDex": 201,
+      "formeNumber": 12
+    },
+    {
+      "name": "UNOWN_N",
+      "number": 1013,
+      "nationalDex": 201,
+      "formeNumber": 13
+    },
+    {
+      "name": "UNOWN_O",
+      "number": 1014,
+      "nationalDex": 201,
+      "formeNumber": 14
+    },
+    {
+      "name": "UNOWN_P",
+      "number": 1015,
+      "nationalDex": 201,
+      "formeNumber": 15
+    },
+    {
+      "name": "UNOWN_Q",
+      "number": 1016,
+      "nationalDex": 201,
+      "formeNumber": 16
+    },
+    {
+      "name": "UNOWN_R",
+      "number": 1017,
+      "nationalDex": 201,
+      "formeNumber": 17
+    },
+    {
+      "name": "UNOWN_S",
+      "number": 1018,
+      "nationalDex": 201,
+      "formeNumber": 18
+    },
+    {
+      "name": "UNOWN_T",
+      "number": 1019,
+      "nationalDex": 201,
+      "formeNumber": 19
+    },
+    {
+      "name": "UNOWN_U",
+      "number": 1020,
+      "nationalDex": 201,
+      "formeNumber": 20
+    },
+    {
+      "name": "UNOWN_V",
+      "number": 1021,
+      "nationalDex": 201,
+      "formeNumber": 21
+    },
+    {
+      "name": "UNOWN_W",
+      "number": 1022,
+      "nationalDex": 201,
+      "formeNumber": 22
+    },
+    {
+      "name": "UNOWN_X",
+      "number": 1023,
+      "nationalDex": 201,
+      "formeNumber": 23
+    },
+    {
+      "name": "UNOWN_Y",
+      "number": 1024,
+      "nationalDex": 201,
+      "formeNumber": 24
+    },
+    {
+      "name": "UNOWN_Z",
+      "number": 1025,
+      "nationalDex": 201,
+      "formeNumber": 25
+    },
+    {
+      "name": "UNOWN_EMARK",
+      "number": 1026,
+      "nationalDex": 201,
+      "formeNumber": 26
+    },
+    {
+      "name": "UNOWN_QMARK",
+      "number": 1027,
+      "nationalDex": 201,
+      "formeNumber": 27
+    }
+  ],
+  "WOBBUFFET": [
+    {
+      "name": "WOBBUFFET",
+      "number": 202,
+      "nationalDex": 202,
+      "formeNumber": 0
+    }
+  ],
+  "GIRAFARIG": [
+    {
+      "name": "GIRAFARIG",
+      "number": 203,
+      "nationalDex": 203,
+      "formeNumber": 0
+    }
+  ],
+  "PINECO": [
+    {
+      "name": "PINECO",
+      "number": 204,
+      "nationalDex": 204,
+      "formeNumber": 0
+    }
+  ],
+  "FORRETRESS": [
+    {
+      "name": "FORRETRESS",
+      "number": 205,
+      "nationalDex": 205,
+      "formeNumber": 0
+    }
+  ],
+  "DUNSPARCE": [
+    {
+      "name": "DUNSPARCE",
+      "number": 206,
+      "nationalDex": 206,
+      "formeNumber": 0
+    }
+  ],
+  "GLIGAR": [
+    {
+      "name": "GLIGAR",
+      "number": 207,
+      "nationalDex": 207,
+      "formeNumber": 0
+    }
+  ],
+  "STEELIX": [
+    {
+      "name": "STEELIX",
+      "number": 208,
+      "nationalDex": 208,
+      "formeNumber": 0
+    },
+    {
+      "name": "STEELIX_MEGA",
+      "number": 915,
+      "nationalDex": 208,
+      "formeNumber": 1
+    }
+  ],
+  "SNUBBULL": [
+    {
+      "name": "SNUBBULL",
+      "number": 209,
+      "nationalDex": 209,
+      "formeNumber": 0
+    }
+  ],
+  "GRANBULL": [
+    {
+      "name": "GRANBULL",
+      "number": 210,
+      "nationalDex": 210,
+      "formeNumber": 0
+    }
+  ],
+  "QWILFISH": [
+    {
+      "name": "QWILFISH",
+      "number": 211,
+      "nationalDex": 211,
+      "formeNumber": 0
+    }
+  ],
+  "SCIZOR": [
+    {
+      "name": "SCIZOR",
+      "number": 212,
+      "nationalDex": 212,
+      "formeNumber": 0
+    },
+    {
+      "name": "SCIZOR_MEGA",
+      "number": 916,
+      "nationalDex": 212,
+      "formeNumber": 1
+    }
+  ],
+  "SHUCKLE": [
+    {
+      "name": "SHUCKLE",
+      "number": 213,
+      "nationalDex": 213,
+      "formeNumber": 0
+    }
+  ],
+  "HERACROSS": [
+    {
+      "name": "HERACROSS",
+      "number": 214,
+      "nationalDex": 214,
+      "formeNumber": 0
+    },
+    {
+      "name": "HERACROSS_MEGA",
+      "number": 917,
+      "nationalDex": 214,
+      "formeNumber": 1
+    }
+  ],
+  "SNEASEL": [
+    {
+      "name": "SNEASEL",
+      "number": 215,
+      "nationalDex": 215,
+      "formeNumber": 0
+    }
+  ],
+  "TEDDIURSA": [
+    {
+      "name": "TEDDIURSA",
+      "number": 216,
+      "nationalDex": 216,
+      "formeNumber": 0
+    }
+  ],
+  "URSARING": [
+    {
+      "name": "URSARING",
+      "number": 217,
+      "nationalDex": 217,
+      "formeNumber": 0
+    }
+  ],
+  "SLUGMA": [
+    {
+      "name": "SLUGMA",
+      "number": 218,
+      "nationalDex": 218,
+      "formeNumber": 0
+    }
+  ],
+  "MAGCARGO": [
+    {
+      "name": "MAGCARGO",
+      "number": 219,
+      "nationalDex": 219,
+      "formeNumber": 0
+    }
+  ],
+  "SWINUB": [
+    {
+      "name": "SWINUB",
+      "number": 220,
+      "nationalDex": 220,
+      "formeNumber": 0
+    }
+  ],
+  "PILOSWINE": [
+    {
+      "name": "PILOSWINE",
+      "number": 221,
+      "nationalDex": 221,
+      "formeNumber": 0
+    }
+  ],
+  "CORSOLA": [
+    {
+      "name": "CORSOLA",
+      "number": 222,
+      "nationalDex": 222,
+      "formeNumber": 0
+    },
+    {
+      "name": "CORSOLA_GALARIAN",
+      "number": 979,
+      "nationalDex": 222,
+      "formeNumber": 1
+    }
+  ],
+  "REMORAID": [
+    {
+      "name": "REMORAID",
+      "number": 223,
+      "nationalDex": 223,
+      "formeNumber": 0
+    }
+  ],
+  "OCTILLERY": [
+    {
+      "name": "OCTILLERY",
+      "number": 224,
+      "nationalDex": 224,
+      "formeNumber": 0
+    }
+  ],
+  "DELIBIRD": [
+    {
+      "name": "DELIBIRD",
+      "number": 225,
+      "nationalDex": 225,
+      "formeNumber": 0
+    }
+  ],
+  "MANTINE": [
+    {
+      "name": "MANTINE",
+      "number": 226,
+      "nationalDex": 226,
+      "formeNumber": 0
+    }
+  ],
+  "SKARMORY": [
+    {
+      "name": "SKARMORY",
+      "number": 227,
+      "nationalDex": 227,
+      "formeNumber": 0
+    }
+  ],
+  "HOUNDOUR": [
+    {
+      "name": "HOUNDOUR",
+      "number": 228,
+      "nationalDex": 228,
+      "formeNumber": 0
+    }
+  ],
+  "HOUNDOOM": [
+    {
+      "name": "HOUNDOOM",
+      "number": 229,
+      "nationalDex": 229,
+      "formeNumber": 0
+    },
+    {
+      "name": "HOUNDOOM_MEGA",
+      "number": 918,
+      "nationalDex": 229,
+      "formeNumber": 1
+    }
+  ],
+  "KINGDRA": [
+    {
+      "name": "KINGDRA",
+      "number": 230,
+      "nationalDex": 230,
+      "formeNumber": 0
+    },
+    {
+      "name": "KINGDRA_MEGA",
+      "number": 1213,
+      "nationalDex": 230,
+      "formeNumber": 1
+    }
+  ],
+  "PHANPY": [
+    {
+      "name": "PHANPY",
+      "number": 231,
+      "nationalDex": 231,
+      "formeNumber": 0
+    }
+  ],
+  "DONPHAN": [
+    {
+      "name": "DONPHAN",
+      "number": 232,
+      "nationalDex": 232,
+      "formeNumber": 0
+    }
+  ],
+  "PORYGON2": [
+    {
+      "name": "PORYGON2",
+      "number": 233,
+      "nationalDex": 233,
+      "formeNumber": 0
+    }
+  ],
+  "STANTLER": [
+    {
+      "name": "STANTLER",
+      "number": 234,
+      "nationalDex": 234,
+      "formeNumber": 0
+    }
+  ],
+  "SMEARGLE": [
+    {
+      "name": "SMEARGLE",
+      "number": 235,
+      "nationalDex": 235,
+      "formeNumber": 0
+    }
+  ],
+  "TYROGUE": [
+    {
+      "name": "TYROGUE",
+      "number": 236,
+      "nationalDex": 236,
+      "formeNumber": 0
+    }
+  ],
+  "HITMONTOP": [
+    {
+      "name": "HITMONTOP",
+      "number": 237,
+      "nationalDex": 237,
+      "formeNumber": 0
+    }
+  ],
+  "SMOOCHUM": [
+    {
+      "name": "SMOOCHUM",
+      "number": 238,
+      "nationalDex": 238,
+      "formeNumber": 0
+    }
+  ],
+  "ELEKID": [
+    {
+      "name": "ELEKID",
+      "number": 239,
+      "nationalDex": 239,
+      "formeNumber": 0
+    }
+  ],
+  "MAGBY": [
+    {
+      "name": "MAGBY",
+      "number": 240,
+      "nationalDex": 240,
+      "formeNumber": 0
+    }
+  ],
+  "MILTANK": [
+    {
+      "name": "MILTANK",
+      "number": 241,
+      "nationalDex": 241,
+      "formeNumber": 0
+    }
+  ],
+  "BLISSEY": [
+    {
+      "name": "BLISSEY",
+      "number": 242,
+      "nationalDex": 242,
+      "formeNumber": 0
+    }
+  ],
+  "RAIKOU": [
+    {
+      "name": "RAIKOU",
+      "number": 243,
+      "nationalDex": 243,
+      "formeNumber": 0
+    }
+  ],
+  "ENTEI": [
+    {
+      "name": "ENTEI",
+      "number": 244,
+      "nationalDex": 244,
+      "formeNumber": 0
+    }
+  ],
+  "SUICUNE": [
+    {
+      "name": "SUICUNE",
+      "number": 245,
+      "nationalDex": 245,
+      "formeNumber": 0
+    }
+  ],
+  "LARVITAR": [
+    {
+      "name": "LARVITAR",
+      "number": 246,
+      "nationalDex": 246,
+      "formeNumber": 0
+    }
+  ],
+  "PUPITAR": [
+    {
+      "name": "PUPITAR",
+      "number": 247,
+      "nationalDex": 247,
+      "formeNumber": 0
+    }
+  ],
+  "TYRANITAR": [
+    {
+      "name": "TYRANITAR",
+      "number": 248,
+      "nationalDex": 248,
+      "formeNumber": 0
+    },
+    {
+      "name": "TYRANITAR_MEGA",
+      "number": 919,
+      "nationalDex": 248,
+      "formeNumber": 1
+    }
+  ],
+  "LUGIA": [
+    {
+      "name": "LUGIA",
+      "number": 249,
+      "nationalDex": 249,
+      "formeNumber": 0
+    }
+  ],
+  "HO_OH": [
+    {
+      "name": "HO_OH",
+      "number": 250,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "CELEBI": [
+    {
+      "name": "CELEBI",
+      "number": 251,
+      "nationalDex": 251,
+      "formeNumber": 0
+    }
+  ],
+  "TREECKO": [
+    {
+      "name": "TREECKO",
+      "number": 252,
+      "nationalDex": 252,
+      "formeNumber": 0
+    }
+  ],
+  "GROVYLE": [
+    {
+      "name": "GROVYLE",
+      "number": 253,
+      "nationalDex": 253,
+      "formeNumber": 0
+    }
+  ],
+  "SCEPTILE": [
+    {
+      "name": "SCEPTILE",
+      "number": 254,
+      "nationalDex": 254,
+      "formeNumber": 0
+    },
+    {
+      "name": "SCEPTILE_MEGA",
+      "number": 920,
+      "nationalDex": 254,
+      "formeNumber": 1
+    }
+  ],
+  "TORCHIC": [
+    {
+      "name": "TORCHIC",
+      "number": 255,
+      "nationalDex": 255,
+      "formeNumber": 0
+    }
+  ],
+  "COMBUSKEN": [
+    {
+      "name": "COMBUSKEN",
+      "number": 256,
+      "nationalDex": 256,
+      "formeNumber": 0
+    }
+  ],
+  "BLAZIKEN": [
+    {
+      "name": "BLAZIKEN",
+      "number": 257,
+      "nationalDex": 257,
+      "formeNumber": 0
+    },
+    {
+      "name": "BLAZIKEN_MEGA",
+      "number": 921,
+      "nationalDex": 257,
+      "formeNumber": 1
+    }
+  ],
+  "MUDKIP": [
+    {
+      "name": "MUDKIP",
+      "number": 258,
+      "nationalDex": 258,
+      "formeNumber": 0
+    }
+  ],
+  "MARSHTOMP": [
+    {
+      "name": "MARSHTOMP",
+      "number": 259,
+      "nationalDex": 259,
+      "formeNumber": 0
+    }
+  ],
+  "SWAMPERT": [
+    {
+      "name": "SWAMPERT",
+      "number": 260,
+      "nationalDex": 260,
+      "formeNumber": 0
+    },
+    {
+      "name": "SWAMPERT_MEGA",
+      "number": 922,
+      "nationalDex": 260,
+      "formeNumber": 1
+    }
+  ],
+  "POOCHYENA": [
+    {
+      "name": "POOCHYENA",
+      "number": 261,
+      "nationalDex": 261,
+      "formeNumber": 0
+    }
+  ],
+  "MIGHTYENA": [
+    {
+      "name": "MIGHTYENA",
+      "number": 262,
+      "nationalDex": 262,
+      "formeNumber": 0
+    }
+  ],
+  "ZIGZAGOON": [
+    {
+      "name": "ZIGZAGOON",
+      "number": 263,
+      "nationalDex": 263,
+      "formeNumber": 0
+    },
+    {
+      "name": "ZIGZAGOON_GALARIAN",
+      "number": 980,
+      "nationalDex": 263,
+      "formeNumber": 1
+    }
+  ],
+  "LINOONE": [
+    {
+      "name": "LINOONE",
+      "number": 264,
+      "nationalDex": 264,
+      "formeNumber": 0
+    },
+    {
+      "name": "LINOONE_GALARIAN",
+      "number": 981,
+      "nationalDex": 264,
+      "formeNumber": 1
+    }
+  ],
+  "WURMPLE": [
+    {
+      "name": "WURMPLE",
+      "number": 265,
+      "nationalDex": 265,
+      "formeNumber": 0
+    }
+  ],
+  "SILCOON": [
+    {
+      "name": "SILCOON",
+      "number": 266,
+      "nationalDex": 266,
+      "formeNumber": 0
+    }
+  ],
+  "BEAUTIFLY": [
+    {
+      "name": "BEAUTIFLY",
+      "number": 267,
+      "nationalDex": 267,
+      "formeNumber": 0
+    }
+  ],
+  "CASCOON": [
+    {
+      "name": "CASCOON",
+      "number": 268,
+      "nationalDex": 268,
+      "formeNumber": 0
+    }
+  ],
+  "DUSTOX": [
+    {
+      "name": "DUSTOX",
+      "number": 269,
+      "nationalDex": 269,
+      "formeNumber": 0
+    }
+  ],
+  "LOTAD": [
+    {
+      "name": "LOTAD",
+      "number": 270,
+      "nationalDex": 270,
+      "formeNumber": 0
+    }
+  ],
+  "LOMBRE": [
+    {
+      "name": "LOMBRE",
+      "number": 271,
+      "nationalDex": 271,
+      "formeNumber": 0
+    }
+  ],
+  "LUDICOLO": [
+    {
+      "name": "LUDICOLO",
+      "number": 272,
+      "nationalDex": 272,
+      "formeNumber": 0
+    }
+  ],
+  "SEEDOT": [
+    {
+      "name": "SEEDOT",
+      "number": 273,
+      "nationalDex": 273,
+      "formeNumber": 0
+    }
+  ],
+  "NUZLEAF": [
+    {
+      "name": "NUZLEAF",
+      "number": 274,
+      "nationalDex": 274,
+      "formeNumber": 0
+    }
+  ],
+  "SHIFTRY": [
+    {
+      "name": "SHIFTRY",
+      "number": 275,
+      "nationalDex": 275,
+      "formeNumber": 0
+    }
+  ],
+  "TAILLOW": [
+    {
+      "name": "TAILLOW",
+      "number": 276,
+      "nationalDex": 276,
+      "formeNumber": 0
+    }
+  ],
+  "SWELLOW": [
+    {
+      "name": "SWELLOW",
+      "number": 277,
+      "nationalDex": 277,
+      "formeNumber": 0
+    }
+  ],
+  "WINGULL": [
+    {
+      "name": "WINGULL",
+      "number": 278,
+      "nationalDex": 278,
+      "formeNumber": 0
+    }
+  ],
+  "PELIPPER": [
+    {
+      "name": "PELIPPER",
+      "number": 279,
+      "nationalDex": 279,
+      "formeNumber": 0
+    }
+  ],
+  "RALTS": [
+    {
+      "name": "RALTS",
+      "number": 280,
+      "nationalDex": 280,
+      "formeNumber": 0
+    }
+  ],
+  "KIRLIA": [
+    {
+      "name": "KIRLIA",
+      "number": 281,
+      "nationalDex": 281,
+      "formeNumber": 0
+    }
+  ],
+  "GARDEVOIR": [
+    {
+      "name": "GARDEVOIR",
+      "number": 282,
+      "nationalDex": 282,
+      "formeNumber": 0
+    },
+    {
+      "name": "GARDEVOIR_MEGA",
+      "number": 923,
+      "nationalDex": 282,
+      "formeNumber": 1
+    }
+  ],
+  "SURSKIT": [
+    {
+      "name": "SURSKIT",
+      "number": 283,
+      "nationalDex": 283,
+      "formeNumber": 0
+    }
+  ],
+  "MASQUERAIN": [
+    {
+      "name": "MASQUERAIN",
+      "number": 284,
+      "nationalDex": 284,
+      "formeNumber": 0
+    }
+  ],
+  "SHROOMISH": [
+    {
+      "name": "SHROOMISH",
+      "number": 285,
+      "nationalDex": 285,
+      "formeNumber": 0
+    }
+  ],
+  "BRELOOM": [
+    {
+      "name": "BRELOOM",
+      "number": 286,
+      "nationalDex": 286,
+      "formeNumber": 0
+    }
+  ],
+  "SLAKOTH": [
+    {
+      "name": "SLAKOTH",
+      "number": 287,
+      "nationalDex": 287,
+      "formeNumber": 0
+    }
+  ],
+  "VIGOROTH": [
+    {
+      "name": "VIGOROTH",
+      "number": 288,
+      "nationalDex": 288,
+      "formeNumber": 0
+    }
+  ],
+  "SLAKING": [
+    {
+      "name": "SLAKING",
+      "number": 289,
+      "nationalDex": 289,
+      "formeNumber": 0
+    }
+  ],
+  "NINCADA": [
+    {
+      "name": "NINCADA",
+      "number": 290,
+      "nationalDex": 290,
+      "formeNumber": 0
+    }
+  ],
+  "NINJASK": [
+    {
+      "name": "NINJASK",
+      "number": 291,
+      "nationalDex": 291,
+      "formeNumber": 0
+    }
+  ],
+  "SHEDINJA": [
+    {
+      "name": "SHEDINJA",
+      "number": 292,
+      "nationalDex": 292,
+      "formeNumber": 0
+    }
+  ],
+  "WHISMUR": [
+    {
+      "name": "WHISMUR",
+      "number": 293,
+      "nationalDex": 293,
+      "formeNumber": 0
+    }
+  ],
+  "LOUDRED": [
+    {
+      "name": "LOUDRED",
+      "number": 294,
+      "nationalDex": 294,
+      "formeNumber": 0
+    }
+  ],
+  "EXPLOUD": [
+    {
+      "name": "EXPLOUD",
+      "number": 295,
+      "nationalDex": 295,
+      "formeNumber": 0
+    }
+  ],
+  "MAKUHITA": [
+    {
+      "name": "MAKUHITA",
+      "number": 296,
+      "nationalDex": 296,
+      "formeNumber": 0
+    }
+  ],
+  "HARIYAMA": [
+    {
+      "name": "HARIYAMA",
+      "number": 297,
+      "nationalDex": 297,
+      "formeNumber": 0
+    }
+  ],
+  "AZURILL": [
+    {
+      "name": "AZURILL",
+      "number": 298,
+      "nationalDex": 298,
+      "formeNumber": 0
+    }
+  ],
+  "NOSEPASS": [
+    {
+      "name": "NOSEPASS",
+      "number": 299,
+      "nationalDex": 299,
+      "formeNumber": 0
+    }
+  ],
+  "SKITTY": [
+    {
+      "name": "SKITTY",
+      "number": 300,
+      "nationalDex": 300,
+      "formeNumber": 0
+    }
+  ],
+  "DELCATTY": [
+    {
+      "name": "DELCATTY",
+      "number": 301,
+      "nationalDex": 301,
+      "formeNumber": 0
+    }
+  ],
+  "SABLEYE": [
+    {
+      "name": "SABLEYE",
+      "number": 302,
+      "nationalDex": 302,
+      "formeNumber": 0
+    },
+    {
+      "name": "SABLEYE_MEGA",
+      "number": 924,
+      "nationalDex": 302,
+      "formeNumber": 1
+    }
+  ],
+  "MAWILE": [
+    {
+      "name": "MAWILE",
+      "number": 303,
+      "nationalDex": 303,
+      "formeNumber": 0
+    },
+    {
+      "name": "MAWILE_MEGA",
+      "number": 925,
+      "nationalDex": 303,
+      "formeNumber": 1
+    }
+  ],
+  "ARON": [
+    {
+      "name": "ARON",
+      "number": 304,
+      "nationalDex": 304,
+      "formeNumber": 0
+    }
+  ],
+  "LAIRON": [
+    {
+      "name": "LAIRON",
+      "number": 305,
+      "nationalDex": 305,
+      "formeNumber": 0
+    }
+  ],
+  "AGGRON": [
+    {
+      "name": "AGGRON",
+      "number": 306,
+      "nationalDex": 306,
+      "formeNumber": 0
+    },
+    {
+      "name": "AGGRON_MEGA",
+      "number": 926,
+      "nationalDex": 306,
+      "formeNumber": 1
+    }
+  ],
+  "MEDITITE": [
+    {
+      "name": "MEDITITE",
+      "number": 307,
+      "nationalDex": 307,
+      "formeNumber": 0
+    }
+  ],
+  "MEDICHAM": [
+    {
+      "name": "MEDICHAM",
+      "number": 308,
+      "nationalDex": 308,
+      "formeNumber": 0
+    },
+    {
+      "name": "MEDICHAM_MEGA",
+      "number": 927,
+      "nationalDex": 308,
+      "formeNumber": 1
+    }
+  ],
+  "ELECTRIKE": [
+    {
+      "name": "ELECTRIKE",
+      "number": 309,
+      "nationalDex": 309,
+      "formeNumber": 0
+    }
+  ],
+  "MANECTRIC": [
+    {
+      "name": "MANECTRIC",
+      "number": 310,
+      "nationalDex": 310,
+      "formeNumber": 0
+    },
+    {
+      "name": "MANECTRIC_MEGA",
+      "number": 928,
+      "nationalDex": 310,
+      "formeNumber": 1
+    }
+  ],
+  "PLUSLE": [
+    {
+      "name": "PLUSLE",
+      "number": 311,
+      "nationalDex": 311,
+      "formeNumber": 0
+    }
+  ],
+  "MINUN": [
+    {
+      "name": "MINUN",
+      "number": 312,
+      "nationalDex": 312,
+      "formeNumber": 0
+    }
+  ],
+  "VOLBEAT": [
+    {
+      "name": "VOLBEAT",
+      "number": 313,
+      "nationalDex": 313,
+      "formeNumber": 0
+    }
+  ],
+  "ILLUMISE": [
+    {
+      "name": "ILLUMISE",
+      "number": 314,
+      "nationalDex": 314,
+      "formeNumber": 0
+    }
+  ],
+  "ROSELIA": [
+    {
+      "name": "ROSELIA",
+      "number": 315,
+      "nationalDex": 315,
+      "formeNumber": 0
+    }
+  ],
+  "GULPIN": [
+    {
+      "name": "GULPIN",
+      "number": 316,
+      "nationalDex": 316,
+      "formeNumber": 0
+    }
+  ],
+  "SWALOT": [
+    {
+      "name": "SWALOT",
+      "number": 317,
+      "nationalDex": 317,
+      "formeNumber": 0
+    }
+  ],
+  "CARVANHA": [
+    {
+      "name": "CARVANHA",
+      "number": 318,
+      "nationalDex": 318,
+      "formeNumber": 0
+    }
+  ],
+  "SHARPEDO": [
+    {
+      "name": "SHARPEDO",
+      "number": 319,
+      "nationalDex": 319,
+      "formeNumber": 0
+    },
+    {
+      "name": "SHARPEDO_MEGA",
+      "number": 929,
+      "nationalDex": 319,
+      "formeNumber": 1
+    }
+  ],
+  "WAILMER": [
+    {
+      "name": "WAILMER",
+      "number": 320,
+      "nationalDex": 320,
+      "formeNumber": 0
+    }
+  ],
+  "WAILORD": [
+    {
+      "name": "WAILORD",
+      "number": 321,
+      "nationalDex": 321,
+      "formeNumber": 0
+    }
+  ],
+  "NUMEL": [
+    {
+      "name": "NUMEL",
+      "number": 322,
+      "nationalDex": 322,
+      "formeNumber": 0
+    }
+  ],
+  "CAMERUPT": [
+    {
+      "name": "CAMERUPT",
+      "number": 323,
+      "nationalDex": 323,
+      "formeNumber": 0
+    },
+    {
+      "name": "CAMERUPT_MEGA",
+      "number": 930,
+      "nationalDex": 323,
+      "formeNumber": 1
+    }
+  ],
+  "TORKOAL": [
+    {
+      "name": "TORKOAL",
+      "number": 324,
+      "nationalDex": 324,
+      "formeNumber": 0
+    }
+  ],
+  "SPOINK": [
+    {
+      "name": "SPOINK",
+      "number": 325,
+      "nationalDex": 325,
+      "formeNumber": 0
+    }
+  ],
+  "GRUMPIG": [
+    {
+      "name": "GRUMPIG",
+      "number": 326,
+      "nationalDex": 326,
+      "formeNumber": 0
+    }
+  ],
+  "SPINDA": [
+    {
+      "name": "SPINDA",
+      "number": 327,
+      "nationalDex": 327,
+      "formeNumber": 0
+    }
+  ],
+  "TRAPINCH": [
+    {
+      "name": "TRAPINCH",
+      "number": 328,
+      "nationalDex": 328,
+      "formeNumber": 0
+    }
+  ],
+  "VIBRAVA": [
+    {
+      "name": "VIBRAVA",
+      "number": 329,
+      "nationalDex": 329,
+      "formeNumber": 0
+    }
+  ],
+  "FLYGON": [
+    {
+      "name": "FLYGON",
+      "number": 330,
+      "nationalDex": 330,
+      "formeNumber": 0
+    },
+    {
+      "name": "FLYGON_MEGA",
+      "number": 1212,
+      "nationalDex": 330,
+      "formeNumber": 1
+    }
+  ],
+  "CACNEA": [
+    {
+      "name": "CACNEA",
+      "number": 331,
+      "nationalDex": 331,
+      "formeNumber": 0
+    }
+  ],
+  "CACTURNE": [
+    {
+      "name": "CACTURNE",
+      "number": 332,
+      "nationalDex": 332,
+      "formeNumber": 0
+    }
+  ],
+  "SWABLU": [
+    {
+      "name": "SWABLU",
+      "number": 333,
+      "nationalDex": 333,
+      "formeNumber": 0
+    }
+  ],
+  "ALTARIA": [
+    {
+      "name": "ALTARIA",
+      "number": 334,
+      "nationalDex": 334,
+      "formeNumber": 0
+    },
+    {
+      "name": "ALTARIA_MEGA",
+      "number": 931,
+      "nationalDex": 334,
+      "formeNumber": 1
+    }
+  ],
+  "ZANGOOSE": [
+    {
+      "name": "ZANGOOSE",
+      "number": 335,
+      "nationalDex": 335,
+      "formeNumber": 0
+    }
+  ],
+  "SEVIPER": [
+    {
+      "name": "SEVIPER",
+      "number": 336,
+      "nationalDex": 336,
+      "formeNumber": 0
+    }
+  ],
+  "LUNATONE": [
+    {
+      "name": "LUNATONE",
+      "number": 337,
+      "nationalDex": 337,
+      "formeNumber": 0
+    }
+  ],
+  "SOLROCK": [
+    {
+      "name": "SOLROCK",
+      "number": 338,
+      "nationalDex": 338,
+      "formeNumber": 0
+    }
+  ],
+  "BARBOACH": [
+    {
+      "name": "BARBOACH",
+      "number": 339,
+      "nationalDex": 339,
+      "formeNumber": 0
+    }
+  ],
+  "WHISCASH": [
+    {
+      "name": "WHISCASH",
+      "number": 340,
+      "nationalDex": 340,
+      "formeNumber": 0
+    }
+  ],
+  "CORPHISH": [
+    {
+      "name": "CORPHISH",
+      "number": 341,
+      "nationalDex": 341,
+      "formeNumber": 0
+    }
+  ],
+  "CRAWDAUNT": [
+    {
+      "name": "CRAWDAUNT",
+      "number": 342,
+      "nationalDex": 342,
+      "formeNumber": 0
+    }
+  ],
+  "BALTOY": [
+    {
+      "name": "BALTOY",
+      "number": 343,
+      "nationalDex": 343,
+      "formeNumber": 0
+    }
+  ],
+  "CLAYDOL": [
+    {
+      "name": "CLAYDOL",
+      "number": 344,
+      "nationalDex": 344,
+      "formeNumber": 0
+    }
+  ],
+  "LILEEP": [
+    {
+      "name": "LILEEP",
+      "number": 345,
+      "nationalDex": 345,
+      "formeNumber": 0
+    }
+  ],
+  "CRADILY": [
+    {
+      "name": "CRADILY",
+      "number": 346,
+      "nationalDex": 346,
+      "formeNumber": 0
+    }
+  ],
+  "ANORITH": [
+    {
+      "name": "ANORITH",
+      "number": 347,
+      "nationalDex": 347,
+      "formeNumber": 0
+    }
+  ],
+  "ARMALDO": [
+    {
+      "name": "ARMALDO",
+      "number": 348,
+      "nationalDex": 348,
+      "formeNumber": 0
+    }
+  ],
+  "FEEBAS": [
+    {
+      "name": "FEEBAS",
+      "number": 349,
+      "nationalDex": 349,
+      "formeNumber": 0
+    }
+  ],
+  "MILOTIC": [
+    {
+      "name": "MILOTIC",
+      "number": 350,
+      "nationalDex": 350,
+      "formeNumber": 0
+    },
+    {
+      "name": "MILOTIC_MEGA",
+      "number": 1207,
+      "nationalDex": 350,
+      "formeNumber": 1
+    }
+  ],
+  "CASTFORM": [
+    {
+      "name": "CASTFORM",
+      "number": 351,
+      "nationalDex": 351,
+      "formeNumber": 0
+    },
+    {
+      "name": "CASTFORM_SUNNY",
+      "number": 1028,
+      "nationalDex": 351,
+      "formeNumber": 1
+    },
+    {
+      "name": "CASTFORM_RAINY",
+      "number": 1029,
+      "nationalDex": 351,
+      "formeNumber": 2
+    },
+    {
+      "name": "CASTFORM_SNOWY",
+      "number": 1030,
+      "nationalDex": 351,
+      "formeNumber": 3
+    }
+  ],
+  "KECLEON": [
+    {
+      "name": "KECLEON",
+      "number": 352,
+      "nationalDex": 352,
+      "formeNumber": 0
+    }
+  ],
+  "SHUPPET": [
+    {
+      "name": "SHUPPET",
+      "number": 353,
+      "nationalDex": 353,
+      "formeNumber": 0
+    }
+  ],
+  "BANETTE": [
+    {
+      "name": "BANETTE",
+      "number": 354,
+      "nationalDex": 354,
+      "formeNumber": 0
+    },
+    {
+      "name": "BANETTE_MEGA",
+      "number": 932,
+      "nationalDex": 354,
+      "formeNumber": 1
+    }
+  ],
+  "DUSKULL": [
+    {
+      "name": "DUSKULL",
+      "number": 355,
+      "nationalDex": 355,
+      "formeNumber": 0
+    }
+  ],
+  "DUSCLOPS": [
+    {
+      "name": "DUSCLOPS",
+      "number": 356,
+      "nationalDex": 356,
+      "formeNumber": 0
+    }
+  ],
+  "TROPIUS": [
+    {
+      "name": "TROPIUS",
+      "number": 357,
+      "nationalDex": 357,
+      "formeNumber": 0
+    }
+  ],
+  "CHIMECHO": [
+    {
+      "name": "CHIMECHO",
+      "number": 358,
+      "nationalDex": 358,
+      "formeNumber": 0
+    }
+  ],
+  "ABSOL": [
+    {
+      "name": "ABSOL",
+      "number": 359,
+      "nationalDex": 359,
+      "formeNumber": 0
+    },
+    {
+      "name": "ABSOL_MEGA",
+      "number": 933,
+      "nationalDex": 359,
+      "formeNumber": 1
+    }
+  ],
+  "WYNAUT": [
+    {
+      "name": "WYNAUT",
+      "number": 360,
+      "nationalDex": 360,
+      "formeNumber": 0
+    }
+  ],
+  "SNORUNT": [
+    {
+      "name": "SNORUNT",
+      "number": 361,
+      "nationalDex": 361,
+      "formeNumber": 0
+    }
+  ],
+  "GLALIE": [
+    {
+      "name": "GLALIE",
+      "number": 362,
+      "nationalDex": 362,
+      "formeNumber": 0
+    },
+    {
+      "name": "GLALIE_MEGA",
+      "number": 934,
+      "nationalDex": 362,
+      "formeNumber": 1
+    }
+  ],
+  "SPHEAL": [
+    {
+      "name": "SPHEAL",
+      "number": 363,
+      "nationalDex": 363,
+      "formeNumber": 0
+    }
+  ],
+  "SEALEO": [
+    {
+      "name": "SEALEO",
+      "number": 364,
+      "nationalDex": 364,
+      "formeNumber": 0
+    }
+  ],
+  "WALREIN": [
+    {
+      "name": "WALREIN",
+      "number": 365,
+      "nationalDex": 365,
+      "formeNumber": 0
+    }
+  ],
+  "CLAMPERL": [
+    {
+      "name": "CLAMPERL",
+      "number": 366,
+      "nationalDex": 366,
+      "formeNumber": 0
+    }
+  ],
+  "HUNTAIL": [
+    {
+      "name": "HUNTAIL",
+      "number": 367,
+      "nationalDex": 367,
+      "formeNumber": 0
+    }
+  ],
+  "GOREBYSS": [
+    {
+      "name": "GOREBYSS",
+      "number": 368,
+      "nationalDex": 368,
+      "formeNumber": 0
+    }
+  ],
+  "RELICANTH": [
+    {
+      "name": "RELICANTH",
+      "number": 369,
+      "nationalDex": 369,
+      "formeNumber": 0
+    }
+  ],
+  "LUVDISC": [
+    {
+      "name": "LUVDISC",
+      "number": 370,
+      "nationalDex": 370,
+      "formeNumber": 0
+    }
+  ],
+  "BAGON": [
+    {
+      "name": "BAGON",
+      "number": 371,
+      "nationalDex": 371,
+      "formeNumber": 0
+    }
+  ],
+  "SHELGON": [
+    {
+      "name": "SHELGON",
+      "number": 372,
+      "nationalDex": 372,
+      "formeNumber": 0
+    }
+  ],
+  "SALAMENCE": [
+    {
+      "name": "SALAMENCE",
+      "number": 373,
+      "nationalDex": 373,
+      "formeNumber": 0
+    },
+    {
+      "name": "SALAMENCE_MEGA",
+      "number": 935,
+      "nationalDex": 373,
+      "formeNumber": 1
+    }
+  ],
+  "BELDUM": [
+    {
+      "name": "BELDUM",
+      "number": 374,
+      "nationalDex": 374,
+      "formeNumber": 0
+    }
+  ],
+  "METANG": [
+    {
+      "name": "METANG",
+      "number": 375,
+      "nationalDex": 375,
+      "formeNumber": 0
+    }
+  ],
+  "METAGROSS": [
+    {
+      "name": "METAGROSS",
+      "number": 376,
+      "nationalDex": 376,
+      "formeNumber": 0
+    },
+    {
+      "name": "METAGROSS_MEGA",
+      "number": 936,
+      "nationalDex": 376,
+      "formeNumber": 1
+    }
+  ],
+  "REGIROCK": [
+    {
+      "name": "REGIROCK",
+      "number": 377,
+      "nationalDex": 377,
+      "formeNumber": 0
+    }
+  ],
+  "REGICE": [
+    {
+      "name": "REGICE",
+      "number": 378,
+      "nationalDex": 378,
+      "formeNumber": 0
+    }
+  ],
+  "REGISTEEL": [
+    {
+      "name": "REGISTEEL",
+      "number": 379,
+      "nationalDex": 379,
+      "formeNumber": 0
+    }
+  ],
+  "LATIAS": [
+    {
+      "name": "LATIAS",
+      "number": 380,
+      "nationalDex": 380,
+      "formeNumber": 0
+    },
+    {
+      "name": "LATIAS_MEGA",
+      "number": 937,
+      "nationalDex": 380,
+      "formeNumber": 1
+    }
+  ],
+  "LATIOS": [
+    {
+      "name": "LATIOS",
+      "number": 381,
+      "nationalDex": 381,
+      "formeNumber": 0
+    },
+    {
+      "name": "LATIOS_MEGA",
+      "number": 938,
+      "nationalDex": 381,
+      "formeNumber": 1
+    }
+  ],
+  "KYOGRE": [
+    {
+      "name": "KYOGRE",
+      "number": 382,
+      "nationalDex": 382,
+      "formeNumber": 0
+    },
+    {
+      "name": "KYOGRE_PRIMAL",
+      "number": 947,
+      "nationalDex": 382,
+      "formeNumber": 1
+    }
+  ],
+  "GROUDON": [
+    {
+      "name": "GROUDON",
+      "number": 383,
+      "nationalDex": 383,
+      "formeNumber": 0
+    },
+    {
+      "name": "GROUDON_PRIMAL",
+      "number": 948,
+      "nationalDex": 383,
+      "formeNumber": 1
+    }
+  ],
+  "RAYQUAZA": [
+    {
+      "name": "RAYQUAZA",
+      "number": 384,
+      "nationalDex": 384,
+      "formeNumber": 0
+    },
+    {
+      "name": "RAYQUAZA_MEGA",
+      "number": 946,
+      "nationalDex": 384,
+      "formeNumber": 1
+    }
+  ],
+  "JIRACHI": [
+    {
+      "name": "JIRACHI",
+      "number": 385,
+      "nationalDex": 385,
+      "formeNumber": 0
+    }
+  ],
+  "DEOXYS": [
+    {
+      "name": "DEOXYS",
+      "number": 386,
+      "nationalDex": 386,
+      "formeNumber": 0
+    },
+    {
+      "name": "DEOXYS_ATTACK",
+      "number": 1031,
+      "nationalDex": 386,
+      "formeNumber": 1
+    },
+    {
+      "name": "DEOXYS_DEFENSE",
+      "number": 1032,
+      "nationalDex": 386,
+      "formeNumber": 2
+    },
+    {
+      "name": "DEOXYS_SPEED",
+      "number": 1033,
+      "nationalDex": 386,
+      "formeNumber": 3
+    }
+  ],
+  "TURTWIG": [
+    {
+      "name": "TURTWIG",
+      "number": 387,
+      "nationalDex": 387,
+      "formeNumber": 0
+    }
+  ],
+  "GROTLE": [
+    {
+      "name": "GROTLE",
+      "number": 388,
+      "nationalDex": 388,
+      "formeNumber": 0
+    }
+  ],
+  "TORTERRA": [
+    {
+      "name": "TORTERRA",
+      "number": 389,
+      "nationalDex": 389,
+      "formeNumber": 0
+    }
+  ],
+  "CHIMCHAR": [
+    {
+      "name": "CHIMCHAR",
+      "number": 390,
+      "nationalDex": 390,
+      "formeNumber": 0
+    }
+  ],
+  "MONFERNO": [
+    {
+      "name": "MONFERNO",
+      "number": 391,
+      "nationalDex": 391,
+      "formeNumber": 0
+    }
+  ],
+  "INFERNAPE": [
+    {
+      "name": "INFERNAPE",
+      "number": 392,
+      "nationalDex": 392,
+      "formeNumber": 0
+    }
+  ],
+  "PIPLUP": [
+    {
+      "name": "PIPLUP",
+      "number": 393,
+      "nationalDex": 393,
+      "formeNumber": 0
+    }
+  ],
+  "PRINPLUP": [
+    {
+      "name": "PRINPLUP",
+      "number": 394,
+      "nationalDex": 394,
+      "formeNumber": 0
+    }
+  ],
+  "EMPOLEON": [
+    {
+      "name": "EMPOLEON",
+      "number": 395,
+      "nationalDex": 395,
+      "formeNumber": 0
+    }
+  ],
+  "STARLY": [
+    {
+      "name": "STARLY",
+      "number": 396,
+      "nationalDex": 396,
+      "formeNumber": 0
+    }
+  ],
+  "STARAVIA": [
+    {
+      "name": "STARAVIA",
+      "number": 397,
+      "nationalDex": 397,
+      "formeNumber": 0
+    }
+  ],
+  "STARAPTOR": [
+    {
+      "name": "STARAPTOR",
+      "number": 398,
+      "nationalDex": 398,
+      "formeNumber": 0
+    }
+  ],
+  "BIDOOF": [
+    {
+      "name": "BIDOOF",
+      "number": 399,
+      "nationalDex": 399,
+      "formeNumber": 0
+    }
+  ],
+  "BIBAREL": [
+    {
+      "name": "BIBAREL",
+      "number": 400,
+      "nationalDex": 400,
+      "formeNumber": 0
+    }
+  ],
+  "KRICKETOT": [
+    {
+      "name": "KRICKETOT",
+      "number": 401,
+      "nationalDex": 401,
+      "formeNumber": 0
+    }
+  ],
+  "KRICKETUNE": [
+    {
+      "name": "KRICKETUNE",
+      "number": 402,
+      "nationalDex": 402,
+      "formeNumber": 0
+    }
+  ],
+  "SHINX": [
+    {
+      "name": "SHINX",
+      "number": 403,
+      "nationalDex": 403,
+      "formeNumber": 0
+    }
+  ],
+  "LUXIO": [
+    {
+      "name": "LUXIO",
+      "number": 404,
+      "nationalDex": 404,
+      "formeNumber": 0
+    }
+  ],
+  "LUXRAY": [
+    {
+      "name": "LUXRAY",
+      "number": 405,
+      "nationalDex": 405,
+      "formeNumber": 0
+    }
+  ],
+  "BUDEW": [
+    {
+      "name": "BUDEW",
+      "number": 406,
+      "nationalDex": 406,
+      "formeNumber": 0
+    }
+  ],
+  "ROSERADE": [
+    {
+      "name": "ROSERADE",
+      "number": 407,
+      "nationalDex": 407,
+      "formeNumber": 0
+    }
+  ],
+  "CRANIDOS": [
+    {
+      "name": "CRANIDOS",
+      "number": 408,
+      "nationalDex": 408,
+      "formeNumber": 0
+    }
+  ],
+  "RAMPARDOS": [
+    {
+      "name": "RAMPARDOS",
+      "number": 409,
+      "nationalDex": 409,
+      "formeNumber": 0
+    }
+  ],
+  "SHIELDON": [
+    {
+      "name": "SHIELDON",
+      "number": 410,
+      "nationalDex": 410,
+      "formeNumber": 0
+    }
+  ],
+  "BASTIODON": [
+    {
+      "name": "BASTIODON",
+      "number": 411,
+      "nationalDex": 411,
+      "formeNumber": 0
+    }
+  ],
+  "BURMY": [
+    {
+      "name": "BURMY",
+      "number": 412,
+      "nationalDex": 412,
+      "formeNumber": 0
+    },
+    {
+      "name": "BURMY_SANDY_CLOAK",
+      "number": 1034,
+      "nationalDex": 412,
+      "formeNumber": 1
+    },
+    {
+      "name": "BURMY_TRASH_CLOAK",
+      "number": 1035,
+      "nationalDex": 412,
+      "formeNumber": 2
+    }
+  ],
+  "WORMADAM": [
+    {
+      "name": "WORMADAM",
+      "number": 413,
+      "nationalDex": 413,
+      "formeNumber": 0
+    },
+    {
+      "name": "WORMADAM_SANDY_CLOAK",
+      "number": 1036,
+      "nationalDex": 413,
+      "formeNumber": 1
+    },
+    {
+      "name": "WORMADAM_TRASH_CLOAK",
+      "number": 1037,
+      "nationalDex": 413,
+      "formeNumber": 2
+    }
+  ],
+  "MOTHIM": [
+    {
+      "name": "MOTHIM",
+      "number": 414,
+      "nationalDex": 414,
+      "formeNumber": 0
+    }
+  ],
+  "COMBEE": [
+    {
+      "name": "COMBEE",
+      "number": 415,
+      "nationalDex": 415,
+      "formeNumber": 0
+    }
+  ],
+  "VESPIQUEN": [
+    {
+      "name": "VESPIQUEN",
+      "number": 416,
+      "nationalDex": 416,
+      "formeNumber": 0
+    }
+  ],
+  "PACHIRISU": [
+    {
+      "name": "PACHIRISU",
+      "number": 417,
+      "nationalDex": 417,
+      "formeNumber": 0
+    }
+  ],
+  "BUIZEL": [
+    {
+      "name": "BUIZEL",
+      "number": 418,
+      "nationalDex": 418,
+      "formeNumber": 0
+    }
+  ],
+  "FLOATZEL": [
+    {
+      "name": "FLOATZEL",
+      "number": 419,
+      "nationalDex": 419,
+      "formeNumber": 0
+    }
+  ],
+  "CHERUBI": [
+    {
+      "name": "CHERUBI",
+      "number": 420,
+      "nationalDex": 420,
+      "formeNumber": 0
+    }
+  ],
+  "CHERRIM": [
+    {
+      "name": "CHERRIM",
+      "number": 421,
+      "nationalDex": 421,
+      "formeNumber": 0
+    },
+    {
+      "name": "CHERRIM_SUNSHINE",
+      "number": 1038,
+      "nationalDex": 421,
+      "formeNumber": 1
+    }
+  ],
+  "SHELLOS": [
+    {
+      "name": "SHELLOS",
+      "number": 422,
+      "nationalDex": 422,
+      "formeNumber": 0
+    },
+    {
+      "name": "SHELLOS_EAST_SEA",
+      "number": 1039,
+      "nationalDex": 422,
+      "formeNumber": 1
+    }
+  ],
+  "GASTRODON": [
+    {
+      "name": "GASTRODON",
+      "number": 423,
+      "nationalDex": 423,
+      "formeNumber": 0
+    },
+    {
+      "name": "GASTRODON_EAST_SEA",
+      "number": 1040,
+      "nationalDex": 423,
+      "formeNumber": 1
+    }
+  ],
+  "AMBIPOM": [
+    {
+      "name": "AMBIPOM",
+      "number": 424,
+      "nationalDex": 424,
+      "formeNumber": 0
+    }
+  ],
+  "DRIFLOON": [
+    {
+      "name": "DRIFLOON",
+      "number": 425,
+      "nationalDex": 425,
+      "formeNumber": 0
+    }
+  ],
+  "DRIFBLIM": [
+    {
+      "name": "DRIFBLIM",
+      "number": 426,
+      "nationalDex": 426,
+      "formeNumber": 0
+    }
+  ],
+  "BUNEARY": [
+    {
+      "name": "BUNEARY",
+      "number": 427,
+      "nationalDex": 427,
+      "formeNumber": 0
+    }
+  ],
+  "LOPUNNY": [
+    {
+      "name": "LOPUNNY",
+      "number": 428,
+      "nationalDex": 428,
+      "formeNumber": 0
+    },
+    {
+      "name": "LOPUNNY_MEGA",
+      "number": 939,
+      "nationalDex": 428,
+      "formeNumber": 1
+    }
+  ],
+  "MISMAGIUS": [
+    {
+      "name": "MISMAGIUS",
+      "number": 429,
+      "nationalDex": 429,
+      "formeNumber": 0
+    }
+  ],
+  "HONCHKROW": [
+    {
+      "name": "HONCHKROW",
+      "number": 430,
+      "nationalDex": 430,
+      "formeNumber": 0
+    }
+  ],
+  "GLAMEOW": [
+    {
+      "name": "GLAMEOW",
+      "number": 431,
+      "nationalDex": 431,
+      "formeNumber": 0
+    }
+  ],
+  "PURUGLY": [
+    {
+      "name": "PURUGLY",
+      "number": 432,
+      "nationalDex": 432,
+      "formeNumber": 0
+    }
+  ],
+  "CHINGLING": [
+    {
+      "name": "CHINGLING",
+      "number": 433,
+      "nationalDex": 433,
+      "formeNumber": 0
+    }
+  ],
+  "STUNKY": [
+    {
+      "name": "STUNKY",
+      "number": 434,
+      "nationalDex": 434,
+      "formeNumber": 0
+    }
+  ],
+  "SKUNTANK": [
+    {
+      "name": "SKUNTANK",
+      "number": 435,
+      "nationalDex": 435,
+      "formeNumber": 0
+    }
+  ],
+  "BRONZOR": [
+    {
+      "name": "BRONZOR",
+      "number": 436,
+      "nationalDex": 436,
+      "formeNumber": 0
+    }
+  ],
+  "BRONZONG": [
+    {
+      "name": "BRONZONG",
+      "number": 437,
+      "nationalDex": 437,
+      "formeNumber": 0
+    }
+  ],
+  "BONSLY": [
+    {
+      "name": "BONSLY",
+      "number": 438,
+      "nationalDex": 438,
+      "formeNumber": 0
+    }
+  ],
+  "MIME": [
+    {
+      "name": "MIME_JR",
+      "number": 439,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "HAPPINY": [
+    {
+      "name": "HAPPINY",
+      "number": 440,
+      "nationalDex": 440,
+      "formeNumber": 0
+    }
+  ],
+  "CHATOT": [
+    {
+      "name": "CHATOT",
+      "number": 441,
+      "nationalDex": 441,
+      "formeNumber": 0
+    }
+  ],
+  "SPIRITOMB": [
+    {
+      "name": "SPIRITOMB",
+      "number": 442,
+      "nationalDex": 442,
+      "formeNumber": 0
+    }
+  ],
+  "GIBLE": [
+    {
+      "name": "GIBLE",
+      "number": 443,
+      "nationalDex": 443,
+      "formeNumber": 0
+    }
+  ],
+  "GABITE": [
+    {
+      "name": "GABITE",
+      "number": 444,
+      "nationalDex": 444,
+      "formeNumber": 0
+    }
+  ],
+  "GARCHOMP": [
+    {
+      "name": "GARCHOMP",
+      "number": 445,
+      "nationalDex": 445,
+      "formeNumber": 0
+    },
+    {
+      "name": "GARCHOMP_MEGA",
+      "number": 940,
+      "nationalDex": 445,
+      "formeNumber": 1
+    }
+  ],
+  "MUNCHLAX": [
+    {
+      "name": "MUNCHLAX",
+      "number": 446,
+      "nationalDex": 446,
+      "formeNumber": 0
+    }
+  ],
+  "RIOLU": [
+    {
+      "name": "RIOLU",
+      "number": 447,
+      "nationalDex": 447,
+      "formeNumber": 0
+    }
+  ],
+  "LUCARIO": [
+    {
+      "name": "LUCARIO",
+      "number": 448,
+      "nationalDex": 448,
+      "formeNumber": 0
+    },
+    {
+      "name": "LUCARIO_MEGA",
+      "number": 941,
+      "nationalDex": 448,
+      "formeNumber": 1
+    }
+  ],
+  "HIPPOPOTAS": [
+    {
+      "name": "HIPPOPOTAS",
+      "number": 449,
+      "nationalDex": 449,
+      "formeNumber": 0
+    }
+  ],
+  "HIPPOWDON": [
+    {
+      "name": "HIPPOWDON",
+      "number": 450,
+      "nationalDex": 450,
+      "formeNumber": 0
+    }
+  ],
+  "SKORUPI": [
+    {
+      "name": "SKORUPI",
+      "number": 451,
+      "nationalDex": 451,
+      "formeNumber": 0
+    }
+  ],
+  "DRAPION": [
+    {
+      "name": "DRAPION",
+      "number": 452,
+      "nationalDex": 452,
+      "formeNumber": 0
+    }
+  ],
+  "CROAGUNK": [
+    {
+      "name": "CROAGUNK",
+      "number": 453,
+      "nationalDex": 453,
+      "formeNumber": 0
+    }
+  ],
+  "TOXICROAK": [
+    {
+      "name": "TOXICROAK",
+      "number": 454,
+      "nationalDex": 454,
+      "formeNumber": 0
+    }
+  ],
+  "CARNIVINE": [
+    {
+      "name": "CARNIVINE",
+      "number": 455,
+      "nationalDex": 455,
+      "formeNumber": 0
+    }
+  ],
+  "FINNEON": [
+    {
+      "name": "FINNEON",
+      "number": 456,
+      "nationalDex": 456,
+      "formeNumber": 0
+    }
+  ],
+  "LUMINEON": [
+    {
+      "name": "LUMINEON",
+      "number": 457,
+      "nationalDex": 457,
+      "formeNumber": 0
+    }
+  ],
+  "MANTYKE": [
+    {
+      "name": "MANTYKE",
+      "number": 458,
+      "nationalDex": 458,
+      "formeNumber": 0
+    }
+  ],
+  "SNOVER": [
+    {
+      "name": "SNOVER",
+      "number": 459,
+      "nationalDex": 459,
+      "formeNumber": 0
+    }
+  ],
+  "ABOMASNOW": [
+    {
+      "name": "ABOMASNOW",
+      "number": 460,
+      "nationalDex": 460,
+      "formeNumber": 0
+    },
+    {
+      "name": "ABOMASNOW_MEGA",
+      "number": 942,
+      "nationalDex": 460,
+      "formeNumber": 1
+    }
+  ],
+  "WEAVILE": [
+    {
+      "name": "WEAVILE",
+      "number": 461,
+      "nationalDex": 461,
+      "formeNumber": 0
+    }
+  ],
+  "MAGNEZONE": [
+    {
+      "name": "MAGNEZONE",
+      "number": 462,
+      "nationalDex": 462,
+      "formeNumber": 0
+    }
+  ],
+  "LICKILICKY": [
+    {
+      "name": "LICKILICKY",
+      "number": 463,
+      "nationalDex": 463,
+      "formeNumber": 0
+    }
+  ],
+  "RHYPERIOR": [
+    {
+      "name": "RHYPERIOR",
+      "number": 464,
+      "nationalDex": 464,
+      "formeNumber": 0
+    }
+  ],
+  "TANGROWTH": [
+    {
+      "name": "TANGROWTH",
+      "number": 465,
+      "nationalDex": 465,
+      "formeNumber": 0
+    }
+  ],
+  "ELECTIVIRE": [
+    {
+      "name": "ELECTIVIRE",
+      "number": 466,
+      "nationalDex": 466,
+      "formeNumber": 0
+    }
+  ],
+  "MAGMORTAR": [
+    {
+      "name": "MAGMORTAR",
+      "number": 467,
+      "nationalDex": 467,
+      "formeNumber": 0
+    }
+  ],
+  "TOGEKISS": [
+    {
+      "name": "TOGEKISS",
+      "number": 468,
+      "nationalDex": 468,
+      "formeNumber": 0
+    }
+  ],
+  "YANMEGA": [
+    {
+      "name": "YANMEGA",
+      "number": 469,
+      "nationalDex": 469,
+      "formeNumber": 0
+    }
+  ],
+  "LEAFEON": [
+    {
+      "name": "LEAFEON",
+      "number": 470,
+      "nationalDex": 470,
+      "formeNumber": 0
+    }
+  ],
+  "GLACEON": [
+    {
+      "name": "GLACEON",
+      "number": 471,
+      "nationalDex": 471,
+      "formeNumber": 0
+    }
+  ],
+  "GLISCOR": [
+    {
+      "name": "GLISCOR",
+      "number": 472,
+      "nationalDex": 472,
+      "formeNumber": 0
+    }
+  ],
+  "MAMOSWINE": [
+    {
+      "name": "MAMOSWINE",
+      "number": 473,
+      "nationalDex": 473,
+      "formeNumber": 0
+    }
+  ],
+  "GALLADE": [
+    {
+      "name": "GALLADE",
+      "number": 475,
+      "nationalDex": 475,
+      "formeNumber": 0
+    },
+    {
+      "name": "GALLADE_MEGA",
+      "number": 943,
+      "nationalDex": 475,
+      "formeNumber": 1
+    }
+  ],
+  "PROBOPASS": [
+    {
+      "name": "PROBOPASS",
+      "number": 476,
+      "nationalDex": 476,
+      "formeNumber": 0
+    }
+  ],
+  "DUSKNOIR": [
+    {
+      "name": "DUSKNOIR",
+      "number": 477,
+      "nationalDex": 477,
+      "formeNumber": 0
+    }
+  ],
+  "FROSLASS": [
+    {
+      "name": "FROSLASS",
+      "number": 478,
+      "nationalDex": 478,
+      "formeNumber": 0
+    }
+  ],
+  "ROTOM": [
+    {
+      "name": "ROTOM",
+      "number": 479,
+      "nationalDex": 479,
+      "formeNumber": 0
+    },
+    {
+      "name": "ROTOM_HEAT",
+      "number": 1041,
+      "nationalDex": 479,
+      "formeNumber": 1
+    },
+    {
+      "name": "ROTOM_WASH",
+      "number": 1042,
+      "nationalDex": 479,
+      "formeNumber": 2
+    },
+    {
+      "name": "ROTOM_FROST",
+      "number": 1043,
+      "nationalDex": 479,
+      "formeNumber": 3
+    },
+    {
+      "name": "ROTOM_FAN",
+      "number": 1044,
+      "nationalDex": 479,
+      "formeNumber": 4
+    },
+    {
+      "name": "ROTOM_MOW",
+      "number": 1045,
+      "nationalDex": 479,
+      "formeNumber": 5
+    }
+  ],
+  "UXIE": [
+    {
+      "name": "UXIE",
+      "number": 480,
+      "nationalDex": 480,
+      "formeNumber": 0
+    }
+  ],
+  "MESPRIT": [
+    {
+      "name": "MESPRIT",
+      "number": 481,
+      "nationalDex": 481,
+      "formeNumber": 0
+    }
+  ],
+  "AZELF": [
+    {
+      "name": "AZELF",
+      "number": 482,
+      "nationalDex": 482,
+      "formeNumber": 0
+    }
+  ],
+  "DIALGA": [
+    {
+      "name": "DIALGA",
+      "number": 483,
+      "nationalDex": 483,
+      "formeNumber": 0
+    }
+  ],
+  "PALKIA": [
+    {
+      "name": "PALKIA",
+      "number": 484,
+      "nationalDex": 484,
+      "formeNumber": 0
+    }
+  ],
+  "HEATRAN": [
+    {
+      "name": "HEATRAN",
+      "number": 485,
+      "nationalDex": 485,
+      "formeNumber": 0
+    }
+  ],
+  "REGIGIGAS": [
+    {
+      "name": "REGIGIGAS",
+      "number": 486,
+      "nationalDex": 486,
+      "formeNumber": 0
+    }
+  ],
+  "GIRATINA": [
+    {
+      "name": "GIRATINA",
+      "number": 487,
+      "nationalDex": 487,
+      "formeNumber": 0
+    },
+    {
+      "name": "GIRATINA_ORIGIN",
+      "number": 1046,
+      "nationalDex": 487,
+      "formeNumber": 1
+    }
+  ],
+  "CRESSELIA": [
+    {
+      "name": "CRESSELIA",
+      "number": 488,
+      "nationalDex": 488,
+      "formeNumber": 0
+    }
+  ],
+  "PHIONE": [
+    {
+      "name": "PHIONE",
+      "number": 489,
+      "nationalDex": 489,
+      "formeNumber": 0
+    }
+  ],
+  "MANAPHY": [
+    {
+      "name": "MANAPHY",
+      "number": 490,
+      "nationalDex": 490,
+      "formeNumber": 0
+    }
+  ],
+  "DARKRAI": [
+    {
+      "name": "DARKRAI",
+      "number": 491,
+      "nationalDex": 491,
+      "formeNumber": 0
+    }
+  ],
+  "SHAYMIN": [
+    {
+      "name": "SHAYMIN",
+      "number": 492,
+      "nationalDex": 492,
+      "formeNumber": 0
+    },
+    {
+      "name": "SHAYMIN_SKY",
+      "number": 1047,
+      "nationalDex": 492,
+      "formeNumber": 1
+    }
+  ],
+  "ARCEUS": [
+    {
+      "name": "ARCEUS",
+      "number": 493,
+      "nationalDex": 493,
+      "formeNumber": 0
+    },
+    {
+      "name": "ARCEUS_FIGHTING",
+      "number": 1048,
+      "nationalDex": 493,
+      "formeNumber": 1
+    },
+    {
+      "name": "ARCEUS_FLYING",
+      "number": 1049,
+      "nationalDex": 493,
+      "formeNumber": 2
+    },
+    {
+      "name": "ARCEUS_POISON",
+      "number": 1050,
+      "nationalDex": 493,
+      "formeNumber": 3
+    },
+    {
+      "name": "ARCEUS_GROUND",
+      "number": 1051,
+      "nationalDex": 493,
+      "formeNumber": 4
+    },
+    {
+      "name": "ARCEUS_ROCK",
+      "number": 1052,
+      "nationalDex": 493,
+      "formeNumber": 5
+    },
+    {
+      "name": "ARCEUS_BUG",
+      "number": 1053,
+      "nationalDex": 493,
+      "formeNumber": 6
+    },
+    {
+      "name": "ARCEUS_GHOST",
+      "number": 1054,
+      "nationalDex": 493,
+      "formeNumber": 7
+    },
+    {
+      "name": "ARCEUS_STEEL",
+      "number": 1055,
+      "nationalDex": 493,
+      "formeNumber": 8
+    },
+    {
+      "name": "ARCEUS_FIRE",
+      "number": 1056,
+      "nationalDex": 493,
+      "formeNumber": 9
+    },
+    {
+      "name": "ARCEUS_WATER",
+      "number": 1057,
+      "nationalDex": 493,
+      "formeNumber": 10
+    },
+    {
+      "name": "ARCEUS_GRASS",
+      "number": 1058,
+      "nationalDex": 493,
+      "formeNumber": 11
+    },
+    {
+      "name": "ARCEUS_ELECTRIC",
+      "number": 1059,
+      "nationalDex": 493,
+      "formeNumber": 12
+    },
+    {
+      "name": "ARCEUS_PSYCHIC",
+      "number": 1060,
+      "nationalDex": 493,
+      "formeNumber": 13
+    },
+    {
+      "name": "ARCEUS_ICE",
+      "number": 1061,
+      "nationalDex": 493,
+      "formeNumber": 14
+    },
+    {
+      "name": "ARCEUS_DRAGON",
+      "number": 1062,
+      "nationalDex": 493,
+      "formeNumber": 15
+    },
+    {
+      "name": "ARCEUS_DARK",
+      "number": 1063,
+      "nationalDex": 493,
+      "formeNumber": 16
+    },
+    {
+      "name": "ARCEUS_FAIRY",
+      "number": 1064,
+      "nationalDex": 493,
+      "formeNumber": 17
+    }
+  ],
+  "VICTINI": [
+    {
+      "name": "VICTINI",
+      "number": 494,
+      "nationalDex": 494,
+      "formeNumber": 0
+    }
+  ],
+  "SNIVY": [
+    {
+      "name": "SNIVY",
+      "number": 495,
+      "nationalDex": 495,
+      "formeNumber": 0
+    }
+  ],
+  "SERVINE": [
+    {
+      "name": "SERVINE",
+      "number": 496,
+      "nationalDex": 496,
+      "formeNumber": 0
+    }
+  ],
+  "SERPERIOR": [
+    {
+      "name": "SERPERIOR",
+      "number": 497,
+      "nationalDex": 497,
+      "formeNumber": 0
+    }
+  ],
+  "TEPIG": [
+    {
+      "name": "TEPIG",
+      "number": 498,
+      "nationalDex": 498,
+      "formeNumber": 0
+    }
+  ],
+  "PIGNITE": [
+    {
+      "name": "PIGNITE",
+      "number": 499,
+      "nationalDex": 499,
+      "formeNumber": 0
+    }
+  ],
+  "EMBOAR": [
+    {
+      "name": "EMBOAR",
+      "number": 500,
+      "nationalDex": 500,
+      "formeNumber": 0
+    }
+  ],
+  "OSHAWOTT": [
+    {
+      "name": "OSHAWOTT",
+      "number": 501,
+      "nationalDex": 501,
+      "formeNumber": 0
+    }
+  ],
+  "DEWOTT": [
+    {
+      "name": "DEWOTT",
+      "number": 502,
+      "nationalDex": 502,
+      "formeNumber": 0
+    }
+  ],
+  "SAMUROTT": [
+    {
+      "name": "SAMUROTT",
+      "number": 503,
+      "nationalDex": 503,
+      "formeNumber": 0
+    }
+  ],
+  "PATRAT": [
+    {
+      "name": "PATRAT",
+      "number": 504,
+      "nationalDex": 504,
+      "formeNumber": 0
+    }
+  ],
+  "WATCHOG": [
+    {
+      "name": "WATCHOG",
+      "number": 505,
+      "nationalDex": 505,
+      "formeNumber": 0
+    }
+  ],
+  "LILLIPUP": [
+    {
+      "name": "LILLIPUP",
+      "number": 506,
+      "nationalDex": 506,
+      "formeNumber": 0
+    }
+  ],
+  "HERDIER": [
+    {
+      "name": "HERDIER",
+      "number": 507,
+      "nationalDex": 507,
+      "formeNumber": 0
+    }
+  ],
+  "STOUTLAND": [
+    {
+      "name": "STOUTLAND",
+      "number": 508,
+      "nationalDex": 508,
+      "formeNumber": 0
+    }
+  ],
+  "PURRLOIN": [
+    {
+      "name": "PURRLOIN",
+      "number": 509,
+      "nationalDex": 509,
+      "formeNumber": 0
+    }
+  ],
+  "LIEPARD": [
+    {
+      "name": "LIEPARD",
+      "number": 510,
+      "nationalDex": 510,
+      "formeNumber": 0
+    }
+  ],
+  "PANSAGE": [
+    {
+      "name": "PANSAGE",
+      "number": 511,
+      "nationalDex": 511,
+      "formeNumber": 0
+    }
+  ],
+  "SIMISAGE": [
+    {
+      "name": "SIMISAGE",
+      "number": 512,
+      "nationalDex": 512,
+      "formeNumber": 0
+    }
+  ],
+  "PANSEAR": [
+    {
+      "name": "PANSEAR",
+      "number": 513,
+      "nationalDex": 513,
+      "formeNumber": 0
+    }
+  ],
+  "SIMISEAR": [
+    {
+      "name": "SIMISEAR",
+      "number": 514,
+      "nationalDex": 514,
+      "formeNumber": 0
+    }
+  ],
+  "PANPOUR": [
+    {
+      "name": "PANPOUR",
+      "number": 515,
+      "nationalDex": 515,
+      "formeNumber": 0
+    }
+  ],
+  "SIMIPOUR": [
+    {
+      "name": "SIMIPOUR",
+      "number": 516,
+      "nationalDex": 516,
+      "formeNumber": 0
+    }
+  ],
+  "MUNNA": [
+    {
+      "name": "MUNNA",
+      "number": 517,
+      "nationalDex": 517,
+      "formeNumber": 0
+    }
+  ],
+  "MUSHARNA": [
+    {
+      "name": "MUSHARNA",
+      "number": 518,
+      "nationalDex": 518,
+      "formeNumber": 0
+    }
+  ],
+  "PIDOVE": [
+    {
+      "name": "PIDOVE",
+      "number": 519,
+      "nationalDex": 519,
+      "formeNumber": 0
+    }
+  ],
+  "TRANQUILL": [
+    {
+      "name": "TRANQUILL",
+      "number": 520,
+      "nationalDex": 520,
+      "formeNumber": 0
+    }
+  ],
+  "UNFEZANT": [
+    {
+      "name": "UNFEZANT",
+      "number": 521,
+      "nationalDex": 521,
+      "formeNumber": 0
+    }
+  ],
+  "BLITZLE": [
+    {
+      "name": "BLITZLE",
+      "number": 522,
+      "nationalDex": 522,
+      "formeNumber": 0
+    }
+  ],
+  "ZEBSTRIKA": [
+    {
+      "name": "ZEBSTRIKA",
+      "number": 523,
+      "nationalDex": 523,
+      "formeNumber": 0
+    }
+  ],
+  "ROGGENROLA": [
+    {
+      "name": "ROGGENROLA",
+      "number": 524,
+      "nationalDex": 524,
+      "formeNumber": 0
+    }
+  ],
+  "BOLDORE": [
+    {
+      "name": "BOLDORE",
+      "number": 525,
+      "nationalDex": 525,
+      "formeNumber": 0
+    }
+  ],
+  "GIGALITH": [
+    {
+      "name": "GIGALITH",
+      "number": 526,
+      "nationalDex": 526,
+      "formeNumber": 0
+    }
+  ],
+  "WOOBAT": [
+    {
+      "name": "WOOBAT",
+      "number": 527,
+      "nationalDex": 527,
+      "formeNumber": 0
+    }
+  ],
+  "SWOOBAT": [
+    {
+      "name": "SWOOBAT",
+      "number": 528,
+      "nationalDex": 528,
+      "formeNumber": 0
+    }
+  ],
+  "DRILBUR": [
+    {
+      "name": "DRILBUR",
+      "number": 529,
+      "nationalDex": 529,
+      "formeNumber": 0
+    }
+  ],
+  "EXCADRILL": [
+    {
+      "name": "EXCADRILL",
+      "number": 530,
+      "nationalDex": 530,
+      "formeNumber": 0
+    }
+  ],
+  "AUDINO": [
+    {
+      "name": "AUDINO",
+      "number": 531,
+      "nationalDex": 531,
+      "formeNumber": 0
+    },
+    {
+      "name": "AUDINO_MEGA",
+      "number": 944,
+      "nationalDex": 531,
+      "formeNumber": 1
+    }
+  ],
+  "TIMBURR": [
+    {
+      "name": "TIMBURR",
+      "number": 532,
+      "nationalDex": 532,
+      "formeNumber": 0
+    }
+  ],
+  "GURDURR": [
+    {
+      "name": "GURDURR",
+      "number": 533,
+      "nationalDex": 533,
+      "formeNumber": 0
+    }
+  ],
+  "CONKELDURR": [
+    {
+      "name": "CONKELDURR",
+      "number": 534,
+      "nationalDex": 534,
+      "formeNumber": 0
+    }
+  ],
+  "TYMPOLE": [
+    {
+      "name": "TYMPOLE",
+      "number": 535,
+      "nationalDex": 535,
+      "formeNumber": 0
+    }
+  ],
+  "PALPITOAD": [
+    {
+      "name": "PALPITOAD",
+      "number": 536,
+      "nationalDex": 536,
+      "formeNumber": 0
+    }
+  ],
+  "SEISMITOAD": [
+    {
+      "name": "SEISMITOAD",
+      "number": 537,
+      "nationalDex": 537,
+      "formeNumber": 0
+    }
+  ],
+  "THROH": [
+    {
+      "name": "THROH",
+      "number": 538,
+      "nationalDex": 538,
+      "formeNumber": 0
+    }
+  ],
+  "SAWK": [
+    {
+      "name": "SAWK",
+      "number": 539,
+      "nationalDex": 539,
+      "formeNumber": 0
+    }
+  ],
+  "SEWADDLE": [
+    {
+      "name": "SEWADDLE",
+      "number": 540,
+      "nationalDex": 540,
+      "formeNumber": 0
+    }
+  ],
+  "SWADLOON": [
+    {
+      "name": "SWADLOON",
+      "number": 541,
+      "nationalDex": 541,
+      "formeNumber": 0
+    }
+  ],
+  "LEAVANNY": [
+    {
+      "name": "LEAVANNY",
+      "number": 542,
+      "nationalDex": 542,
+      "formeNumber": 0
+    }
+  ],
+  "VENIPEDE": [
+    {
+      "name": "VENIPEDE",
+      "number": 543,
+      "nationalDex": 543,
+      "formeNumber": 0
+    }
+  ],
+  "WHIRLIPEDE": [
+    {
+      "name": "WHIRLIPEDE",
+      "number": 544,
+      "nationalDex": 544,
+      "formeNumber": 0
+    }
+  ],
+  "SCOLIPEDE": [
+    {
+      "name": "SCOLIPEDE",
+      "number": 545,
+      "nationalDex": 545,
+      "formeNumber": 0
+    }
+  ],
+  "COTTONEE": [
+    {
+      "name": "COTTONEE",
+      "number": 546,
+      "nationalDex": 546,
+      "formeNumber": 0
+    }
+  ],
+  "WHIMSICOTT": [
+    {
+      "name": "WHIMSICOTT",
+      "number": 547,
+      "nationalDex": 547,
+      "formeNumber": 0
+    }
+  ],
+  "PETILIL": [
+    {
+      "name": "PETILIL",
+      "number": 548,
+      "nationalDex": 548,
+      "formeNumber": 0
+    }
+  ],
+  "LILLIGANT": [
+    {
+      "name": "LILLIGANT",
+      "number": 549,
+      "nationalDex": 549,
+      "formeNumber": 0
+    }
+  ],
+  "BASCULIN": [
+    {
+      "name": "BASCULIN",
+      "number": 550,
+      "nationalDex": 550,
+      "formeNumber": 0
+    },
+    {
+      "name": "BASCULIN_BLUE_STRIPED",
+      "number": 1065,
+      "nationalDex": 550,
+      "formeNumber": 1
+    }
+  ],
+  "SANDILE": [
+    {
+      "name": "SANDILE",
+      "number": 551,
+      "nationalDex": 551,
+      "formeNumber": 0
+    }
+  ],
+  "KROKOROK": [
+    {
+      "name": "KROKOROK",
+      "number": 552,
+      "nationalDex": 552,
+      "formeNumber": 0
+    }
+  ],
+  "KROOKODILE": [
+    {
+      "name": "KROOKODILE",
+      "number": 553,
+      "nationalDex": 553,
+      "formeNumber": 0
+    }
+  ],
+  "DARUMAKA": [
+    {
+      "name": "DARUMAKA",
+      "number": 554,
+      "nationalDex": 554,
+      "formeNumber": 0
+    },
+    {
+      "name": "DARUMAKA_GALARIAN",
+      "number": 982,
+      "nationalDex": 554,
+      "formeNumber": 1
+    }
+  ],
+  "DARMANITAN": [
+    {
+      "name": "DARMANITAN",
+      "number": 555,
+      "nationalDex": 555,
+      "formeNumber": 0
+    },
+    {
+      "name": "DARMANITAN_GALARIAN",
+      "number": 983,
+      "nationalDex": 555,
+      "formeNumber": 1
+    },
+    {
+      "name": "DARMANITAN_ZEN_MODE",
+      "number": 1066,
+      "nationalDex": 555,
+      "formeNumber": 2
+    },
+    {
+      "name": "DARMANITAN_ZEN_MODE_GALARIAN",
+      "number": 1067,
+      "nationalDex": 555,
+      "formeNumber": 3
+    }
+  ],
+  "MARACTUS": [
+    {
+      "name": "MARACTUS",
+      "number": 556,
+      "nationalDex": 556,
+      "formeNumber": 0
+    }
+  ],
+  "DWEBBLE": [
+    {
+      "name": "DWEBBLE",
+      "number": 557,
+      "nationalDex": 557,
+      "formeNumber": 0
+    }
+  ],
+  "CRUSTLE": [
+    {
+      "name": "CRUSTLE",
+      "number": 558,
+      "nationalDex": 558,
+      "formeNumber": 0
+    }
+  ],
+  "SCRAGGY": [
+    {
+      "name": "SCRAGGY",
+      "number": 559,
+      "nationalDex": 559,
+      "formeNumber": 0
+    }
+  ],
+  "SCRAFTY": [
+    {
+      "name": "SCRAFTY",
+      "number": 560,
+      "nationalDex": 560,
+      "formeNumber": 0
+    }
+  ],
+  "SIGILYPH": [
+    {
+      "name": "SIGILYPH",
+      "number": 561,
+      "nationalDex": 561,
+      "formeNumber": 0
+    }
+  ],
+  "YAMASK": [
+    {
+      "name": "YAMASK",
+      "number": 562,
+      "nationalDex": 562,
+      "formeNumber": 0
+    },
+    {
+      "name": "YAMASK_GALARIAN",
+      "number": 984,
+      "nationalDex": 562,
+      "formeNumber": 1
+    }
+  ],
+  "COFAGRIGUS": [
+    {
+      "name": "COFAGRIGUS",
+      "number": 563,
+      "nationalDex": 563,
+      "formeNumber": 0
+    }
+  ],
+  "TIRTOUGA": [
+    {
+      "name": "TIRTOUGA",
+      "number": 564,
+      "nationalDex": 564,
+      "formeNumber": 0
+    }
+  ],
+  "CARRACOSTA": [
+    {
+      "name": "CARRACOSTA",
+      "number": 565,
+      "nationalDex": 565,
+      "formeNumber": 0
+    }
+  ],
+  "ARCHEN": [
+    {
+      "name": "ARCHEN",
+      "number": 566,
+      "nationalDex": 566,
+      "formeNumber": 0
+    }
+  ],
+  "ARCHEOPS": [
+    {
+      "name": "ARCHEOPS",
+      "number": 567,
+      "nationalDex": 567,
+      "formeNumber": 0
+    }
+  ],
+  "TRUBBISH": [
+    {
+      "name": "TRUBBISH",
+      "number": 568,
+      "nationalDex": 568,
+      "formeNumber": 0
+    }
+  ],
+  "GARBODOR": [
+    {
+      "name": "GARBODOR",
+      "number": 569,
+      "nationalDex": 569,
+      "formeNumber": 0
+    }
+  ],
+  "ZORUA": [
+    {
+      "name": "ZORUA",
+      "number": 570,
+      "nationalDex": 570,
+      "formeNumber": 0
+    }
+  ],
+  "ZOROARK": [
+    {
+      "name": "ZOROARK",
+      "number": 571,
+      "nationalDex": 571,
+      "formeNumber": 0
+    }
+  ],
+  "MINCCINO": [
+    {
+      "name": "MINCCINO",
+      "number": 572,
+      "nationalDex": 572,
+      "formeNumber": 0
+    }
+  ],
+  "CINCCINO": [
+    {
+      "name": "CINCCINO",
+      "number": 573,
+      "nationalDex": 573,
+      "formeNumber": 0
+    }
+  ],
+  "GOTHITA": [
+    {
+      "name": "GOTHITA",
+      "number": 574,
+      "nationalDex": 574,
+      "formeNumber": 0
+    }
+  ],
+  "GOTHORITA": [
+    {
+      "name": "GOTHORITA",
+      "number": 575,
+      "nationalDex": 575,
+      "formeNumber": 0
+    }
+  ],
+  "GOTHITELLE": [
+    {
+      "name": "GOTHITELLE",
+      "number": 576,
+      "nationalDex": 576,
+      "formeNumber": 0
+    }
+  ],
+  "SOLOSIS": [
+    {
+      "name": "SOLOSIS",
+      "number": 577,
+      "nationalDex": 577,
+      "formeNumber": 0
+    }
+  ],
+  "DUOSION": [
+    {
+      "name": "DUOSION",
+      "number": 578,
+      "nationalDex": 578,
+      "formeNumber": 0
+    }
+  ],
+  "REUNICLUS": [
+    {
+      "name": "REUNICLUS",
+      "number": 579,
+      "nationalDex": 579,
+      "formeNumber": 0
+    }
+  ],
+  "DUCKLETT": [
+    {
+      "name": "DUCKLETT",
+      "number": 580,
+      "nationalDex": 580,
+      "formeNumber": 0
+    }
+  ],
+  "SWANNA": [
+    {
+      "name": "SWANNA",
+      "number": 581,
+      "nationalDex": 581,
+      "formeNumber": 0
+    }
+  ],
+  "VANILLITE": [
+    {
+      "name": "VANILLITE",
+      "number": 582,
+      "nationalDex": 582,
+      "formeNumber": 0
+    }
+  ],
+  "VANILLISH": [
+    {
+      "name": "VANILLISH",
+      "number": 583,
+      "nationalDex": 583,
+      "formeNumber": 0
+    }
+  ],
+  "VANILLUXE": [
+    {
+      "name": "VANILLUXE",
+      "number": 584,
+      "nationalDex": 584,
+      "formeNumber": 0
+    }
+  ],
+  "DEERLING": [
+    {
+      "name": "DEERLING",
+      "number": 585,
+      "nationalDex": 585,
+      "formeNumber": 0
+    },
+    {
+      "name": "DEERLING_SUMMER",
+      "number": 1068,
+      "nationalDex": 585,
+      "formeNumber": 1
+    },
+    {
+      "name": "DEERLING_AUTUMN",
+      "number": 1069,
+      "nationalDex": 585,
+      "formeNumber": 2
+    },
+    {
+      "name": "DEERLING_WINTER",
+      "number": 1070,
+      "nationalDex": 585,
+      "formeNumber": 3
+    }
+  ],
+  "SAWSBUCK": [
+    {
+      "name": "SAWSBUCK",
+      "number": 586,
+      "nationalDex": 586,
+      "formeNumber": 0
+    },
+    {
+      "name": "SAWSBUCK_SUMMER",
+      "number": 1071,
+      "nationalDex": 586,
+      "formeNumber": 1
+    },
+    {
+      "name": "SAWSBUCK_AUTUMN",
+      "number": 1072,
+      "nationalDex": 586,
+      "formeNumber": 2
+    },
+    {
+      "name": "SAWSBUCK_WINTER",
+      "number": 1073,
+      "nationalDex": 586,
+      "formeNumber": 3
+    }
+  ],
+  "EMOLGA": [
+    {
+      "name": "EMOLGA",
+      "number": 587,
+      "nationalDex": 587,
+      "formeNumber": 0
+    }
+  ],
+  "KARRABLAST": [
+    {
+      "name": "KARRABLAST",
+      "number": 588,
+      "nationalDex": 588,
+      "formeNumber": 0
+    }
+  ],
+  "ESCAVALIER": [
+    {
+      "name": "ESCAVALIER",
+      "number": 589,
+      "nationalDex": 589,
+      "formeNumber": 0
+    }
+  ],
+  "FOONGUS": [
+    {
+      "name": "FOONGUS",
+      "number": 590,
+      "nationalDex": 590,
+      "formeNumber": 0
+    }
+  ],
+  "AMOONGUSS": [
+    {
+      "name": "AMOONGUSS",
+      "number": 591,
+      "nationalDex": 591,
+      "formeNumber": 0
+    }
+  ],
+  "FRILLISH": [
+    {
+      "name": "FRILLISH",
+      "number": 592,
+      "nationalDex": 592,
+      "formeNumber": 0
+    }
+  ],
+  "JELLICENT": [
+    {
+      "name": "JELLICENT",
+      "number": 593,
+      "nationalDex": 593,
+      "formeNumber": 0
+    }
+  ],
+  "ALOMOMOLA": [
+    {
+      "name": "ALOMOMOLA",
+      "number": 594,
+      "nationalDex": 594,
+      "formeNumber": 0
+    }
+  ],
+  "JOLTIK": [
+    {
+      "name": "JOLTIK",
+      "number": 595,
+      "nationalDex": 595,
+      "formeNumber": 0
+    }
+  ],
+  "GALVANTULA": [
+    {
+      "name": "GALVANTULA",
+      "number": 596,
+      "nationalDex": 596,
+      "formeNumber": 0
+    }
+  ],
+  "FERROSEED": [
+    {
+      "name": "FERROSEED",
+      "number": 597,
+      "nationalDex": 597,
+      "formeNumber": 0
+    }
+  ],
+  "FERROTHORN": [
+    {
+      "name": "FERROTHORN",
+      "number": 598,
+      "nationalDex": 598,
+      "formeNumber": 0
+    }
+  ],
+  "KLINK": [
+    {
+      "name": "KLINK",
+      "number": 599,
+      "nationalDex": 599,
+      "formeNumber": 0
+    }
+  ],
+  "KLANG": [
+    {
+      "name": "KLANG",
+      "number": 600,
+      "nationalDex": 600,
+      "formeNumber": 0
+    }
+  ],
+  "KLINKLANG": [
+    {
+      "name": "KLINKLANG",
+      "number": 601,
+      "nationalDex": 601,
+      "formeNumber": 0
+    }
+  ],
+  "TYNAMO": [
+    {
+      "name": "TYNAMO",
+      "number": 602,
+      "nationalDex": 602,
+      "formeNumber": 0
+    }
+  ],
+  "EELEKTRIK": [
+    {
+      "name": "EELEKTRIK",
+      "number": 603,
+      "nationalDex": 603,
+      "formeNumber": 0
+    }
+  ],
+  "EELEKTROSS": [
+    {
+      "name": "EELEKTROSS",
+      "number": 604,
+      "nationalDex": 604,
+      "formeNumber": 0
+    }
+  ],
+  "ELGYEM": [
+    {
+      "name": "ELGYEM",
+      "number": 605,
+      "nationalDex": 605,
+      "formeNumber": 0
+    }
+  ],
+  "BEHEEYEM": [
+    {
+      "name": "BEHEEYEM",
+      "number": 606,
+      "nationalDex": 606,
+      "formeNumber": 0
+    }
+  ],
+  "LITWICK": [
+    {
+      "name": "LITWICK",
+      "number": 607,
+      "nationalDex": 607,
+      "formeNumber": 0
+    }
+  ],
+  "LAMPENT": [
+    {
+      "name": "LAMPENT",
+      "number": 608,
+      "nationalDex": 608,
+      "formeNumber": 0
+    }
+  ],
+  "CHANDELURE": [
+    {
+      "name": "CHANDELURE",
+      "number": 609,
+      "nationalDex": 609,
+      "formeNumber": 0
+    }
+  ],
+  "AXEW": [
+    {
+      "name": "AXEW",
+      "number": 610,
+      "nationalDex": 610,
+      "formeNumber": 0
+    }
+  ],
+  "FRAXURE": [
+    {
+      "name": "FRAXURE",
+      "number": 611,
+      "nationalDex": 611,
+      "formeNumber": 0
+    }
+  ],
+  "HAXORUS": [
+    {
+      "name": "HAXORUS",
+      "number": 612,
+      "nationalDex": 612,
+      "formeNumber": 0
+    }
+  ],
+  "CUBCHOO": [
+    {
+      "name": "CUBCHOO",
+      "number": 613,
+      "nationalDex": 613,
+      "formeNumber": 0
+    }
+  ],
+  "BEARTIC": [
+    {
+      "name": "BEARTIC",
+      "number": 614,
+      "nationalDex": 614,
+      "formeNumber": 0
+    }
+  ],
+  "CRYOGONAL": [
+    {
+      "name": "CRYOGONAL",
+      "number": 615,
+      "nationalDex": 615,
+      "formeNumber": 0
+    }
+  ],
+  "SHELMET": [
+    {
+      "name": "SHELMET",
+      "number": 616,
+      "nationalDex": 616,
+      "formeNumber": 0
+    }
+  ],
+  "ACCELGOR": [
+    {
+      "name": "ACCELGOR",
+      "number": 617,
+      "nationalDex": 617,
+      "formeNumber": 0
+    }
+  ],
+  "STUNFISK": [
+    {
+      "name": "STUNFISK",
+      "number": 618,
+      "nationalDex": 618,
+      "formeNumber": 0
+    },
+    {
+      "name": "STUNFISK_GALARIAN",
+      "number": 985,
+      "nationalDex": 618,
+      "formeNumber": 1
+    }
+  ],
+  "MIENFOO": [
+    {
+      "name": "MIENFOO",
+      "number": 619,
+      "nationalDex": 619,
+      "formeNumber": 0
+    }
+  ],
+  "MIENSHAO": [
+    {
+      "name": "MIENSHAO",
+      "number": 620,
+      "nationalDex": 620,
+      "formeNumber": 0
+    }
+  ],
+  "DRUDDIGON": [
+    {
+      "name": "DRUDDIGON",
+      "number": 621,
+      "nationalDex": 621,
+      "formeNumber": 0
+    }
+  ],
+  "GOLETT": [
+    {
+      "name": "GOLETT",
+      "number": 622,
+      "nationalDex": 622,
+      "formeNumber": 0
+    }
+  ],
+  "GOLURK": [
+    {
+      "name": "GOLURK",
+      "number": 623,
+      "nationalDex": 623,
+      "formeNumber": 0
+    }
+  ],
+  "PAWNIARD": [
+    {
+      "name": "PAWNIARD",
+      "number": 624,
+      "nationalDex": 624,
+      "formeNumber": 0
+    }
+  ],
+  "BISHARP": [
+    {
+      "name": "BISHARP",
+      "number": 625,
+      "nationalDex": 625,
+      "formeNumber": 0
+    }
+  ],
+  "BOUFFALANT": [
+    {
+      "name": "BOUFFALANT",
+      "number": 626,
+      "nationalDex": 626,
+      "formeNumber": 0
+    }
+  ],
+  "RUFFLET": [
+    {
+      "name": "RUFFLET",
+      "number": 627,
+      "nationalDex": 627,
+      "formeNumber": 0
+    }
+  ],
+  "BRAVIARY": [
+    {
+      "name": "BRAVIARY",
+      "number": 628,
+      "nationalDex": 628,
+      "formeNumber": 0
+    }
+  ],
+  "VULLABY": [
+    {
+      "name": "VULLABY",
+      "number": 629,
+      "nationalDex": 629,
+      "formeNumber": 0
+    }
+  ],
+  "MANDIBUZZ": [
+    {
+      "name": "MANDIBUZZ",
+      "number": 630,
+      "nationalDex": 630,
+      "formeNumber": 0
+    }
+  ],
+  "HEATMOR": [
+    {
+      "name": "HEATMOR",
+      "number": 631,
+      "nationalDex": 631,
+      "formeNumber": 0
+    }
+  ],
+  "DURANT": [
+    {
+      "name": "DURANT",
+      "number": 632,
+      "nationalDex": 632,
+      "formeNumber": 0
+    }
+  ],
+  "DEINO": [
+    {
+      "name": "DEINO",
+      "number": 633,
+      "nationalDex": 633,
+      "formeNumber": 0
+    }
+  ],
+  "ZWEILOUS": [
+    {
+      "name": "ZWEILOUS",
+      "number": 634,
+      "nationalDex": 634,
+      "formeNumber": 0
+    }
+  ],
+  "HYDREIGON": [
+    {
+      "name": "HYDREIGON",
+      "number": 635,
+      "nationalDex": 635,
+      "formeNumber": 0
+    }
+  ],
+  "LARVESTA": [
+    {
+      "name": "LARVESTA",
+      "number": 636,
+      "nationalDex": 636,
+      "formeNumber": 0
+    }
+  ],
+  "VOLCARONA": [
+    {
+      "name": "VOLCARONA",
+      "number": 637,
+      "nationalDex": 637,
+      "formeNumber": 0
+    }
+  ],
+  "COBALION": [
+    {
+      "name": "COBALION",
+      "number": 638,
+      "nationalDex": 638,
+      "formeNumber": 0
+    }
+  ],
+  "TERRAKION": [
+    {
+      "name": "TERRAKION",
+      "number": 639,
+      "nationalDex": 639,
+      "formeNumber": 0
+    }
+  ],
+  "VIRIZION": [
+    {
+      "name": "VIRIZION",
+      "number": 640,
+      "nationalDex": 640,
+      "formeNumber": 0
+    }
+  ],
+  "TORNADUS": [
+    {
+      "name": "TORNADUS",
+      "number": 641,
+      "nationalDex": 641,
+      "formeNumber": 0
+    },
+    {
+      "name": "TORNADUS_THERIAN",
+      "number": 1074,
+      "nationalDex": 641,
+      "formeNumber": 1
+    }
+  ],
+  "THUNDURUS": [
+    {
+      "name": "THUNDURUS",
+      "number": 642,
+      "nationalDex": 642,
+      "formeNumber": 0
+    },
+    {
+      "name": "THUNDURUS_THERIAN",
+      "number": 1075,
+      "nationalDex": 642,
+      "formeNumber": 1
+    }
+  ],
+  "RESHIRAM": [
+    {
+      "name": "RESHIRAM",
+      "number": 643,
+      "nationalDex": 643,
+      "formeNumber": 0
+    }
+  ],
+  "ZEKROM": [
+    {
+      "name": "ZEKROM",
+      "number": 644,
+      "nationalDex": 644,
+      "formeNumber": 0
+    }
+  ],
+  "LANDORUS": [
+    {
+      "name": "LANDORUS",
+      "number": 645,
+      "nationalDex": 645,
+      "formeNumber": 0
+    },
+    {
+      "name": "LANDORUS_THERIAN",
+      "number": 1076,
+      "nationalDex": 645,
+      "formeNumber": 1
+    }
+  ],
+  "KYUREM": [
+    {
+      "name": "KYUREM",
+      "number": 646,
+      "nationalDex": 646,
+      "formeNumber": 0
+    },
+    {
+      "name": "KYUREM_WHITE",
+      "number": 1077,
+      "nationalDex": 646,
+      "formeNumber": 1
+    },
+    {
+      "name": "KYUREM_BLACK",
+      "number": 1078,
+      "nationalDex": 646,
+      "formeNumber": 2
+    }
+  ],
+  "KELDEO": [
+    {
+      "name": "KELDEO",
+      "number": 647,
+      "nationalDex": 647,
+      "formeNumber": 0
+    },
+    {
+      "name": "KELDEO_RESOLUTE",
+      "number": 1079,
+      "nationalDex": 647,
+      "formeNumber": 1
+    }
+  ],
+  "MELOETTA": [
+    {
+      "name": "MELOETTA",
+      "number": 648,
+      "nationalDex": 648,
+      "formeNumber": 0
+    },
+    {
+      "name": "MELOETTA_PIROUETTE",
+      "number": 1080,
+      "nationalDex": 648,
+      "formeNumber": 1
+    }
+  ],
+  "GENESECT": [
+    {
+      "name": "GENESECT",
+      "number": 649,
+      "nationalDex": 649,
+      "formeNumber": 0
+    },
+    {
+      "name": "GENESECT_DOUSE_DRIVE",
+      "number": 1081,
+      "nationalDex": 649,
+      "formeNumber": 1
+    },
+    {
+      "name": "GENESECT_SHOCK_DRIVE",
+      "number": 1082,
+      "nationalDex": 649,
+      "formeNumber": 2
+    },
+    {
+      "name": "GENESECT_BURN_DRIVE",
+      "number": 1083,
+      "nationalDex": 649,
+      "formeNumber": 3
+    },
+    {
+      "name": "GENESECT_CHILL_DRIVE",
+      "number": 1084,
+      "nationalDex": 649,
+      "formeNumber": 4
+    }
+  ],
+  "CHESPIN": [
+    {
+      "name": "CHESPIN",
+      "number": 650,
+      "nationalDex": 650,
+      "formeNumber": 0
+    }
+  ],
+  "QUILLADIN": [
+    {
+      "name": "QUILLADIN",
+      "number": 651,
+      "nationalDex": 651,
+      "formeNumber": 0
+    }
+  ],
+  "CHESNAUGHT": [
+    {
+      "name": "CHESNAUGHT",
+      "number": 652,
+      "nationalDex": 652,
+      "formeNumber": 0
+    }
+  ],
+  "FENNEKIN": [
+    {
+      "name": "FENNEKIN",
+      "number": 653,
+      "nationalDex": 653,
+      "formeNumber": 0
+    }
+  ],
+  "BRAIXEN": [
+    {
+      "name": "BRAIXEN",
+      "number": 654,
+      "nationalDex": 654,
+      "formeNumber": 0
+    }
+  ],
+  "DELPHOX": [
+    {
+      "name": "DELPHOX",
+      "number": 655,
+      "nationalDex": 655,
+      "formeNumber": 0
+    }
+  ],
+  "FROAKIE": [
+    {
+      "name": "FROAKIE",
+      "number": 656,
+      "nationalDex": 656,
+      "formeNumber": 0
+    }
+  ],
+  "FROGADIER": [
+    {
+      "name": "FROGADIER",
+      "number": 657,
+      "nationalDex": 657,
+      "formeNumber": 0
+    }
+  ],
+  "GRENINJA": [
+    {
+      "name": "GRENINJA",
+      "number": 658,
+      "nationalDex": 658,
+      "formeNumber": 0
+    },
+    {
+      "name": "GRENINJA_BATTLE_BOND",
+      "number": 1085,
+      "nationalDex": 658,
+      "formeNumber": 1
+    },
+    {
+      "name": "GRENINJA_ASH",
+      "number": 1086,
+      "nationalDex": 658,
+      "formeNumber": 2
+    }
+  ],
+  "BUNNELBY": [
+    {
+      "name": "BUNNELBY",
+      "number": 659,
+      "nationalDex": 659,
+      "formeNumber": 0
+    }
+  ],
+  "DIGGERSBY": [
+    {
+      "name": "DIGGERSBY",
+      "number": 660,
+      "nationalDex": 660,
+      "formeNumber": 0
+    }
+  ],
+  "FLETCHLING": [
+    {
+      "name": "FLETCHLING",
+      "number": 661,
+      "nationalDex": 661,
+      "formeNumber": 0
+    }
+  ],
+  "FLETCHINDER": [
+    {
+      "name": "FLETCHINDER",
+      "number": 662,
+      "nationalDex": 662,
+      "formeNumber": 0
+    }
+  ],
+  "TALONFLAME": [
+    {
+      "name": "TALONFLAME",
+      "number": 663,
+      "nationalDex": 663,
+      "formeNumber": 0
+    }
+  ],
+  "SCATTERBUG": [
+    {
+      "name": "SCATTERBUG",
+      "number": 664,
+      "nationalDex": 664,
+      "formeNumber": 0
+    }
+  ],
+  "SPEWPA": [
+    {
+      "name": "SPEWPA",
+      "number": 665,
+      "nationalDex": 665,
+      "formeNumber": 0
+    }
+  ],
+  "VIVILLON": [
+    {
+      "name": "VIVILLON",
+      "number": 666,
+      "nationalDex": 666,
+      "formeNumber": 0
+    },
+    {
+      "name": "VIVILLON_POLAR",
+      "number": 1087,
+      "nationalDex": 666,
+      "formeNumber": 1
+    },
+    {
+      "name": "VIVILLON_TUNDRA",
+      "number": 1088,
+      "nationalDex": 666,
+      "formeNumber": 2
+    },
+    {
+      "name": "VIVILLON_CONTINENTAL",
+      "number": 1089,
+      "nationalDex": 666,
+      "formeNumber": 3
+    },
+    {
+      "name": "VIVILLON_GARDEN",
+      "number": 1090,
+      "nationalDex": 666,
+      "formeNumber": 4
+    },
+    {
+      "name": "VIVILLON_ELEGANT",
+      "number": 1091,
+      "nationalDex": 666,
+      "formeNumber": 5
+    },
+    {
+      "name": "VIVILLON_MEADOW",
+      "number": 1092,
+      "nationalDex": 666,
+      "formeNumber": 6
+    },
+    {
+      "name": "VIVILLON_MODERN",
+      "number": 1093,
+      "nationalDex": 666,
+      "formeNumber": 7
+    },
+    {
+      "name": "VIVILLON_MARINE",
+      "number": 1094,
+      "nationalDex": 666,
+      "formeNumber": 8
+    },
+    {
+      "name": "VIVILLON_ARCHIPELAGO",
+      "number": 1095,
+      "nationalDex": 666,
+      "formeNumber": 9
+    },
+    {
+      "name": "VIVILLON_HIGH_PLAINS",
+      "number": 1096,
+      "nationalDex": 666,
+      "formeNumber": 10
+    },
+    {
+      "name": "VIVILLON_SANDSTORM",
+      "number": 1097,
+      "nationalDex": 666,
+      "formeNumber": 11
+    },
+    {
+      "name": "VIVILLON_RIVER",
+      "number": 1098,
+      "nationalDex": 666,
+      "formeNumber": 12
+    },
+    {
+      "name": "VIVILLON_MONSOON",
+      "number": 1099,
+      "nationalDex": 666,
+      "formeNumber": 13
+    },
+    {
+      "name": "VIVILLON_SAVANNA",
+      "number": 1100,
+      "nationalDex": 666,
+      "formeNumber": 14
+    },
+    {
+      "name": "VIVILLON_SUN",
+      "number": 1101,
+      "nationalDex": 666,
+      "formeNumber": 15
+    },
+    {
+      "name": "VIVILLON_OCEAN",
+      "number": 1102,
+      "nationalDex": 666,
+      "formeNumber": 16
+    },
+    {
+      "name": "VIVILLON_JUNGLE",
+      "number": 1103,
+      "nationalDex": 666,
+      "formeNumber": 17
+    },
+    {
+      "name": "VIVILLON_FANCY",
+      "number": 1104,
+      "nationalDex": 666,
+      "formeNumber": 18
+    },
+    {
+      "name": "VIVILLON_POKE_BALL",
+      "number": 1105,
+      "nationalDex": 666,
+      "formeNumber": 19
+    }
+  ],
+  "LITLEO": [
+    {
+      "name": "LITLEO",
+      "number": 667,
+      "nationalDex": 667,
+      "formeNumber": 0
+    }
+  ],
+  "PYROAR": [
+    {
+      "name": "PYROAR",
+      "number": 668,
+      "nationalDex": 668,
+      "formeNumber": 0
+    }
+  ],
+  "FLABEBE": [
+    {
+      "name": "FLABEBE",
+      "number": 669,
+      "nationalDex": 669,
+      "formeNumber": 0
+    },
+    {
+      "name": "FLABEBE_YELLOW_FLOWER",
+      "number": 1106,
+      "nationalDex": 669,
+      "formeNumber": 1
+    },
+    {
+      "name": "FLABEBE_ORANGE_FLOWER",
+      "number": 1107,
+      "nationalDex": 669,
+      "formeNumber": 2
+    },
+    {
+      "name": "FLABEBE_BLUE_FLOWER",
+      "number": 1108,
+      "nationalDex": 669,
+      "formeNumber": 3
+    },
+    {
+      "name": "FLABEBE_WHITE_FLOWER",
+      "number": 1109,
+      "nationalDex": 669,
+      "formeNumber": 4
+    }
+  ],
+  "FLOETTE": [
+    {
+      "name": "FLOETTE",
+      "number": 670,
+      "nationalDex": 670,
+      "formeNumber": 0
+    },
+    {
+      "name": "FLOETTE_YELLOW_FLOWER",
+      "number": 1110,
+      "nationalDex": 670,
+      "formeNumber": 1
+    },
+    {
+      "name": "FLOETTE_ORANGE_FLOWER",
+      "number": 1111,
+      "nationalDex": 670,
+      "formeNumber": 2
+    },
+    {
+      "name": "FLOETTE_BLUE_FLOWER",
+      "number": 1112,
+      "nationalDex": 670,
+      "formeNumber": 3
+    },
+    {
+      "name": "FLOETTE_WHITE_FLOWER",
+      "number": 1113,
+      "nationalDex": 670,
+      "formeNumber": 4
+    },
+    {
+      "name": "FLOETTE_ETERNAL_FLOWER",
+      "number": 1114,
+      "nationalDex": 670,
+      "formeNumber": 5
+    }
+  ],
+  "FLORGES": [
+    {
+      "name": "FLORGES",
+      "number": 671,
+      "nationalDex": 671,
+      "formeNumber": 0
+    },
+    {
+      "name": "FLORGES_YELLOW_FLOWER",
+      "number": 1115,
+      "nationalDex": 671,
+      "formeNumber": 1
+    },
+    {
+      "name": "FLORGES_ORANGE_FLOWER",
+      "number": 1116,
+      "nationalDex": 671,
+      "formeNumber": 2
+    },
+    {
+      "name": "FLORGES_BLUE_FLOWER",
+      "number": 1117,
+      "nationalDex": 671,
+      "formeNumber": 3
+    },
+    {
+      "name": "FLORGES_WHITE_FLOWER",
+      "number": 1118,
+      "nationalDex": 671,
+      "formeNumber": 4
+    }
+  ],
+  "SKIDDO": [
+    {
+      "name": "SKIDDO",
+      "number": 672,
+      "nationalDex": 672,
+      "formeNumber": 0
+    }
+  ],
+  "GOGOAT": [
+    {
+      "name": "GOGOAT",
+      "number": 673,
+      "nationalDex": 673,
+      "formeNumber": 0
+    }
+  ],
+  "PANCHAM": [
+    {
+      "name": "PANCHAM",
+      "number": 674,
+      "nationalDex": 674,
+      "formeNumber": 0
+    }
+  ],
+  "PANGORO": [
+    {
+      "name": "PANGORO",
+      "number": 675,
+      "nationalDex": 675,
+      "formeNumber": 0
+    }
+  ],
+  "FURFROU": [
+    {
+      "name": "FURFROU",
+      "number": 676,
+      "nationalDex": 676,
+      "formeNumber": 0
+    },
+    {
+      "name": "FURFROU_HEART_TRIM",
+      "number": 1119,
+      "nationalDex": 676,
+      "formeNumber": 1
+    },
+    {
+      "name": "FURFROU_STAR_TRIM",
+      "number": 1120,
+      "nationalDex": 676,
+      "formeNumber": 2
+    },
+    {
+      "name": "FURFROU_DIAMOND_TRIM",
+      "number": 1121,
+      "nationalDex": 676,
+      "formeNumber": 3
+    },
+    {
+      "name": "FURFROU_DEBUTANTE_TRIM",
+      "number": 1122,
+      "nationalDex": 676,
+      "formeNumber": 4
+    },
+    {
+      "name": "FURFROU_MATRON_TRIM",
+      "number": 1123,
+      "nationalDex": 676,
+      "formeNumber": 5
+    },
+    {
+      "name": "FURFROU_DANDY_TRIM",
+      "number": 1124,
+      "nationalDex": 676,
+      "formeNumber": 6
+    },
+    {
+      "name": "FURFROU_LA_REINE_TRIM",
+      "number": 1125,
+      "nationalDex": 676,
+      "formeNumber": 7
+    },
+    {
+      "name": "FURFROU_KABUKI_TRIM",
+      "number": 1126,
+      "nationalDex": 676,
+      "formeNumber": 8
+    },
+    {
+      "name": "FURFROU_PHARAOH_TRIM",
+      "number": 1127,
+      "nationalDex": 676,
+      "formeNumber": 9
+    }
+  ],
+  "ESPURR": [
+    {
+      "name": "ESPURR",
+      "number": 677,
+      "nationalDex": 677,
+      "formeNumber": 0
+    }
+  ],
+  "MEOWSTIC": [
+    {
+      "name": "MEOWSTIC",
+      "number": 678,
+      "nationalDex": 678,
+      "formeNumber": 0
+    },
+    {
+      "name": "MEOWSTIC_FEMALE",
+      "number": 1128,
+      "nationalDex": 678,
+      "formeNumber": 1
+    }
+  ],
+  "HONEDGE": [
+    {
+      "name": "HONEDGE",
+      "number": 679,
+      "nationalDex": 679,
+      "formeNumber": 0
+    }
+  ],
+  "DOUBLADE": [
+    {
+      "name": "DOUBLADE",
+      "number": 680,
+      "nationalDex": 680,
+      "formeNumber": 0
+    }
+  ],
+  "AEGISLASH": [
+    {
+      "name": "AEGISLASH",
+      "number": 681,
+      "nationalDex": 681,
+      "formeNumber": 0
+    },
+    {
+      "name": "AEGISLASH_BLADE",
+      "number": 1129,
+      "nationalDex": 681,
+      "formeNumber": 1
+    }
+  ],
+  "SPRITZEE": [
+    {
+      "name": "SPRITZEE",
+      "number": 682,
+      "nationalDex": 682,
+      "formeNumber": 0
+    }
+  ],
+  "AROMATISSE": [
+    {
+      "name": "AROMATISSE",
+      "number": 683,
+      "nationalDex": 683,
+      "formeNumber": 0
+    }
+  ],
+  "SWIRLIX": [
+    {
+      "name": "SWIRLIX",
+      "number": 684,
+      "nationalDex": 684,
+      "formeNumber": 0
+    }
+  ],
+  "SLURPUFF": [
+    {
+      "name": "SLURPUFF",
+      "number": 685,
+      "nationalDex": 685,
+      "formeNumber": 0
+    }
+  ],
+  "INKAY": [
+    {
+      "name": "INKAY",
+      "number": 686,
+      "nationalDex": 686,
+      "formeNumber": 0
+    }
+  ],
+  "MALAMAR": [
+    {
+      "name": "MALAMAR",
+      "number": 687,
+      "nationalDex": 687,
+      "formeNumber": 0
+    }
+  ],
+  "BINACLE": [
+    {
+      "name": "BINACLE",
+      "number": 688,
+      "nationalDex": 688,
+      "formeNumber": 0
+    }
+  ],
+  "BARBARACLE": [
+    {
+      "name": "BARBARACLE",
+      "number": 689,
+      "nationalDex": 689,
+      "formeNumber": 0
+    }
+  ],
+  "SKRELP": [
+    {
+      "name": "SKRELP",
+      "number": 690,
+      "nationalDex": 690,
+      "formeNumber": 0
+    }
+  ],
+  "DRAGALGE": [
+    {
+      "name": "DRAGALGE",
+      "number": 691,
+      "nationalDex": 691,
+      "formeNumber": 0
+    }
+  ],
+  "CLAUNCHER": [
+    {
+      "name": "CLAUNCHER",
+      "number": 692,
+      "nationalDex": 692,
+      "formeNumber": 0
+    }
+  ],
+  "CLAWITZER": [
+    {
+      "name": "CLAWITZER",
+      "number": 693,
+      "nationalDex": 693,
+      "formeNumber": 0
+    }
+  ],
+  "HELIOPTILE": [
+    {
+      "name": "HELIOPTILE",
+      "number": 694,
+      "nationalDex": 694,
+      "formeNumber": 0
+    }
+  ],
+  "HELIOLISK": [
+    {
+      "name": "HELIOLISK",
+      "number": 695,
+      "nationalDex": 695,
+      "formeNumber": 0
+    }
+  ],
+  "TYRUNT": [
+    {
+      "name": "TYRUNT",
+      "number": 696,
+      "nationalDex": 696,
+      "formeNumber": 0
+    }
+  ],
+  "TYRANTRUM": [
+    {
+      "name": "TYRANTRUM",
+      "number": 697,
+      "nationalDex": 697,
+      "formeNumber": 0
+    }
+  ],
+  "AMAURA": [
+    {
+      "name": "AMAURA",
+      "number": 698,
+      "nationalDex": 698,
+      "formeNumber": 0
+    }
+  ],
+  "AURORUS": [
+    {
+      "name": "AURORUS",
+      "number": 699,
+      "nationalDex": 699,
+      "formeNumber": 0
+    }
+  ],
+  "SYLVEON": [
+    {
+      "name": "SYLVEON",
+      "number": 700,
+      "nationalDex": 700,
+      "formeNumber": 0
+    }
+  ],
+  "HAWLUCHA": [
+    {
+      "name": "HAWLUCHA",
+      "number": 701,
+      "nationalDex": 701,
+      "formeNumber": 0
+    }
+  ],
+  "DEDENNE": [
+    {
+      "name": "DEDENNE",
+      "number": 702,
+      "nationalDex": 702,
+      "formeNumber": 0
+    }
+  ],
+  "CARBINK": [
+    {
+      "name": "CARBINK",
+      "number": 703,
+      "nationalDex": 703,
+      "formeNumber": 0
+    }
+  ],
+  "GOOMY": [
+    {
+      "name": "GOOMY",
+      "number": 704,
+      "nationalDex": 704,
+      "formeNumber": 0
+    }
+  ],
+  "SLIGGOO": [
+    {
+      "name": "SLIGGOO",
+      "number": 705,
+      "nationalDex": 705,
+      "formeNumber": 0
+    }
+  ],
+  "GOODRA": [
+    {
+      "name": "GOODRA",
+      "number": 706,
+      "nationalDex": 706,
+      "formeNumber": 0
+    }
+  ],
+  "KLEFKI": [
+    {
+      "name": "KLEFKI",
+      "number": 707,
+      "nationalDex": 707,
+      "formeNumber": 0
+    }
+  ],
+  "PHANTUMP": [
+    {
+      "name": "PHANTUMP",
+      "number": 708,
+      "nationalDex": 708,
+      "formeNumber": 0
+    }
+  ],
+  "TREVENANT": [
+    {
+      "name": "TREVENANT",
+      "number": 709,
+      "nationalDex": 709,
+      "formeNumber": 0
+    }
+  ],
+  "PUMPKABOO": [
+    {
+      "name": "PUMPKABOO",
+      "number": 710,
+      "nationalDex": 710,
+      "formeNumber": 0
+    },
+    {
+      "name": "PUMPKABOO_SMALL",
+      "number": 1130,
+      "nationalDex": 710,
+      "formeNumber": 1
+    },
+    {
+      "name": "PUMPKABOO_LARGE",
+      "number": 1131,
+      "nationalDex": 710,
+      "formeNumber": 2
+    },
+    {
+      "name": "PUMPKABOO_SUPER",
+      "number": 1132,
+      "nationalDex": 710,
+      "formeNumber": 3
+    }
+  ],
+  "GOURGEIST": [
+    {
+      "name": "GOURGEIST",
+      "number": 711,
+      "nationalDex": 711,
+      "formeNumber": 0
+    },
+    {
+      "name": "GOURGEIST_SMALL",
+      "number": 1133,
+      "nationalDex": 711,
+      "formeNumber": 1
+    },
+    {
+      "name": "GOURGEIST_LARGE",
+      "number": 1134,
+      "nationalDex": 711,
+      "formeNumber": 2
+    },
+    {
+      "name": "GOURGEIST_SUPER",
+      "number": 1135,
+      "nationalDex": 711,
+      "formeNumber": 3
+    }
+  ],
+  "BERGMITE": [
+    {
+      "name": "BERGMITE",
+      "number": 712,
+      "nationalDex": 712,
+      "formeNumber": 0
+    }
+  ],
+  "AVALUGG": [
+    {
+      "name": "AVALUGG",
+      "number": 713,
+      "nationalDex": 713,
+      "formeNumber": 0
+    }
+  ],
+  "NOIBAT": [
+    {
+      "name": "NOIBAT",
+      "number": 714,
+      "nationalDex": 714,
+      "formeNumber": 0
+    }
+  ],
+  "NOIVERN": [
+    {
+      "name": "NOIVERN",
+      "number": 715,
+      "nationalDex": 715,
+      "formeNumber": 0
+    }
+  ],
+  "XERNEAS": [
+    {
+      "name": "XERNEAS",
+      "number": 716,
+      "nationalDex": 716,
+      "formeNumber": 0
+    },
+    {
+      "name": "XERNEAS_ACTIVE",
+      "number": 1136,
+      "nationalDex": 716,
+      "formeNumber": 1
+    }
+  ],
+  "YVELTAL": [
+    {
+      "name": "YVELTAL",
+      "number": 717,
+      "nationalDex": 717,
+      "formeNumber": 0
+    }
+  ],
+  "ZYGARDE": [
+    {
+      "name": "ZYGARDE",
+      "number": 718,
+      "nationalDex": 718,
+      "formeNumber": 0
+    },
+    {
+      "name": "ZYGARDE_10",
+      "number": 1137,
+      "nationalDex": 718,
+      "formeNumber": 1
+    },
+    {
+      "name": "ZYGARDE_10_POWER_CONSTRUCT",
+      "number": 1138,
+      "nationalDex": 718,
+      "formeNumber": 2
+    },
+    {
+      "name": "ZYGARDE_50_POWER_CONSTRUCT",
+      "number": 1139,
+      "nationalDex": 718,
+      "formeNumber": 3
+    },
+    {
+      "name": "ZYGARDE_COMPLETE",
+      "number": 1140,
+      "nationalDex": 718,
+      "formeNumber": 4
+    }
+  ],
+  "DIANCIE": [
+    {
+      "name": "DIANCIE",
+      "number": 719,
+      "nationalDex": 719,
+      "formeNumber": 0
+    },
+    {
+      "name": "DIANCIE_MEGA",
+      "number": 945,
+      "nationalDex": 719,
+      "formeNumber": 1
+    }
+  ],
+  "HOOPA": [
+    {
+      "name": "HOOPA",
+      "number": 720,
+      "nationalDex": 720,
+      "formeNumber": 0
+    },
+    {
+      "name": "HOOPA_UNBOUND",
+      "number": 1141,
+      "nationalDex": 720,
+      "formeNumber": 1
+    }
+  ],
+  "VOLCANION": [
+    {
+      "name": "VOLCANION",
+      "number": 721,
+      "nationalDex": 721,
+      "formeNumber": 0
+    }
+  ],
+  "ROWLET": [
+    {
+      "name": "ROWLET",
+      "number": 722,
+      "nationalDex": 722,
+      "formeNumber": 0
+    }
+  ],
+  "DARTRIX": [
+    {
+      "name": "DARTRIX",
+      "number": 723,
+      "nationalDex": 723,
+      "formeNumber": 0
+    }
+  ],
+  "DECIDUEYE": [
+    {
+      "name": "DECIDUEYE",
+      "number": 724,
+      "nationalDex": 724,
+      "formeNumber": 0
+    }
+  ],
+  "LITTEN": [
+    {
+      "name": "LITTEN",
+      "number": 725,
+      "nationalDex": 725,
+      "formeNumber": 0
+    }
+  ],
+  "TORRACAT": [
+    {
+      "name": "TORRACAT",
+      "number": 726,
+      "nationalDex": 726,
+      "formeNumber": 0
+    }
+  ],
+  "INCINEROAR": [
+    {
+      "name": "INCINEROAR",
+      "number": 727,
+      "nationalDex": 727,
+      "formeNumber": 0
+    }
+  ],
+  "POPPLIO": [
+    {
+      "name": "POPPLIO",
+      "number": 728,
+      "nationalDex": 728,
+      "formeNumber": 0
+    }
+  ],
+  "BRIONNE": [
+    {
+      "name": "BRIONNE",
+      "number": 729,
+      "nationalDex": 729,
+      "formeNumber": 0
+    }
+  ],
+  "PRIMARINA": [
+    {
+      "name": "PRIMARINA",
+      "number": 730,
+      "nationalDex": 730,
+      "formeNumber": 0
+    }
+  ],
+  "PIKIPEK": [
+    {
+      "name": "PIKIPEK",
+      "number": 731,
+      "nationalDex": 731,
+      "formeNumber": 0
+    }
+  ],
+  "TRUMBEAK": [
+    {
+      "name": "TRUMBEAK",
+      "number": 732,
+      "nationalDex": 732,
+      "formeNumber": 0
+    }
+  ],
+  "TOUCANNON": [
+    {
+      "name": "TOUCANNON",
+      "number": 733,
+      "nationalDex": 733,
+      "formeNumber": 0
+    }
+  ],
+  "YUNGOOS": [
+    {
+      "name": "YUNGOOS",
+      "number": 734,
+      "nationalDex": 734,
+      "formeNumber": 0
+    }
+  ],
+  "GUMSHOOS": [
+    {
+      "name": "GUMSHOOS",
+      "number": 735,
+      "nationalDex": 735,
+      "formeNumber": 0
+    }
+  ],
+  "GRUBBIN": [
+    {
+      "name": "GRUBBIN",
+      "number": 736,
+      "nationalDex": 736,
+      "formeNumber": 0
+    }
+  ],
+  "CHARJABUG": [
+    {
+      "name": "CHARJABUG",
+      "number": 737,
+      "nationalDex": 737,
+      "formeNumber": 0
+    }
+  ],
+  "VIKAVOLT": [
+    {
+      "name": "VIKAVOLT",
+      "number": 738,
+      "nationalDex": 738,
+      "formeNumber": 0
+    }
+  ],
+  "CRABRAWLER": [
+    {
+      "name": "CRABRAWLER",
+      "number": 739,
+      "nationalDex": 739,
+      "formeNumber": 0
+    }
+  ],
+  "CRABOMINABLE": [
+    {
+      "name": "CRABOMINABLE",
+      "number": 740,
+      "nationalDex": 740,
+      "formeNumber": 0
+    }
+  ],
+  "ORICORIO": [
+    {
+      "name": "ORICORIO",
+      "number": 741,
+      "nationalDex": 741,
+      "formeNumber": 0
+    },
+    {
+      "name": "ORICORIO_POM_POM",
+      "number": 1142,
+      "nationalDex": 741,
+      "formeNumber": 1
+    },
+    {
+      "name": "ORICORIO_PAU",
+      "number": 1143,
+      "nationalDex": 741,
+      "formeNumber": 2
+    },
+    {
+      "name": "ORICORIO_SENSU",
+      "number": 1144,
+      "nationalDex": 741,
+      "formeNumber": 3
+    }
+  ],
+  "CUTIEFLY": [
+    {
+      "name": "CUTIEFLY",
+      "number": 742,
+      "nationalDex": 742,
+      "formeNumber": 0
+    }
+  ],
+  "RIBOMBEE": [
+    {
+      "name": "RIBOMBEE",
+      "number": 743,
+      "nationalDex": 743,
+      "formeNumber": 0
+    }
+  ],
+  "ROCKRUFF": [
+    {
+      "name": "ROCKRUFF",
+      "number": 744,
+      "nationalDex": 744,
+      "formeNumber": 0
+    },
+    {
+      "name": "ROCKRUFF_OWN_TEMPO",
+      "number": 1145,
+      "nationalDex": 744,
+      "formeNumber": 1
+    }
+  ],
+  "LYCANROC": [
+    {
+      "name": "LYCANROC",
+      "number": 745,
+      "nationalDex": 745,
+      "formeNumber": 0
+    },
+    {
+      "name": "LYCANROC_MIDNIGHT",
+      "number": 1146,
+      "nationalDex": 745,
+      "formeNumber": 1
+    },
+    {
+      "name": "LYCANROC_DUSK",
+      "number": 1147,
+      "nationalDex": 745,
+      "formeNumber": 2
+    }
+  ],
+  "WISHIWASHI": [
+    {
+      "name": "WISHIWASHI",
+      "number": 746,
+      "nationalDex": 746,
+      "formeNumber": 0
+    },
+    {
+      "name": "WISHIWASHI_SCHOOL",
+      "number": 1148,
+      "nationalDex": 746,
+      "formeNumber": 1
+    }
+  ],
+  "MAREANIE": [
+    {
+      "name": "MAREANIE",
+      "number": 747,
+      "nationalDex": 747,
+      "formeNumber": 0
+    }
+  ],
+  "TOXAPEX": [
+    {
+      "name": "TOXAPEX",
+      "number": 748,
+      "nationalDex": 748,
+      "formeNumber": 0
+    }
+  ],
+  "MUDBRAY": [
+    {
+      "name": "MUDBRAY",
+      "number": 749,
+      "nationalDex": 749,
+      "formeNumber": 0
+    }
+  ],
+  "MUDSDALE": [
+    {
+      "name": "MUDSDALE",
+      "number": 750,
+      "nationalDex": 750,
+      "formeNumber": 0
+    }
+  ],
+  "DEWPIDER": [
+    {
+      "name": "DEWPIDER",
+      "number": 751,
+      "nationalDex": 751,
+      "formeNumber": 0
+    }
+  ],
+  "ARAQUANID": [
+    {
+      "name": "ARAQUANID",
+      "number": 752,
+      "nationalDex": 752,
+      "formeNumber": 0
+    }
+  ],
+  "FOMANTIS": [
+    {
+      "name": "FOMANTIS",
+      "number": 753,
+      "nationalDex": 753,
+      "formeNumber": 0
+    }
+  ],
+  "LURANTIS": [
+    {
+      "name": "LURANTIS",
+      "number": 754,
+      "nationalDex": 754,
+      "formeNumber": 0
+    }
+  ],
+  "MORELULL": [
+    {
+      "name": "MORELULL",
+      "number": 755,
+      "nationalDex": 755,
+      "formeNumber": 0
+    }
+  ],
+  "SHIINOTIC": [
+    {
+      "name": "SHIINOTIC",
+      "number": 756,
+      "nationalDex": 756,
+      "formeNumber": 0
+    }
+  ],
+  "SALANDIT": [
+    {
+      "name": "SALANDIT",
+      "number": 757,
+      "nationalDex": 757,
+      "formeNumber": 0
+    }
+  ],
+  "SALAZZLE": [
+    {
+      "name": "SALAZZLE",
+      "number": 758,
+      "nationalDex": 758,
+      "formeNumber": 0
+    }
+  ],
+  "STUFFUL": [
+    {
+      "name": "STUFFUL",
+      "number": 759,
+      "nationalDex": 759,
+      "formeNumber": 0
+    }
+  ],
+  "BEWEAR": [
+    {
+      "name": "BEWEAR",
+      "number": 760,
+      "nationalDex": 760,
+      "formeNumber": 0
+    }
+  ],
+  "BOUNSWEET": [
+    {
+      "name": "BOUNSWEET",
+      "number": 761,
+      "nationalDex": 761,
+      "formeNumber": 0
+    }
+  ],
+  "STEENEE": [
+    {
+      "name": "STEENEE",
+      "number": 762,
+      "nationalDex": 762,
+      "formeNumber": 0
+    }
+  ],
+  "TSAREENA": [
+    {
+      "name": "TSAREENA",
+      "number": 763,
+      "nationalDex": 763,
+      "formeNumber": 0
+    }
+  ],
+  "COMFEY": [
+    {
+      "name": "COMFEY",
+      "number": 764,
+      "nationalDex": 764,
+      "formeNumber": 0
+    }
+  ],
+  "ORANGURU": [
+    {
+      "name": "ORANGURU",
+      "number": 765,
+      "nationalDex": 765,
+      "formeNumber": 0
+    }
+  ],
+  "PASSIMIAN": [
+    {
+      "name": "PASSIMIAN",
+      "number": 766,
+      "nationalDex": 766,
+      "formeNumber": 0
+    }
+  ],
+  "WIMPOD": [
+    {
+      "name": "WIMPOD",
+      "number": 767,
+      "nationalDex": 767,
+      "formeNumber": 0
+    }
+  ],
+  "GOLISOPOD": [
+    {
+      "name": "GOLISOPOD",
+      "number": 768,
+      "nationalDex": 768,
+      "formeNumber": 0
+    }
+  ],
+  "SANDYGAST": [
+    {
+      "name": "SANDYGAST",
+      "number": 769,
+      "nationalDex": 769,
+      "formeNumber": 0
+    }
+  ],
+  "PALOSSAND": [
+    {
+      "name": "PALOSSAND",
+      "number": 770,
+      "nationalDex": 770,
+      "formeNumber": 0
+    }
+  ],
+  "PYUKUMUKU": [
+    {
+      "name": "PYUKUMUKU",
+      "number": 771,
+      "nationalDex": 771,
+      "formeNumber": 0
+    }
+  ],
+  "TYPE": [
+    {
+      "name": "TYPE_NULL",
+      "number": 772,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "SILVALLY": [
+    {
+      "name": "SILVALLY",
+      "number": 773,
+      "nationalDex": 773,
+      "formeNumber": 0
+    },
+    {
+      "name": "SILVALLY_FIGHTING",
+      "number": 1149,
+      "nationalDex": 773,
+      "formeNumber": 1
+    },
+    {
+      "name": "SILVALLY_FLYING",
+      "number": 1150,
+      "nationalDex": 773,
+      "formeNumber": 2
+    },
+    {
+      "name": "SILVALLY_POISON",
+      "number": 1151,
+      "nationalDex": 773,
+      "formeNumber": 3
+    },
+    {
+      "name": "SILVALLY_GROUND",
+      "number": 1152,
+      "nationalDex": 773,
+      "formeNumber": 4
+    },
+    {
+      "name": "SILVALLY_ROCK",
+      "number": 1153,
+      "nationalDex": 773,
+      "formeNumber": 5
+    },
+    {
+      "name": "SILVALLY_BUG",
+      "number": 1154,
+      "nationalDex": 773,
+      "formeNumber": 6
+    },
+    {
+      "name": "SILVALLY_GHOST",
+      "number": 1155,
+      "nationalDex": 773,
+      "formeNumber": 7
+    },
+    {
+      "name": "SILVALLY_STEEL",
+      "number": 1156,
+      "nationalDex": 773,
+      "formeNumber": 8
+    },
+    {
+      "name": "SILVALLY_FIRE",
+      "number": 1157,
+      "nationalDex": 773,
+      "formeNumber": 9
+    },
+    {
+      "name": "SILVALLY_WATER",
+      "number": 1158,
+      "nationalDex": 773,
+      "formeNumber": 10
+    },
+    {
+      "name": "SILVALLY_GRASS",
+      "number": 1159,
+      "nationalDex": 773,
+      "formeNumber": 11
+    },
+    {
+      "name": "SILVALLY_ELECTRIC",
+      "number": 1160,
+      "nationalDex": 773,
+      "formeNumber": 12
+    },
+    {
+      "name": "SILVALLY_PSYCHIC",
+      "number": 1161,
+      "nationalDex": 773,
+      "formeNumber": 13
+    },
+    {
+      "name": "SILVALLY_ICE",
+      "number": 1162,
+      "nationalDex": 773,
+      "formeNumber": 14
+    },
+    {
+      "name": "SILVALLY_DRAGON",
+      "number": 1163,
+      "nationalDex": 773,
+      "formeNumber": 15
+    },
+    {
+      "name": "SILVALLY_DARK",
+      "number": 1164,
+      "nationalDex": 773,
+      "formeNumber": 16
+    },
+    {
+      "name": "SILVALLY_FAIRY",
+      "number": 1165,
+      "nationalDex": 773,
+      "formeNumber": 17
+    }
+  ],
+  "MINIOR": [
+    {
+      "name": "MINIOR",
+      "number": 774,
+      "nationalDex": 0,
+      "formeNumber": 0
+    },
+    {
+      "name": "MINIOR_METEOR_ORANGE",
+      "number": 1166,
+      "nationalDex": 0,
+      "formeNumber": 1
+    },
+    {
+      "name": "MINIOR_METEOR_YELLOW",
+      "number": 1167,
+      "nationalDex": 0,
+      "formeNumber": 2
+    },
+    {
+      "name": "MINIOR_METEOR_GREEN",
+      "number": 1168,
+      "nationalDex": 0,
+      "formeNumber": 3
+    },
+    {
+      "name": "MINIOR_METEOR_BLUE",
+      "number": 1169,
+      "nationalDex": 0,
+      "formeNumber": 4
+    },
+    {
+      "name": "MINIOR_METEOR_INDIGO",
+      "number": 1170,
+      "nationalDex": 0,
+      "formeNumber": 5
+    },
+    {
+      "name": "MINIOR_METEOR_VIOLET",
+      "number": 1171,
+      "nationalDex": 0,
+      "formeNumber": 6
+    },
+    {
+      "name": "MINIOR_CORE_RED",
+      "number": 1172,
+      "nationalDex": 0,
+      "formeNumber": 7
+    },
+    {
+      "name": "MINIOR_CORE_ORANGE",
+      "number": 1173,
+      "nationalDex": 0,
+      "formeNumber": 8
+    },
+    {
+      "name": "MINIOR_CORE_YELLOW",
+      "number": 1174,
+      "nationalDex": 0,
+      "formeNumber": 9
+    },
+    {
+      "name": "MINIOR_CORE_GREEN",
+      "number": 1175,
+      "nationalDex": 0,
+      "formeNumber": 10
+    },
+    {
+      "name": "MINIOR_CORE_BLUE",
+      "number": 1176,
+      "nationalDex": 0,
+      "formeNumber": 11
+    },
+    {
+      "name": "MINIOR_CORE_INDIGO",
+      "number": 1177,
+      "nationalDex": 0,
+      "formeNumber": 12
+    },
+    {
+      "name": "MINIOR_CORE_VIOLET",
+      "number": 1178,
+      "nationalDex": 0,
+      "formeNumber": 13
+    }
+  ],
+  "KOMALA": [
+    {
+      "name": "KOMALA",
+      "number": 775,
+      "nationalDex": 775,
+      "formeNumber": 0
+    }
+  ],
+  "TURTONATOR": [
+    {
+      "name": "TURTONATOR",
+      "number": 776,
+      "nationalDex": 776,
+      "formeNumber": 0
+    }
+  ],
+  "TOGEDEMARU": [
+    {
+      "name": "TOGEDEMARU",
+      "number": 777,
+      "nationalDex": 777,
+      "formeNumber": 0
+    }
+  ],
+  "MIMIKYU": [
+    {
+      "name": "MIMIKYU",
+      "number": 778,
+      "nationalDex": 778,
+      "formeNumber": 0
+    },
+    {
+      "name": "MIMIKYU_BUSTED",
+      "number": 1179,
+      "nationalDex": 778,
+      "formeNumber": 1
+    }
+  ],
+  "BRUXISH": [
+    {
+      "name": "BRUXISH",
+      "number": 779,
+      "nationalDex": 779,
+      "formeNumber": 0
+    }
+  ],
+  "DRAMPA": [
+    {
+      "name": "DRAMPA",
+      "number": 780,
+      "nationalDex": 780,
+      "formeNumber": 0
+    }
+  ],
+  "DHELMISE": [
+    {
+      "name": "DHELMISE",
+      "number": 781,
+      "nationalDex": 781,
+      "formeNumber": 0
+    }
+  ],
+  "JANGMO_O": [
+    {
+      "name": "JANGMO_O",
+      "number": 782,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "HAKAMO_O": [
+    {
+      "name": "HAKAMO_O",
+      "number": 783,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "KOMMO_O": [
+    {
+      "name": "KOMMO_O",
+      "number": 784,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "TAPU": [
+    {
+      "name": "TAPU_KOKO",
+      "number": 785,
+      "nationalDex": 0,
+      "formeNumber": 0
+    },
+    {
+      "name": "TAPU_LELE",
+      "number": 786,
+      "nationalDex": 0,
+      "formeNumber": 1
+    },
+    {
+      "name": "TAPU_BULU",
+      "number": 787,
+      "nationalDex": 0,
+      "formeNumber": 2
+    },
+    {
+      "name": "TAPU_FINI",
+      "number": 788,
+      "nationalDex": 0,
+      "formeNumber": 3
+    }
+  ],
+  "COSMOG": [
+    {
+      "name": "COSMOG",
+      "number": 789,
+      "nationalDex": 789,
+      "formeNumber": 0
+    }
+  ],
+  "COSMOEM": [
+    {
+      "name": "COSMOEM",
+      "number": 790,
+      "nationalDex": 790,
+      "formeNumber": 0
+    }
+  ],
+  "SOLGALEO": [
+    {
+      "name": "SOLGALEO",
+      "number": 791,
+      "nationalDex": 791,
+      "formeNumber": 0
+    }
+  ],
+  "LUNALA": [
+    {
+      "name": "LUNALA",
+      "number": 792,
+      "nationalDex": 792,
+      "formeNumber": 0
+    }
+  ],
+  "NIHILEGO": [
+    {
+      "name": "NIHILEGO",
+      "number": 793,
+      "nationalDex": 793,
+      "formeNumber": 0
+    }
+  ],
+  "BUZZWOLE": [
+    {
+      "name": "BUZZWOLE",
+      "number": 794,
+      "nationalDex": 794,
+      "formeNumber": 0
+    }
+  ],
+  "PHEROMOSA": [
+    {
+      "name": "PHEROMOSA",
+      "number": 795,
+      "nationalDex": 795,
+      "formeNumber": 0
+    }
+  ],
+  "XURKITREE": [
+    {
+      "name": "XURKITREE",
+      "number": 796,
+      "nationalDex": 796,
+      "formeNumber": 0
+    }
+  ],
+  "CELESTEELA": [
+    {
+      "name": "CELESTEELA",
+      "number": 797,
+      "nationalDex": 797,
+      "formeNumber": 0
+    }
+  ],
+  "KARTANA": [
+    {
+      "name": "KARTANA",
+      "number": 798,
+      "nationalDex": 798,
+      "formeNumber": 0
+    }
+  ],
+  "GUZZLORD": [
+    {
+      "name": "GUZZLORD",
+      "number": 799,
+      "nationalDex": 799,
+      "formeNumber": 0
+    }
+  ],
+  "NECROZMA": [
+    {
+      "name": "NECROZMA",
+      "number": 800,
+      "nationalDex": 800,
+      "formeNumber": 0
+    },
+    {
+      "name": "NECROZMA_DUSK_MANE",
+      "number": 1180,
+      "nationalDex": 800,
+      "formeNumber": 1
+    },
+    {
+      "name": "NECROZMA_DAWN_WINGS",
+      "number": 1181,
+      "nationalDex": 800,
+      "formeNumber": 2
+    },
+    {
+      "name": "NECROZMA_ULTRA",
+      "number": 1182,
+      "nationalDex": 800,
+      "formeNumber": 3
+    }
+  ],
+  "MAGEARNA": [
+    {
+      "name": "MAGEARNA",
+      "number": 801,
+      "nationalDex": 801,
+      "formeNumber": 0
+    },
+    {
+      "name": "MAGEARNA_ORIGINAL_COLOR",
+      "number": 1183,
+      "nationalDex": 801,
+      "formeNumber": 1
+    }
+  ],
+  "MARSHADOW": [
+    {
+      "name": "MARSHADOW",
+      "number": 802,
+      "nationalDex": 802,
+      "formeNumber": 0
+    }
+  ],
+  "POIPOLE": [
+    {
+      "name": "POIPOLE",
+      "number": 803,
+      "nationalDex": 803,
+      "formeNumber": 0
+    }
+  ],
+  "NAGANADEL": [
+    {
+      "name": "NAGANADEL",
+      "number": 804,
+      "nationalDex": 804,
+      "formeNumber": 0
+    }
+  ],
+  "STAKATAKA": [
+    {
+      "name": "STAKATAKA",
+      "number": 805,
+      "nationalDex": 805,
+      "formeNumber": 0
+    }
+  ],
+  "BLACEPHALON": [
+    {
+      "name": "BLACEPHALON",
+      "number": 806,
+      "nationalDex": 806,
+      "formeNumber": 0
+    }
+  ],
+  "ZERAORA": [
+    {
+      "name": "ZERAORA",
+      "number": 807,
+      "nationalDex": 807,
+      "formeNumber": 0
+    }
+  ],
+  "MELTAN": [
+    {
+      "name": "MELTAN",
+      "number": 808,
+      "nationalDex": 808,
+      "formeNumber": 0
+    }
+  ],
+  "MELMETAL": [
+    {
+      "name": "MELMETAL",
+      "number": 809,
+      "nationalDex": 809,
+      "formeNumber": 0
+    }
+  ],
+  "GROOKEY": [
+    {
+      "name": "GROOKEY",
+      "number": 810,
+      "nationalDex": 810,
+      "formeNumber": 0
+    }
+  ],
+  "THWACKEY": [
+    {
+      "name": "THWACKEY",
+      "number": 811,
+      "nationalDex": 811,
+      "formeNumber": 0
+    }
+  ],
+  "RILLABOOM": [
+    {
+      "name": "RILLABOOM",
+      "number": 812,
+      "nationalDex": 812,
+      "formeNumber": 0
+    }
+  ],
+  "SCORBUNNY": [
+    {
+      "name": "SCORBUNNY",
+      "number": 813,
+      "nationalDex": 813,
+      "formeNumber": 0
+    }
+  ],
+  "RABOOT": [
+    {
+      "name": "RABOOT",
+      "number": 814,
+      "nationalDex": 814,
+      "formeNumber": 0
+    }
+  ],
+  "CINDERACE": [
+    {
+      "name": "CINDERACE",
+      "number": 815,
+      "nationalDex": 815,
+      "formeNumber": 0
+    }
+  ],
+  "SOBBLE": [
+    {
+      "name": "SOBBLE",
+      "number": 816,
+      "nationalDex": 816,
+      "formeNumber": 0
+    }
+  ],
+  "DRIZZILE": [
+    {
+      "name": "DRIZZILE",
+      "number": 817,
+      "nationalDex": 817,
+      "formeNumber": 0
+    }
+  ],
+  "INTELEON": [
+    {
+      "name": "INTELEON",
+      "number": 818,
+      "nationalDex": 818,
+      "formeNumber": 0
+    }
+  ],
+  "SKWOVET": [
+    {
+      "name": "SKWOVET",
+      "number": 819,
+      "nationalDex": 819,
+      "formeNumber": 0
+    }
+  ],
+  "GREEDENT": [
+    {
+      "name": "GREEDENT",
+      "number": 820,
+      "nationalDex": 820,
+      "formeNumber": 0
+    }
+  ],
+  "ROOKIDEE": [
+    {
+      "name": "ROOKIDEE",
+      "number": 821,
+      "nationalDex": 821,
+      "formeNumber": 0
+    }
+  ],
+  "CORVISQUIRE": [
+    {
+      "name": "CORVISQUIRE",
+      "number": 822,
+      "nationalDex": 822,
+      "formeNumber": 0
+    }
+  ],
+  "CORVIKNIGHT": [
+    {
+      "name": "CORVIKNIGHT",
+      "number": 823,
+      "nationalDex": 823,
+      "formeNumber": 0
+    }
+  ],
+  "BLIPBUG": [
+    {
+      "name": "BLIPBUG",
+      "number": 824,
+      "nationalDex": 824,
+      "formeNumber": 0
+    }
+  ],
+  "DOTTLER": [
+    {
+      "name": "DOTTLER",
+      "number": 825,
+      "nationalDex": 825,
+      "formeNumber": 0
+    }
+  ],
+  "ORBEETLE": [
+    {
+      "name": "ORBEETLE",
+      "number": 826,
+      "nationalDex": 826,
+      "formeNumber": 0
+    }
+  ],
+  "NICKIT": [
+    {
+      "name": "NICKIT",
+      "number": 827,
+      "nationalDex": 827,
+      "formeNumber": 0
+    }
+  ],
+  "THIEVUL": [
+    {
+      "name": "THIEVUL",
+      "number": 828,
+      "nationalDex": 828,
+      "formeNumber": 0
+    }
+  ],
+  "GOSSIFLEUR": [
+    {
+      "name": "GOSSIFLEUR",
+      "number": 829,
+      "nationalDex": 829,
+      "formeNumber": 0
+    }
+  ],
+  "ELDEGOSS": [
+    {
+      "name": "ELDEGOSS",
+      "number": 830,
+      "nationalDex": 830,
+      "formeNumber": 0
+    }
+  ],
+  "WOOLOO": [
+    {
+      "name": "WOOLOO",
+      "number": 831,
+      "nationalDex": 831,
+      "formeNumber": 0
+    }
+  ],
+  "DUBWOOL": [
+    {
+      "name": "DUBWOOL",
+      "number": 832,
+      "nationalDex": 832,
+      "formeNumber": 0
+    }
+  ],
+  "CHEWTLE": [
+    {
+      "name": "CHEWTLE",
+      "number": 833,
+      "nationalDex": 833,
+      "formeNumber": 0
+    }
+  ],
+  "DREDNAW": [
+    {
+      "name": "DREDNAW",
+      "number": 834,
+      "nationalDex": 834,
+      "formeNumber": 0
+    }
+  ],
+  "YAMPER": [
+    {
+      "name": "YAMPER",
+      "number": 835,
+      "nationalDex": 835,
+      "formeNumber": 0
+    }
+  ],
+  "BOLTUND": [
+    {
+      "name": "BOLTUND",
+      "number": 836,
+      "nationalDex": 836,
+      "formeNumber": 0
+    }
+  ],
+  "ROLYCOLY": [
+    {
+      "name": "ROLYCOLY",
+      "number": 837,
+      "nationalDex": 837,
+      "formeNumber": 0
+    }
+  ],
+  "CARKOL": [
+    {
+      "name": "CARKOL",
+      "number": 838,
+      "nationalDex": 838,
+      "formeNumber": 0
+    }
+  ],
+  "COALOSSAL": [
+    {
+      "name": "COALOSSAL",
+      "number": 839,
+      "nationalDex": 839,
+      "formeNumber": 0
+    }
+  ],
+  "APPLIN": [
+    {
+      "name": "APPLIN",
+      "number": 840,
+      "nationalDex": 840,
+      "formeNumber": 0
+    }
+  ],
+  "FLAPPLE": [
+    {
+      "name": "FLAPPLE",
+      "number": 841,
+      "nationalDex": 841,
+      "formeNumber": 0
+    }
+  ],
+  "APPLETUN": [
+    {
+      "name": "APPLETUN",
+      "number": 842,
+      "nationalDex": 842,
+      "formeNumber": 0
+    }
+  ],
+  "SILICOBRA": [
+    {
+      "name": "SILICOBRA",
+      "number": 843,
+      "nationalDex": 843,
+      "formeNumber": 0
+    }
+  ],
+  "SANDACONDA": [
+    {
+      "name": "SANDACONDA",
+      "number": 844,
+      "nationalDex": 844,
+      "formeNumber": 0
+    }
+  ],
+  "CRAMORANT": [
+    {
+      "name": "CRAMORANT",
+      "number": 845,
+      "nationalDex": 845,
+      "formeNumber": 0
+    },
+    {
+      "name": "CRAMORANT_GULPING",
+      "number": 1184,
+      "nationalDex": 845,
+      "formeNumber": 1
+    },
+    {
+      "name": "CRAMORANT_GORGING",
+      "number": 1185,
+      "nationalDex": 845,
+      "formeNumber": 2
+    }
+  ],
+  "ARROKUDA": [
+    {
+      "name": "ARROKUDA",
+      "number": 846,
+      "nationalDex": 846,
+      "formeNumber": 0
+    }
+  ],
+  "BARRASKEWDA": [
+    {
+      "name": "BARRASKEWDA",
+      "number": 847,
+      "nationalDex": 847,
+      "formeNumber": 0
+    }
+  ],
+  "TOXEL": [
+    {
+      "name": "TOXEL",
+      "number": 848,
+      "nationalDex": 848,
+      "formeNumber": 0
+    }
+  ],
+  "TOXTRICITY": [
+    {
+      "name": "TOXTRICITY",
+      "number": 849,
+      "nationalDex": 849,
+      "formeNumber": 0
+    },
+    {
+      "name": "TOXTRICITY_LOW_KEY",
+      "number": 1186,
+      "nationalDex": 849,
+      "formeNumber": 1
+    }
+  ],
+  "SIZZLIPEDE": [
+    {
+      "name": "SIZZLIPEDE",
+      "number": 850,
+      "nationalDex": 850,
+      "formeNumber": 0
+    }
+  ],
+  "CENTISKORCH": [
+    {
+      "name": "CENTISKORCH",
+      "number": 851,
+      "nationalDex": 851,
+      "formeNumber": 0
+    }
+  ],
+  "CLOBBOPUS": [
+    {
+      "name": "CLOBBOPUS",
+      "number": 852,
+      "nationalDex": 852,
+      "formeNumber": 0
+    }
+  ],
+  "GRAPPLOCT": [
+    {
+      "name": "GRAPPLOCT",
+      "number": 853,
+      "nationalDex": 853,
+      "formeNumber": 0
+    }
+  ],
+  "SINISTEA": [
+    {
+      "name": "SINISTEA",
+      "number": 854,
+      "nationalDex": 854,
+      "formeNumber": 0
+    },
+    {
+      "name": "SINISTEA_ANTIQUE",
+      "number": 1187,
+      "nationalDex": 854,
+      "formeNumber": 1
+    }
+  ],
+  "POLTEAGEIST": [
+    {
+      "name": "POLTEAGEIST",
+      "number": 855,
+      "nationalDex": 855,
+      "formeNumber": 0
+    },
+    {
+      "name": "POLTEAGEIST_ANTIQUE",
+      "number": 1188,
+      "nationalDex": 855,
+      "formeNumber": 1
+    }
+  ],
+  "HATENNA": [
+    {
+      "name": "HATENNA",
+      "number": 856,
+      "nationalDex": 856,
+      "formeNumber": 0
+    }
+  ],
+  "HATTREM": [
+    {
+      "name": "HATTREM",
+      "number": 857,
+      "nationalDex": 857,
+      "formeNumber": 0
+    }
+  ],
+  "HATTERENE": [
+    {
+      "name": "HATTERENE",
+      "number": 858,
+      "nationalDex": 858,
+      "formeNumber": 0
+    }
+  ],
+  "IMPIDIMP": [
+    {
+      "name": "IMPIDIMP",
+      "number": 859,
+      "nationalDex": 859,
+      "formeNumber": 0
+    }
+  ],
+  "MORGREM": [
+    {
+      "name": "MORGREM",
+      "number": 860,
+      "nationalDex": 860,
+      "formeNumber": 0
+    }
+  ],
+  "GRIMMSNARL": [
+    {
+      "name": "GRIMMSNARL",
+      "number": 861,
+      "nationalDex": 861,
+      "formeNumber": 0
+    }
+  ],
+  "OBSTAGOON": [
+    {
+      "name": "OBSTAGOON",
+      "number": 862,
+      "nationalDex": 862,
+      "formeNumber": 0
+    }
+  ],
+  "PERRSERKER": [
+    {
+      "name": "PERRSERKER",
+      "number": 863,
+      "nationalDex": 863,
+      "formeNumber": 0
+    }
+  ],
+  "CURSOLA": [
+    {
+      "name": "CURSOLA",
+      "number": 864,
+      "nationalDex": 864,
+      "formeNumber": 0
+    }
+  ],
+  "SIRFETCHD": [
+    {
+      "name": "SIRFETCHD",
+      "number": 865,
+      "nationalDex": 865,
+      "formeNumber": 0
+    }
+  ],
+  "MR_RIME": [
+    {
+      "name": "MR_RIME",
+      "number": 866,
+      "nationalDex": 0,
+      "formeNumber": 0
+    }
+  ],
+  "RUNERIGUS": [
+    {
+      "name": "RUNERIGUS",
+      "number": 867,
+      "nationalDex": 867,
+      "formeNumber": 0
+    }
+  ],
+  "MILCERY": [
+    {
+      "name": "MILCERY",
+      "number": 868,
+      "nationalDex": 868,
+      "formeNumber": 0
+    }
+  ],
+  "ALCREMIE": [
+    {
+      "name": "ALCREMIE",
+      "number": 869,
+      "nationalDex": 869,
+      "formeNumber": 0
+    },
+    {
+      "name": "ALCREMIE_RUBY_CREAM",
+      "number": 1189,
+      "nationalDex": 869,
+      "formeNumber": 0
+    },
+    {
+      "name": "ALCREMIE_MATCHA_CREAM",
+      "number": 1190,
+      "nationalDex": 869,
+      "formeNumber": 64
+    },
+    {
+      "name": "ALCREMIE_MINT_CREAM",
+      "number": 1191,
+      "nationalDex": 869,
+      "formeNumber": 128
+    },
+    {
+      "name": "ALCREMIE_LEMON_CREAM",
+      "number": 1192,
+      "nationalDex": 869,
+      "formeNumber": 192
+    },
+    {
+      "name": "ALCREMIE_SALTED_CREAM",
+      "number": 1193,
+      "nationalDex": 869,
+      "formeNumber": 256
+    },
+    {
+      "name": "ALCREMIE_RUBY_SWIRL",
+      "number": 1194,
+      "nationalDex": 869,
+      "formeNumber": 320
+    },
+    {
+      "name": "ALCREMIE_CARAMEL_SWIRL",
+      "number": 1195,
+      "nationalDex": 869,
+      "formeNumber": 384
+    },
+    {
+      "name": "ALCREMIE_RAINBOW_SWIRL",
+      "number": 1196,
+      "nationalDex": 869,
+      "formeNumber": 448
+    }
+  ],
+  "FALINKS": [
+    {
+      "name": "FALINKS",
+      "number": 870,
+      "nationalDex": 870,
+      "formeNumber": 0
+    }
+  ],
+  "PINCURCHIN": [
+    {
+      "name": "PINCURCHIN",
+      "number": 871,
+      "nationalDex": 871,
+      "formeNumber": 0
+    }
+  ],
+  "SNOM": [
+    {
+      "name": "SNOM",
+      "number": 872,
+      "nationalDex": 872,
+      "formeNumber": 0
+    }
+  ],
+  "FROSMOTH": [
+    {
+      "name": "FROSMOTH",
+      "number": 873,
+      "nationalDex": 873,
+      "formeNumber": 0
+    }
+  ],
+  "STONJOURNER": [
+    {
+      "name": "STONJOURNER",
+      "number": 874,
+      "nationalDex": 874,
+      "formeNumber": 0
+    }
+  ],
+  "EISCUE": [
+    {
+      "name": "EISCUE",
+      "number": 875,
+      "nationalDex": 875,
+      "formeNumber": 0
+    },
+    {
+      "name": "EISCUE_NOICE_FACE",
+      "number": 1197,
+      "nationalDex": 875,
+      "formeNumber": 1
+    }
+  ],
+  "INDEEDEE": [
+    {
+      "name": "INDEEDEE",
+      "number": 876,
+      "nationalDex": 876,
+      "formeNumber": 0
+    },
+    {
+      "name": "INDEEDEE_FEMALE",
+      "number": 1198,
+      "nationalDex": 876,
+      "formeNumber": 1
+    }
+  ],
+  "MORPEKO": [
+    {
+      "name": "MORPEKO",
+      "number": 877,
+      "nationalDex": 877,
+      "formeNumber": 0
+    },
+    {
+      "name": "MORPEKO_HANGRY",
+      "number": 1199,
+      "nationalDex": 877,
+      "formeNumber": 1
+    }
+  ],
+  "CUFANT": [
+    {
+      "name": "CUFANT",
+      "number": 878,
+      "nationalDex": 878,
+      "formeNumber": 0
+    }
+  ],
+  "COPPERAJAH": [
+    {
+      "name": "COPPERAJAH",
+      "number": 879,
+      "nationalDex": 879,
+      "formeNumber": 0
+    }
+  ],
+  "DRACOZOLT": [
+    {
+      "name": "DRACOZOLT",
+      "number": 880,
+      "nationalDex": 880,
+      "formeNumber": 0
+    }
+  ],
+  "ARCTOZOLT": [
+    {
+      "name": "ARCTOZOLT",
+      "number": 881,
+      "nationalDex": 881,
+      "formeNumber": 0
+    }
+  ],
+  "DRACOVISH": [
+    {
+      "name": "DRACOVISH",
+      "number": 882,
+      "nationalDex": 882,
+      "formeNumber": 0
+    }
+  ],
+  "ARCTOVISH": [
+    {
+      "name": "ARCTOVISH",
+      "number": 883,
+      "nationalDex": 883,
+      "formeNumber": 0
+    }
+  ],
+  "DURALUDON": [
+    {
+      "name": "DURALUDON",
+      "number": 884,
+      "nationalDex": 884,
+      "formeNumber": 0
+    }
+  ],
+  "DREEPY": [
+    {
+      "name": "DREEPY",
+      "number": 885,
+      "nationalDex": 885,
+      "formeNumber": 0
+    }
+  ],
+  "DRAKLOAK": [
+    {
+      "name": "DRAKLOAK",
+      "number": 886,
+      "nationalDex": 886,
+      "formeNumber": 0
+    }
+  ],
+  "DRAGAPULT": [
+    {
+      "name": "DRAGAPULT",
+      "number": 887,
+      "nationalDex": 887,
+      "formeNumber": 0
+    }
+  ],
+  "ZACIAN": [
+    {
+      "name": "ZACIAN",
+      "number": 888,
+      "nationalDex": 888,
+      "formeNumber": 0
+    },
+    {
+      "name": "ZACIAN_CROWNED_SWORD",
+      "number": 1200,
+      "nationalDex": 888,
+      "formeNumber": 1
+    }
+  ],
+  "ZAMAZENTA": [
+    {
+      "name": "ZAMAZENTA",
+      "number": 889,
+      "nationalDex": 889,
+      "formeNumber": 0
+    },
+    {
+      "name": "ZAMAZENTA_CROWNED_SHIELD",
+      "number": 1201,
+      "nationalDex": 889,
+      "formeNumber": 1
+    }
+  ],
+  "ETERNATUS": [
+    {
+      "name": "ETERNATUS",
+      "number": 890,
+      "nationalDex": 890,
+      "formeNumber": 0
+    },
+    {
+      "name": "ETERNATUS_ETERNAMAX",
+      "number": 1202,
+      "nationalDex": 890,
+      "formeNumber": 1
+    }
+  ],
+  "KUBFU": [
+    {
+      "name": "KUBFU",
+      "number": 891,
+      "nationalDex": 891,
+      "formeNumber": 0
+    }
+  ],
+  "URSHIFU": [
+    {
+      "name": "URSHIFU",
+      "number": 892,
+      "nationalDex": 892,
+      "formeNumber": 0
+    },
+    {
+      "name": "URSHIFU_RAPID_STRIKE_STYLE",
+      "number": 1203,
+      "nationalDex": 892,
+      "formeNumber": 1
+    }
+  ],
+  "ZARUDE": [
+    {
+      "name": "ZARUDE",
+      "number": 893,
+      "nationalDex": 893,
+      "formeNumber": 0
+    },
+    {
+      "name": "ZARUDE_DADA",
+      "number": 1204,
+      "nationalDex": 893,
+      "formeNumber": 1
+    }
+  ],
+  "REGIELEKI": [
+    {
+      "name": "REGIELEKI",
+      "number": 894,
+      "nationalDex": 894,
+      "formeNumber": 0
+    }
+  ],
+  "REGIDRAGO": [
+    {
+      "name": "REGIDRAGO",
+      "number": 895,
+      "nationalDex": 895,
+      "formeNumber": 0
+    }
+  ],
+  "GLASTRIER": [
+    {
+      "name": "GLASTRIER",
+      "number": 896,
+      "nationalDex": 896,
+      "formeNumber": 0
+    }
+  ],
+  "SPECTRIER": [
+    {
+      "name": "SPECTRIER",
+      "number": 897,
+      "nationalDex": 897,
+      "formeNumber": 0
+    }
+  ],
+  "CALYREX": [
+    {
+      "name": "CALYREX",
+      "number": 898,
+      "nationalDex": 898,
+      "formeNumber": 0
+    },
+    {
+      "name": "CALYREX_ICE_RIDER",
+      "number": 1205,
+      "nationalDex": 898,
+      "formeNumber": 1
+    },
+    {
+      "name": "CALYREX_SHADOW_RIDER",
+      "number": 1206,
+      "nationalDex": 898,
+      "formeNumber": 2
+    }
+  ]
+}
