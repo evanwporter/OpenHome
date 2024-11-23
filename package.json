@@ -40,7 +40,9 @@
     "build:all": "electron-vite build && electron-builder --linux --mac --win --config",
     "release": "electron-vite build && electron-builder -wl",
     "release-mac": "electron-vite build && electron-builder --mac -p always",
-    "compare": "ts-node src/types/pkm_old/__test__/all.test.ts"
+    "compare": "ts-node src/types/pkm_old/__test__/all.test.ts",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build"
   },
   "dependencies": {
     "@electron-toolkit/preload": "^2.0.0",
@@ -48,6 +50,8 @@
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@mui/joy": "^5.0.0-beta.48",
+    "@tauri-apps/api": "^2.1.1",
+    "@tauri-apps/cli": "^2.1.0",
     "big-integer": "^1.6.51",
     "buffer": "^6.0.3",
     "chart.js": "^4.2.0",
